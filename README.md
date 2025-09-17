@@ -1,10 +1,10 @@
-Placement Forecaster 🚀
+## Placement Forecaster 🚀
 
 A web application that leverages a machine learning model to predict student placement outcomes, including potential salary, target companies, and recommended upskilling time.
 
 🌟 Live Demo: https://placement-forecast.onrender.com
 
-🔗 Problem Statement:
+## 🔗 Problem Statement:
 
 Every Student have some curiosity to check their salary based on their current skills and also they have some expectation on their salary.
 
@@ -19,7 +19,7 @@ Frontend: HTML, CSS, JavaScript
 
 ML Model: Random Forest Regressor
 
-🤖 Libraries used are:
+## 🤖 Libraries used are:
 
 numpy
 
