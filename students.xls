@@ -1,0 +1,1001 @@
+college_tier,location,domain,gpa,problem_solving_skill,leetcode_score,programming_skill,technical_skills,project_count,internship_months,current_company_tier,current_companies,current_salary_lpa,expected_company_tier,expected_companies,expected_salary_lpa,extra_hours_needed_daily
+Tier3,Hyderabad,Full Stack Development,7.77,7,144,6,"AWS, SQL, Python, Node.js",2,6,ServiceCompanies,"HCL, TCS, Infosys",6.28,ServiceCompanies,"Accenture, Cognizant, HCL",9.76,2.9
+Tier1_Private,Bangalore,UI/UX Design,6.29,3,100,4,"Adobe XD, Figma, Sketch",0,3,ServiceCompanies,"HCL, Accenture",8.05,ServiceCompanies,"TCS, Cognizant, HCL",11.19,4.8
+Tier3,Bangalore,Web Development,6.0,5,131,5,"MongoDB, HTML/CSS, React, Node.js",2,4,ServiceCompanies,"Accenture, Infosys",6.4,ServiceCompanies,"HCL, Infosys, Cognizant",9.48,3.8
+Tier2,Other,Data Science,6.0,6,122,2,"Python, SQL, Tableau",2,0,ServiceCompanies,"HCL, TCS, Accenture",8.68,ServiceCompanies,"TCS, Cognizant",13.04,6.3
+Tier3,Bangalore,Data Science,6.47,3,100,2,"Machine Learning, Python, Tableau",0,4,ServiceCompanies,"HCL, Wipro",6.43,ServiceCompanies,"Cognizant, Wipro",8.94,6.4
+Tier3,Bangalore,Mobile App Development,6.19,6,115,4,"Kotlin, Flutter, Java",3,2,ServiceCompanies,"HCL, TCS, Cognizant",9.17,ServiceCompanies,"Wipro, TCS, Infosys",13.71,4.7
+Tier2,Delhi NCR,Cloud Computing,7.37,4,100,3,"GCP, Docker, Azure",1,4,ServiceCompanies,"Accenture, Infosys",5.7,ServiceCompanies,"Accenture, Wipro",8.09,5.6
+Tier3,Other,DevOps,6.0,2,100,2,"Jenkins, Kubernetes, Linux",0,0,ServiceCompanies,"Cognizant, HCL",8.32,ServiceCompanies,"TCS, Accenture, Wipro",11.32,6.4
+Tier1_Private,Bangalore,Data Science,6.0,6,115,5,"Statistics, R, Machine Learning, SQL",2,3,ServiceCompanies,"Accenture, Cognizant, TCS",5.52,ServiceCompanies,"Accenture, Wipro, HCL",8.25,3.9
+Tier3,Hyderabad,Cybersecurity,6.0,2,100,4,"Linux, Python, Ethical Hacking",2,2,ServiceCompanies,"TCS, Wipro",8.81,ServiceCompanies,"Cognizant, Accenture, HCL",11.98,4.8
+Tier2,Hyderabad,Web Development,6.71,5,100,4,"Node.js, HTML/CSS, JavaScript",0,3,ServiceCompanies,"Wipro, HCL",7.93,ServiceCompanies,"Cognizant, HCL, Wipro",11.5,4.8
+Tier3,Bangalore,Cybersecurity,6.23,4,100,3,"Cryptography, Python, Linux",1,5,ServiceCompanies,"HCL, TCS, Infosys",8.84,ServiceCompanies,"Cognizant, TCS",12.55,5.6
+Tier3,Hyderabad,AI/ML,6.85,6,122,4,"Python, TensorFlow, ML",1,2,ServiceCompanies,"Infosys, HCL",6.41,ServiceCompanies,"Accenture, Infosys",9.63,4.7
+Tier2,Other,Cloud Computing,7.66,6,111,5,"Azure, Docker, Terraform, GCP",0,3,ServiceCompanies,"Infosys, Cognizant, TCS",6.85,ServiceCompanies,"Cognizant, TCS",10.21,4.0
+Tier3,Bangalore,Web Development,6.0,3,100,3,"HTML/CSS, JavaScript, MongoDB",2,2,ServiceCompanies,"Infosys, Wipro, Accenture",5.47,ServiceCompanies,"HCL, Wipro, Accenture",7.6,5.6
+Tier1_Private,Chennai,DevOps,6.0,4,103,2,"Docker, Linux, Jenkins",1,1,ServiceCompanies,"Cognizant, Wipro",9.18,ServiceCompanies,"Wipro, Accenture, HCL",13.06,6.4
+Tier1_Private,Hyderabad,Full Stack Development,8.92,8,170,7,"SQL, AWS, React, Node.js, Python",5,6,GrowingStartups,"Zoho, Razorpay, Postman",15.33,GrowingStartups,"Zomato, Postman",24.68,1.9
+NIT,Pune,Data Science,6.47,4,100,3,"Python, Tableau, SQL",2,3,ServiceCompanies,"HCL, Cognizant",7.26,ServiceCompanies,"Cognizant, TCS, HCL",10.31,5.6
+Tier2,Pune,Full Stack Development,7.54,6,132,5,"Python, SQL, Node.js, JavaScript",0,4,ServiceCompanies,"TCS, Cognizant",7.29,ServiceCompanies,"TCS, Cognizant, Wipro",11.02,3.8
+Tier3,Hyderabad,DevOps,6.0,5,119,5,"Docker, Jenkins, Linux, Kubernetes",1,2,ServiceCompanies,"Wipro, TCS",6.14,ServiceCompanies,"Infosys, TCS",9.02,3.9
+Tier3,Hyderabad,Mobile App Development,6.0,3,100,3,"React Native, Swift, Flutter",1,2,ServiceCompanies,"Wipro, Cognizant, TCS",6.46,ServiceCompanies,"Cognizant, Infosys",8.98,5.6
+Tier2,Pune,Full Stack Development,6.33,6,124,6,"AWS, SQL, React, JavaScript",4,3,ServiceCompanies,"HCL, Infosys",5.22,ServiceCompanies,"Accenture, Wipro",7.85,3.0
+Tier2,Bangalore,Web Development,8.48,6,103,5,"Node.js, MongoDB, HTML/CSS, JavaScript",3,4,ServiceCompanies,"TCS, HCL, Infosys",9.02,ServiceCompanies,"Infosys, Accenture",13.38,4.0
+NIT,Mumbai,Cybersecurity,7.43,7,142,5,"Linux, Ethical Hacking, Network Security, Python",4,3,ServiceCompanies,"Accenture, Wipro, Infosys",13.6,BankingFinance,"Citibank, Goldman Sachs, Barclays",21.11,3.7
+Tier1_Private,Pune,Data Science,8.97,5,100,4,"Python, Machine Learning, Statistics",0,0,ServiceCompanies,"Infosys, Accenture, Wipro",7.88,ServiceCompanies,"Wipro, TCS, Accenture",11.43,4.8
+Tier3,Chennai,Full Stack Development,8.38,7,159,5,"JavaScript, AWS, SQL, Python",3,3,ServiceCompanies,"HCL, Accenture",7.95,ServiceCompanies,"HCL, Wipro, Infosys",12.47,3.6
+Tier3,Bangalore,Cybersecurity,7.94,4,100,2,"Network Security, Python, Cryptography",0,4,ServiceCompanies,"Accenture, HCL, Wipro",9.73,ServiceCompanies,"TCS, Cognizant",13.82,6.4
+Tier1_Private,Other,Mobile App Development,7.75,4,100,2,"React Native, Kotlin, Flutter",0,4,GrowingStartups,"Postman, Zomato, Swiggy",11.5,GrowingStartups,"Zoho, Zomato, Freshworks",16.33,6.4
+Tier2,Mumbai,Mobile App Development,6.78,6,134,4,"Swift, Kotlin, Java",4,5,ServiceCompanies,"Infosys, HCL, Cognizant",8.91,ServiceCompanies,"Wipro, TCS, HCL",13.49,4.6
+Tier2,Delhi NCR,Web Development,9.94,10,183,8,"JavaScript, MongoDB, HTML/CSS, React, Node.js",3,5,TopProduct,"Uber, LinkedIn, Nvidia",16.58,FAANG,"Meta, Netflix, Microsoft",27.9,1.0
+NIT,Other,DevOps,8.96,3,100,2,"AWS, Linux, Docker",1,3,ServiceCompanies,"Wipro, Infosys, Cognizant",5.56,ServiceCompanies,"Wipro, Cognizant",7.73,6.4
+Tier3,Delhi NCR,Full Stack Development,6.0,3,100,3,"JavaScript, Python, AWS",3,1,ServiceCompanies,"Accenture, TCS, Cognizant",7.74,ServiceCompanies,"Infosys, Accenture, TCS",10.76,5.6
+Tier2,Hyderabad,UI/UX Design,6.8,7,119,5,"User Research, Adobe XD, Sketch, Prototyping",2,5,ServiceCompanies,"Infosys, TCS",7.7,ServiceCompanies,"Accenture, Wipro",11.77,3.9
+Tier3,Delhi NCR,DevOps,7.67,7,126,5,"Docker, Linux, Python, AWS",3,2,ServiceCompanies,"TCS, HCL",6.65,ServiceCompanies,"Cognizant, HCL, Infosys",10.21,3.8
+Tier3,Other,Web Development,6.37,4,100,4,"React, Node.js, MongoDB",2,2,ServiceCompanies,"HCL, Infosys, TCS",6.24,ServiceCompanies,"Accenture, HCL",8.86,4.8
+Tier1_Private,Bangalore,Web Development,6.85,5,113,3,"JavaScript, HTML/CSS, React",0,2,ServiceCompanies,"Cognizant, HCL",6.75,ServiceCompanies,"HCL, Wipro",9.88,5.5
+Tier1_Private,Other,Web Development,6.0,4,100,2,"React, JavaScript, Node.js",1,5,GrowingStartups,"Postman, Swiggy, Zoho",14.29,GrowingStartups,"Postman, Swiggy",20.29,6.4
+NIT,Chennai,Web Development,6.92,4,100,2,"React, JavaScript, HTML/CSS",0,3,ServiceCompanies,"Infosys, TCS",9.31,ServiceCompanies,"Wipro, HCL, Infosys",13.22,6.4
+NIT,Mumbai,Web Development,6.45,7,132,6,"Node.js, JavaScript, HTML/CSS, MongoDB",3,6,ServiceCompanies,"Infosys, Accenture",12.68,ServiceCompanies,"TCS, Infosys, Accenture",19.55,3.0
+Tier3,Bangalore,Web Development,6.19,3,100,3,"JavaScript, HTML/CSS, React",2,0,ServiceCompanies,"Accenture, HCL, Wipro",9.41,ServiceCompanies,"Infosys, Wipro",13.08,5.6
+Tier3,Chennai,Cloud Computing,6.0,6,105,6,"Kubernetes, Terraform, AWS, GCP",4,6,ServiceCompanies,"TCS, Wipro, Cognizant",6.73,ServiceCompanies,"TCS, Infosys",9.99,3.2
+Tier3,Pune,Web Development,8.66,6,114,7,"JavaScript, MongoDB, React, HTML/CSS, Node.js",2,3,ServiceCompanies,"Accenture, Infosys",8.34,ServiceCompanies,"HCL, Infosys, TCS",12.46,2.3
+Tier1_Private,Bangalore,Data Science,7.77,6,126,6,"SQL, R, Statistics, Machine Learning",0,2,ServiceCompanies,"Infosys, TCS, HCL",8.0,ServiceCompanies,"Infosys, Accenture",12.05,3.0
+Tier3,Delhi NCR,Data Science,6.0,6,108,4,"Machine Learning, Tableau, R",1,4,ServiceCompanies,"Infosys, Cognizant",6.44,ServiceCompanies,"Accenture, Infosys, TCS",9.58,4.8
+IIT,Hyderabad,Quality Assurance,7.91,8,155,8,"Selenium, Python, JIRA, Testing, SQL, Java",4,4,ServiceCompanies,"HCL, Wipro",9.96,BankingFinance,"HSBC, Goldman Sachs",15.89,1.2
+Tier2,Bangalore,Cloud Computing,6.54,3,100,3,"Docker, Azure, Terraform",1,4,ServiceCompanies,"TCS, HCL",6.13,ServiceCompanies,"Cognizant, HCL",8.52,5.6
+Tier1_Private,Pune,Data Science,7.06,9,202,8,"R, Tableau, Python, Statistics, SQL, Machine Learning",0,5,FAANG,"Netflix, Amazon, Google",27.04,FAANG,"Amazon, Microsoft, Google",45.21,1.0
+Tier3,Pune,AI/ML,6.22,5,100,2,"PyTorch, ML, Python",2,5,ServiceCompanies,"TCS, Infosys",6.87,ServiceCompanies,"Cognizant, Accenture, Wipro",9.96,6.4
+Tier2,Pune,Data Science,7.96,8,157,9,"Tableau, Statistics, R, Python, SQL, Machine Learning",5,6,BankingFinance,"Goldman Sachs, Deutsche, Citibank",17.35,BankingFinance,"Barclays, Goldman Sachs, JPMorgan",27.71,1.0
+Tier1_Private,Mumbai,Cloud Computing,8.22,10,221,9,"GCP, Kubernetes, Terraform, Azure, Docker, AWS",3,6,FAANG,"Microsoft, Google",40.81,FAANG,"Microsoft, Apple, Meta",70.23,1.0
+Tier3,Mumbai,AI/ML,6.27,4,100,4,"Deep Learning, PyTorch, SQL",1,1,ServiceCompanies,"Cognizant, TCS",8.59,ServiceCompanies,"Infosys, Cognizant",12.2,4.8
+IIT,Pune,DevOps,8.66,9,186,9,"Kubernetes, Docker, Jenkins, Linux, Python, AWS",1,6,FAANG,"Google, Meta, Apple",34.43,FAANG,"Microsoft, Meta, Netflix",57.02,1.0
+Tier2,Bangalore,Full Stack Development,7.36,8,161,5,"JavaScript, SQL, AWS, Python",2,6,ServiceCompanies,"Infosys, Wipro",9.94,BankingFinance,"JPMorgan, Barclays",15.91,3.6
+Tier3,Other,Cybersecurity,6.22,4,100,3,"Cryptography, Python, Ethical Hacking",2,0,ServiceCompanies,"HCL, Accenture",7.92,ServiceCompanies,"TCS, Wipro",11.25,5.6
+Tier2,Hyderabad,Full Stack Development,6.0,6,100,5,"Python, React, Node.js, AWS",1,6,ServiceCompanies,"TCS, HCL",8.19,ServiceCompanies,"Accenture, HCL",12.12,4.0
+NIT,Pune,Quality Assurance,7.28,5,113,3,"SQL, Python, Selenium",4,3,ServiceCompanies,"Accenture, Infosys, Wipro",7.68,ServiceCompanies,"Infosys, Accenture",11.24,5.5
+Tier3,Hyderabad,Full Stack Development,7.22,7,144,6,"Node.js, React, JavaScript, Python",2,4,GrowingStartups,"Zomato, Postman, Freshworks",20.77,GrowingStartups,"Zoho, Razorpay, Freshworks",32.28,2.9
+Tier1_Private,Bangalore,Mobile App Development,9.63,8,142,7,"Kotlin, Swift, React Native, Flutter, Java",3,5,ServiceCompanies,"HCL, Wipro, TCS",9.21,ServiceCompanies,"HCL, Wipro",14.57,2.1
+Tier3,Pune,Full Stack Development,8.35,6,121,4,"Python, JavaScript, SQL",0,2,ServiceCompanies,"Cognizant, TCS",7.59,ServiceCompanies,"TCS, Accenture, Infosys",11.39,4.7
+Tier2,Bangalore,Full Stack Development,10.0,9,186,7,"Node.js, SQL, JavaScript, React, AWS",1,1,ServiceCompanies,"Cognizant, Wipro, TCS",8.0,BankingFinance,"Goldman Sachs, JPMorgan",13.25,1.8
+Tier3,Other,Web Development,6.0,7,155,6,"React, HTML/CSS, MongoDB, Node.js",5,4,ServiceCompanies,"Wipro, TCS, Accenture",5.71,ServiceCompanies,"Infosys, Wipro, HCL",8.94,2.8
+Tier2,Hyderabad,Full Stack Development,6.9,5,100,5,"Python, React, Node.js, JavaScript",1,3,ServiceCompanies,"HCL, Cognizant",9.19,ServiceCompanies,"Infosys, Cognizant, TCS",13.33,4.0
+IIT,Bangalore,Cybersecurity,9.5,9,182,7,"Network Security, Cryptography, Linux, Python, Ethical Hacking",2,4,ServiceCompanies,"HCL, Accenture, Wipro",16.39,ServiceCompanies,"TCS, HCL, Infosys",27.08,1.8
+NIT,Hyderabad,Data Science,9.01,6,135,2,"Statistics, Python, SQL",1,3,ServiceCompanies,"Infosys, Cognizant, Accenture",5.83,BankingFinance,"HSBC, Barclays, Goldman Sachs",8.83,6.2
+Tier2,Hyderabad,Cybersecurity,6.18,6,105,6,"Network Security, Ethical Hacking, Linux, Cryptography",3,3,ServiceCompanies,"Accenture, HCL",6.75,ServiceCompanies,"HCL, Wipro, Accenture",10.02,3.2
+Tier3,Hyderabad,Data Science,6.12,6,111,6,"SQL, Python, Machine Learning, Tableau",5,1,ServiceCompanies,"HCL, Accenture",6.28,ServiceCompanies,"Wipro, Infosys",9.36,3.2
+NIT,Mumbai,Mobile App Development,8.31,7,172,7,"Kotlin, Flutter, Java, React Native, Swift",2,4,ServiceCompanies,"Wipro, Infosys",11.25,ServiceCompanies,"Cognizant, Accenture",17.8,1.9
+Tier2,Other,Mobile App Development,6.42,7,150,6,"Swift, Flutter, Kotlin, React Native",2,3,ServiceCompanies,"Cognizant, HCL, Wipro",4.91,ServiceCompanies,"HCL, Wipro, Cognizant",7.66,2.8
+Tier3,Bangalore,Mobile App Development,8.8,8,167,9,"React Native, Java, Swift, Flutter, Kotlin",3,6,ServiceCompanies,"Cognizant, HCL",7.97,BankingFinance,"Citibank, Barclays, JPMorgan",12.81,1.0
+Tier2,Bangalore,AI/ML,7.62,8,185,7,"SQL, TensorFlow, Deep Learning, PyTorch, ML",4,6,GrowingStartups,"Razorpay, Zoho, Freshworks",22.56,TopProduct,"LinkedIn, Nvidia",36.66,1.8
+Tier3,Hyderabad,Full Stack Development,6.46,4,100,3,"React, SQL, AWS",1,2,ServiceCompanies,"Cognizant, Infosys",8.99,ServiceCompanies,"Accenture, Cognizant, Infosys",12.77,5.6
+Tier3,Other,Web Development,6.21,9,182,7,"React, MongoDB, JavaScript, Node.js, HTML/CSS",4,5,ServiceCompanies,"Accenture, HCL",8.08,ServiceCompanies,"Infosys, HCL",13.35,1.8
+Tier2,Bangalore,Quality Assurance,6.75,5,117,6,"SQL, Selenium, Java, JIRA",4,3,ServiceCompanies,"TCS, Accenture, Cognizant",9.76,ServiceCompanies,"TCS, Cognizant, Wipro",14.32,3.1
+Tier2,Mumbai,Full Stack Development,6.0,5,100,5,"JavaScript, Python, React, AWS",3,2,ServiceCompanies,"Wipro, TCS, HCL",9.51,ServiceCompanies,"HCL, Accenture",13.79,4.0
+Tier2,Other,Cloud Computing,6.3,5,111,4,"Kubernetes, Terraform, Docker",0,2,ServiceCompanies,"HCL, Cognizant",5.07,ServiceCompanies,"Cognizant, Infosys, Wipro",7.41,4.8
+NIT,Pune,Cloud Computing,10.0,10,188,8,"Docker, Azure, AWS, Terraform, Kubernetes, GCP",1,5,FAANG,"Amazon, Netflix, Meta",33.95,FAANG,"Meta, Google",57.31,1.0
+Tier2,Bangalore,Cybersecurity,8.25,5,100,2,"Network Security, Python, Cryptography",0,5,ServiceCompanies,"TCS, Cognizant, HCL",6.85,ServiceCompanies,"Accenture, Wipro, Infosys",9.93,6.4
+Tier3,Chennai,Web Development,8.31,6,100,6,"Node.js, MongoDB, JavaScript, HTML/CSS",0,4,ServiceCompanies,"Wipro, TCS, Accenture",9.68,ServiceCompanies,"Accenture, HCL, Wipro",14.33,3.2
+Tier3,Bangalore,Full Stack Development,6.66,5,100,3,"AWS, Node.js, JavaScript",0,6,ServiceCompanies,"Accenture, Infosys",8.36,ServiceCompanies,"Cognizant, Accenture",12.12,5.6
+Tier3,Bangalore,Web Development,6.11,6,100,7,"Node.js, MongoDB, HTML/CSS, JavaScript, React",4,2,ServiceCompanies,"HCL, Cognizant",6.74,ServiceCompanies,"Infosys, Cognizant",9.98,2.4
+Tier2,Bangalore,AI/ML,7.54,5,108,4,"Python, Deep Learning, PyTorch",3,4,ServiceCompanies,"Wipro, HCL",6.9,ServiceCompanies,"Cognizant, Infosys, TCS",10.06,4.8
+Tier2,Pune,Cybersecurity,6.73,6,152,5,"Ethical Hacking, Linux, Network Security, Python",1,5,ServiceCompanies,"Accenture, Infosys",9.95,ServiceCompanies,"Accenture, Wipro",15.24,3.6
+Tier1_Private,Mumbai,Quality Assurance,6.45,5,100,2,"SQL, JIRA, Testing",3,4,GrowingStartups,"Zoho, Zomato",12.92,GrowingStartups,"Swiggy, Razorpay, Zoho",18.73,6.4
+Tier1_Private,Pune,AI/ML,8.46,7,128,5,"SQL, Python, TensorFlow, Deep Learning",2,4,ServiceCompanies,"Cognizant, Wipro, Infosys",10.44,ServiceCompanies,"Infosys, TCS",16.06,3.8
+Tier2,Pune,Cybersecurity,6.3,5,100,5,"Cryptography, Python, Network Security, Linux",2,1,ServiceCompanies,"Cognizant, Infosys, Wipro",6.94,ServiceCompanies,"Cognizant, HCL",10.06,4.0
+Tier2,Bangalore,Full Stack Development,8.11,5,100,5,"AWS, SQL, Python, Node.js",0,6,ServiceCompanies,"Infosys, Cognizant",5.55,ServiceCompanies,"Infosys, Wipro, Cognizant",8.05,4.0
+IIT,Pune,Full Stack Development,6.0,4,100,2,"Node.js, SQL, JavaScript",0,1,ServiceCompanies,"HCL, Infosys",7.46,ServiceCompanies,"Wipro, HCL",10.59,6.4
+Tier3,Hyderabad,Data Science,7.65,6,112,6,"Statistics, R, Python, Machine Learning",4,3,ServiceCompanies,"Accenture, HCL, Infosys",8.21,ServiceCompanies,"Accenture, Infosys",12.25,3.1
+Tier3,Hyderabad,Full Stack Development,6.0,5,109,5,"SQL, JavaScript, React, AWS",3,2,ServiceCompanies,"Cognizant, Infosys",6.73,ServiceCompanies,"Cognizant, Wipro, HCL",9.82,4.0
+Tier3,Mumbai,Mobile App Development,8.27,5,105,3,"Swift, React Native, Kotlin",2,1,ServiceCompanies,"Wipro, Accenture",8.37,ServiceCompanies,"TCS, Infosys, HCL",12.18,5.6
+Tier2,Bangalore,Mobile App Development,6.0,4,100,2,"Kotlin, Java, Swift",0,1,ServiceCompanies,"Accenture, Wipro, Infosys",6.72,ServiceCompanies,"HCL, Wipro, TCS",9.54,6.4
+Tier2,Pune,Cybersecurity,6.59,8,174,7,"Cryptography, Network Security, Python, Linux, Ethical Hacking",5,6,ServiceCompanies,"TCS, Cognizant, Wipro",9.45,ServiceCompanies,"TCS, Accenture",15.25,1.8
+Tier3,Mumbai,Full Stack Development,7.55,7,139,7,"React, SQL, JavaScript, Node.js, AWS",1,4,BankingFinance,"JPMorgan, Barclays, Deutsche",10.78,BankingFinance,"HSBC, Deutsche",16.7,2.1
+Tier2,Hyderabad,Web Development,8.05,4,100,4,"React, JavaScript, HTML/CSS",1,2,ServiceCompanies,"Cognizant, TCS, Wipro",6.71,ServiceCompanies,"Wipro, HCL",9.53,4.8
+Tier3,Mumbai,Full Stack Development,6.0,6,119,7,"React, SQL, Node.js, AWS, Python",4,6,ServiceCompanies,"HCL, Cognizant",6.25,ServiceCompanies,"TCS, Wipro, Infosys",9.37,2.3
+Tier3,Hyderabad,Web Development,6.0,6,126,6,"HTML/CSS, React, JavaScript, Node.js",1,2,ServiceCompanies,"Accenture, TCS, Cognizant",7.47,ServiceCompanies,"TCS, Infosys, HCL",11.25,3.0
+Tier3,Hyderabad,Cybersecurity,6.0,2,100,1,"Cryptography, Network Security, Ethical Hacking",0,1,ServiceCompanies,"TCS, HCL, Infosys",8.77,ServiceCompanies,"HCL, TCS, Infosys",11.93,7.2
+Tier1_Private,Bangalore,Cloud Computing,6.6,4,100,4,"Terraform, Docker, Azure",0,1,ServiceCompanies,"Cognizant, TCS",8.4,ServiceCompanies,"Accenture, HCL, Wipro",11.93,4.8
+Tier3,Mumbai,Cybersecurity,8.93,10,199,7,"Linux, Python, Network Security, Ethical Hacking, Cryptography",2,5,BankingFinance,"Deutsche, HSBC",15.52,GrowingStartups,"Freshworks, Swiggy, Razorpay",26.37,1.6
+Tier3,Hyderabad,Full Stack Development,7.24,3,100,1,"SQL, AWS, React",1,1,ServiceCompanies,"HCL, Cognizant, TCS",8.98,ServiceCompanies,"TCS, Infosys, Wipro",12.48,7.2
+Tier3,Other,Data Science,7.45,4,100,2,"SQL, Statistics, Python",1,2,ServiceCompanies,"Infosys, Accenture, Wipro",8.68,ServiceCompanies,"TCS, Infosys, Cognizant",12.33,6.4
+Tier2,Mumbai,Web Development,6.0,6,136,5,"MongoDB, React, HTML/CSS, Node.js",5,5,ServiceCompanies,"Cognizant, Wipro, HCL",5.85,ServiceCompanies,"Infosys, HCL, TCS",8.87,3.8
+Tier3,Bangalore,Mobile App Development,7.89,6,122,5,"Flutter, Java, Kotlin, React Native",2,6,ServiceCompanies,"Wipro, Accenture, Cognizant",6.62,ServiceCompanies,"Infosys, Accenture",9.94,3.9
+Tier1_Private,Pune,Quality Assurance,8.22,5,100,3,"Java, Testing, SQL",0,2,ServiceCompanies,"Wipro, Cognizant",9.09,ServiceCompanies,"HCL, Wipro",13.18,5.6
+Tier3,Hyderabad,Full Stack Development,6.01,7,145,6,"SQL, Python, JavaScript, React",2,2,ServiceCompanies,"HCL, Infosys, Cognizant",5.43,ServiceCompanies,"HCL, Cognizant, TCS",8.44,2.9
+Tier3,Hyderabad,Cloud Computing,8.16,6,117,2,"Docker, AWS, Kubernetes",0,5,ServiceCompanies,"Accenture, HCL",9.89,ServiceCompanies,"Wipro, HCL",14.81,6.3
+Tier2,Pune,Quality Assurance,6.19,5,100,4,"JIRA, Testing, Java",4,3,ServiceCompanies,"Cognizant, TCS",5.73,ServiceCompanies,"HCL, Wipro, TCS",8.31,4.8
+Tier3,Mumbai,Web Development,6.36,6,106,6,"React, HTML/CSS, Node.js, MongoDB",1,4,ServiceCompanies,"Cognizant, HCL, Wipro",9.84,ServiceCompanies,"TCS, Cognizant",14.62,3.2
+Tier1_Private,Hyderabad,Full Stack Development,7.66,9,180,5,"Python, React, Node.js, JavaScript",3,1,ServiceCompanies,"HCL, Cognizant",8.2,BankingFinance,"Goldman Sachs, HSBC",13.53,3.4
+Tier3,Chennai,Web Development,8.54,9,188,7,"React, Node.js, MongoDB, HTML/CSS, JavaScript",3,5,ServiceCompanies,"HCL, Cognizant, Accenture",6.26,ServiceCompanies,"HCL, TCS, Cognizant",10.38,1.7
+Tier1_Private,Other,Data Science,7.52,7,100,6,"Tableau, Statistics, SQL, Python",4,6,ServiceCompanies,"Wipro, Infosys",7.0,ServiceCompanies,"Accenture, HCL",10.57,3.2
+Tier3,Pune,DevOps,7.88,5,116,4,"AWS, Linux, Jenkins",2,3,ServiceCompanies,"Infosys, HCL",6.52,ServiceCompanies,"Cognizant, TCS",9.56,4.7
+Tier3,Other,Web Development,6.93,4,100,3,"React, HTML/CSS, Node.js",0,2,ServiceCompanies,"Wipro, HCL, Cognizant",9.37,ServiceCompanies,"Wipro, Cognizant",13.31,5.6
+Tier1_Private,Bangalore,AI/ML,8.43,6,128,4,"Deep Learning, Python, PyTorch",4,1,ServiceCompanies,"Wipro, Accenture",9.24,ServiceCompanies,"Accenture, TCS, HCL",13.93,4.6
+Tier2,Pune,Mobile App Development,6.62,8,149,6,"React Native, Flutter, Kotlin, Java",1,3,ServiceCompanies,"Accenture, TCS",9.55,ServiceCompanies,"TCS, Infosys, Cognizant",15.17,2.8
+NIT,Bangalore,Mobile App Development,6.0,3,100,3,"Swift, Flutter, React Native",0,0,ServiceCompanies,"HCL, Wipro, Infosys",5.68,ServiceCompanies,"Accenture, TCS",7.9,5.6
+Tier2,Bangalore,Web Development,8.17,6,138,4,"Node.js, React, HTML/CSS",3,4,ServiceCompanies,"Infosys, HCL, Accenture",5.85,BankingFinance,"Citibank, HSBC, JPMorgan",8.88,4.5
+Tier2,Other,Full Stack Development,6.74,5,131,5,"AWS, SQL, React, Node.js",2,1,ServiceCompanies,"Cognizant, Infosys, HCL",6.37,ServiceCompanies,"TCS, Cognizant, Wipro",9.43,3.8
+NIT,Other,Cybersecurity,6.71,4,100,3,"Python, Cryptography, Linux",0,3,ServiceCompanies,"Wipro, TCS, Accenture",5.27,ServiceCompanies,"TCS, Cognizant",7.48,5.6
+Tier3,Mumbai,Mobile App Development,6.0,7,164,6,"Flutter, Kotlin, Swift, React Native",2,3,ServiceCompanies,"Wipro, Accenture, HCL",7.73,ServiceCompanies,"HCL, TCS, Wipro",12.17,2.7
+Tier3,Bangalore,Cloud Computing,6.04,7,158,6,"Terraform, GCP, Azure, Kubernetes",2,6,ServiceCompanies,"Accenture, Cognizant",5.63,ServiceCompanies,"TCS, HCL",8.83,2.8
+Tier2,Bangalore,Mobile App Development,6.41,6,121,4,"Flutter, Java, Kotlin",2,2,ServiceCompanies,"Infosys, Accenture",5.04,ServiceCompanies,"TCS, HCL, Wipro",7.57,4.7
+Tier2,Mumbai,Mobile App Development,8.13,6,137,4,"Kotlin, Flutter, Java",2,3,ServiceCompanies,"TCS, Cognizant, HCL",6.69,ServiceCompanies,"Wipro, Infosys",10.15,4.5
+Tier3,Bangalore,Mobile App Development,8.33,8,145,6,"Flutter, Swift, Kotlin, Java",5,6,GrowingStartups,"Zoho, Freshworks, Swiggy",22.01,GrowingStartups,"Zoho, Freshworks",34.89,2.9
+Tier3,Other,Full Stack Development,6.23,8,156,6,"Python, SQL, JavaScript, AWS",0,4,ServiceCompanies,"TCS, Accenture",4.76,ServiceCompanies,"Cognizant, HCL, Infosys",7.6,2.8
+Tier3,Bangalore,Cloud Computing,6.0,4,100,3,"Terraform, Docker, AWS",0,3,ServiceCompanies,"Cognizant, TCS",6.55,ServiceCompanies,"HCL, Accenture, Wipro",9.3,5.6
+Tier1_Private,Delhi NCR,Cybersecurity,9.42,7,166,6,"Python, Network Security, Linux, Ethical Hacking",1,6,ServiceCompanies,"Accenture, TCS, Cognizant",8.33,ServiceCompanies,"Infosys, Cognizant",13.13,2.7
+Tier2,Bangalore,Quality Assurance,6.54,5,100,4,"Testing, Java, Selenium",2,3,ServiceCompanies,"Wipro, Cognizant, HCL",7.02,ServiceCompanies,"Wipro, HCL, Cognizant",10.18,4.8
+Tier2,Pune,Cloud Computing,7.36,8,148,6,"Kubernetes, Azure, Terraform, Docker",2,6,ServiceCompanies,"Infosys, Cognizant",10.76,BankingFinance,"HSBC, Goldman Sachs",17.09,2.9
+Tier2,Bangalore,Cybersecurity,6.63,6,105,6,"Linux, Ethical Hacking, Python, Network Security",0,5,ServiceCompanies,"Accenture, TCS, Wipro",9.18,ServiceCompanies,"TCS, HCL, Infosys",13.63,3.2
+Tier2,Chennai,DevOps,6.03,7,126,5,"Linux, Docker, Jenkins, Kubernetes",1,6,ServiceCompanies,"Infosys, Accenture",5.89,ServiceCompanies,"Wipro, Cognizant",9.05,3.8
+Tier3,Pune,Data Science,8.1,7,136,8,"Statistics, SQL, Python, Machine Learning, Tableau, R",3,3,BankingFinance,"Citibank, Barclays, Goldman Sachs",17.14,BankingFinance,"Citibank, JPMorgan",26.5,1.4
+Tier2,Bangalore,Web Development,7.62,5,100,6,"HTML/CSS, React, JavaScript, Node.js",4,5,ServiceCompanies,"Wipro, Infosys",6.31,ServiceCompanies,"Wipro, Cognizant",9.15,3.2
+NIT,Other,Full Stack Development,8.56,7,142,5,"AWS, SQL, Python, React",1,6,BankingFinance,"HSBC, JPMorgan, Citibank",18.78,GrowingStartups,"Postman, Swiggy, Zoho",29.15,3.7
+IIT,Mumbai,Data Science,6.86,7,144,5,"Tableau, R, Python, Statistics",3,2,ServiceCompanies,"Cognizant, Infosys, HCL",14.42,ServiceCompanies,"HCL, Infosys, Wipro",22.41,3.7
+Tier2,Chennai,AI/ML,8.24,9,224,8,"SQL, Python, PyTorch, ML, Deep Learning, TensorFlow",2,5,GrowingStartups,"Freshworks, Zomato",23.02,TopProduct,"Uber, Adobe",39.0,1.0
+Tier3,Hyderabad,Web Development,7.27,7,131,4,"MongoDB, Node.js, React",0,4,BankingFinance,"Goldman Sachs, Barclays, JPMorgan",13.63,BankingFinance,"Barclays, JPMorgan, HSBC",21.0,4.6
+Tier1_Private,Hyderabad,AI/ML,6.0,6,144,5,"Deep Learning, ML, Python, TensorFlow",1,1,ServiceCompanies,"Wipro, Accenture",5.1,ServiceCompanies,"Cognizant, Wipro",7.77,3.7
+Tier3,Hyderabad,Cloud Computing,6.41,3,100,2,"Terraform, Azure, AWS",0,1,ServiceCompanies,"Infosys, HCL",6.09,ServiceCompanies,"Accenture, HCL",8.47,6.4
+Tier3,Hyderabad,AI/ML,8.04,6,117,5,"ML, Deep Learning, TensorFlow, SQL",2,3,ServiceCompanies,"Wipro, Infosys",9.67,ServiceCompanies,"HCL, Wipro",14.48,3.9
+Tier3,Chennai,Full Stack Development,8.72,4,100,3,"JavaScript, Node.js, AWS",0,3,ServiceCompanies,"Cognizant, TCS",9.29,ServiceCompanies,"HCL, Infosys, Accenture",13.19,5.6
+Tier2,Mumbai,AI/ML,6.0,3,100,1,"ML, TensorFlow, SQL",0,2,ServiceCompanies,"Wipro, Cognizant",9.65,ServiceCompanies,"HCL, Cognizant, Infosys",13.41,7.2
+Tier2,Bangalore,Full Stack Development,6.0,5,134,3,"SQL, JavaScript, Python",2,1,ServiceCompanies,"Accenture, Wipro",5.33,ServiceCompanies,"Cognizant, Accenture",7.91,5.4
+Tier2,Mumbai,DevOps,6.58,5,120,5,"Jenkins, AWS, Linux, Docker",3,2,ServiceCompanies,"TCS, Infosys",9.46,ServiceCompanies,"Wipro, TCS, HCL",13.91,3.9
+Tier2,Delhi NCR,AI/ML,7.63,7,118,7,"Deep Learning, Python, ML, PyTorch, TensorFlow",4,3,ServiceCompanies,"Accenture, Wipro",11.24,ServiceCompanies,"Wipro, HCL",17.17,2.3
+Tier1_Private,Hyderabad,Mobile App Development,7.43,6,122,6,"React Native, Kotlin, Swift, Java",3,3,ServiceCompanies,"Accenture, TCS",8.67,ServiceCompanies,"Wipro, Cognizant",13.02,3.1
+Tier3,Pune,Mobile App Development,6.05,6,124,5,"Kotlin, Flutter, Swift, Java",1,4,ServiceCompanies,"TCS, Wipro",5.66,ServiceCompanies,"TCS, Infosys, Accenture",8.51,3.8
+Tier3,Bangalore,Mobile App Development,7.59,8,156,8,"Kotlin, Flutter, Swift, React Native, Java",3,2,BankingFinance,"Barclays, Goldman Sachs, JPMorgan",17.31,GrowingStartups,"Zomato, Freshworks, Postman",27.63,1.2
+Tier2,Bangalore,Full Stack Development,7.02,9,216,9,"JavaScript, SQL, React, AWS, Node.js, Python",3,6,TopProduct,"Nvidia, Salesforce",20.31,TopProduct,"Atlassian, Salesforce",34.24,1.0
+Tier1_Private,Mumbai,Web Development,6.0,3,100,2,"Node.js, React, MongoDB",1,3,ServiceCompanies,"Cognizant, Wipro",6.54,ServiceCompanies,"TCS, HCL, Accenture",9.09,6.4
+Tier1_Private,Pune,Data Science,7.05,5,100,3,"Tableau, Python, Statistics",5,3,ServiceCompanies,"Wipro, Cognizant",9.28,ServiceCompanies,"Cognizant, Accenture, Wipro",13.46,5.6
+Tier3,Other,Mobile App Development,6.0,5,120,4,"Kotlin, React Native, Java",2,3,ServiceCompanies,"Infosys, Accenture, HCL",6.72,ServiceCompanies,"Cognizant, Infosys",9.88,4.7
+Tier2,Chennai,DevOps,6.85,4,100,4,"Jenkins, AWS, Linux",2,1,ServiceCompanies,"TCS, Cognizant, Infosys",9.62,ServiceCompanies,"Accenture, Wipro, TCS",13.66,4.8
+Tier3,Delhi NCR,Cybersecurity,6.0,3,100,4,"Python, Cryptography, Linux",0,2,ServiceCompanies,"Infosys, HCL",9.61,ServiceCompanies,"TCS, Accenture, HCL",13.36,4.8
+NIT,Bangalore,Mobile App Development,7.49,9,179,7,"Swift, Flutter, Kotlin, React Native, Java",1,2,ServiceCompanies,"Wipro, Accenture",9.05,BankingFinance,"Citibank, Deutsche",14.92,1.8
+Tier3,Chennai,Full Stack Development,6.99,8,140,5,"AWS, React, Python, JavaScript",2,6,ServiceCompanies,"Cognizant, TCS, HCL",7.48,ServiceCompanies,"Cognizant, Infosys, HCL",11.82,3.7
+Tier3,Other,Cloud Computing,6.28,5,100,3,"Azure, AWS, Terraform",2,5,ServiceCompanies,"Cognizant, TCS",6.07,ServiceCompanies,"Wipro, Accenture, HCL",8.8,5.6
+Tier2,Delhi NCR,Mobile App Development,6.0,3,100,2,"Java, Flutter, React Native",0,5,ServiceCompanies,"Infosys, TCS",7.08,ServiceCompanies,"Cognizant, Accenture, HCL",9.84,6.4
+Tier3,Hyderabad,Quality Assurance,7.77,6,129,7,"Java, Selenium, Python, SQL, Testing",4,6,ServiceCompanies,"Wipro, HCL",8.57,ServiceCompanies,"TCS, Infosys",12.93,2.2
+Tier2,Pune,Full Stack Development,6.0,7,122,5,"Python, AWS, React, SQL",4,3,ServiceCompanies,"Wipro, HCL, Infosys",10.23,ServiceCompanies,"Infosys, Accenture, Wipro",15.67,3.9
+Tier3,Hyderabad,AI/ML,6.0,3,100,2,"TensorFlow, PyTorch, Deep Learning",1,1,ServiceCompanies,"Accenture, HCL, Wipro",5.27,ServiceCompanies,"HCL, Wipro",7.33,6.4
+Tier2,Bangalore,Full Stack Development,6.97,4,100,5,"JavaScript, AWS, Python, Node.js",2,2,ServiceCompanies,"Wipro, Accenture",7.83,ServiceCompanies,"HCL, Infosys, Wipro",11.12,4.0
+Tier2,Chennai,Cloud Computing,7.27,3,100,2,"Terraform, Docker, AWS",3,2,ServiceCompanies,"TCS, Cognizant, HCL",6.27,ServiceCompanies,"Accenture, Cognizant",8.72,6.4
+Tier2,Bangalore,Full Stack Development,9.75,9,212,6,"Node.js, SQL, Python, React",0,5,ServiceCompanies,"Accenture, TCS",6.9,BankingFinance,"Goldman Sachs, HSBC",11.61,2.3
+Tier2,Pune,AI/ML,7.06,2,100,3,"ML, PyTorch, Deep Learning",2,4,ServiceCompanies,"Accenture, Wipro, HCL",6.92,ServiceCompanies,"Infosys, Accenture, TCS",9.41,5.6
+Tier3,Hyderabad,DevOps,6.0,5,100,2,"AWS, Kubernetes, Python",1,3,ServiceCompanies,"HCL, Infosys, Wipro",9.46,ServiceCompanies,"TCS, Infosys",13.72,6.4
+Tier1_Private,Chennai,Mobile App Development,6.0,5,109,5,"Swift, Kotlin, Java, Flutter",2,3,ServiceCompanies,"Accenture, TCS, Cognizant",5.83,ServiceCompanies,"Cognizant, Wipro, HCL",8.51,4.0
+Tier2,Bangalore,Quality Assurance,6.0,5,109,5,"Testing, Java, Python, Selenium",3,6,ServiceCompanies,"HCL, Wipro",5.66,ServiceCompanies,"Accenture, TCS, Cognizant",8.26,4.0
+Tier3,Bangalore,Data Science,7.61,10,209,8,"R, SQL, Tableau, Python, Statistics, Machine Learning",1,4,TopProduct,"Adobe, LinkedIn, Atlassian",22.34,TopProduct,"Atlassian, Nvidia",38.18,1.0
+NIT,Hyderabad,Cybersecurity,7.85,7,144,7,"Python, Ethical Hacking, Cryptography, Network Security, Linux",3,1,BankingFinance,"Deutsche, Citibank",16.66,GrowingStartups,"Postman, Swiggy",25.89,2.1
+Tier2,Chennai,AI/ML,6.0,6,130,4,"Python, PyTorch, SQL",0,3,ServiceCompanies,"TCS, Wipro",7.45,ServiceCompanies,"TCS, Cognizant, Wipro",11.25,4.6
+Tier2,Chennai,AI/ML,7.84,8,160,6,"PyTorch, Deep Learning, ML, SQL",0,2,BankingFinance,"Citibank, JPMorgan, Deutsche",16.28,BankingFinance,"Deutsche, Citibank",26.05,2.8
+Tier3,Bangalore,Mobile App Development,6.0,4,100,3,"Flutter, Swift, Kotlin",1,1,ServiceCompanies,"HCL, TCS",5.12,ServiceCompanies,"HCL, Cognizant, TCS",7.27,5.6
+Tier3,Pune,DevOps,6.0,6,136,4,"Linux, Kubernetes, Jenkins",3,6,ServiceCompanies,"HCL, Accenture, TCS",9.19,ServiceCompanies,"Accenture, Wipro, Cognizant",13.93,4.6
+IIT,Pune,Data Science,9.11,8,136,6,"R, Statistics, Tableau, Python",1,1,BankingFinance,"Deutsche, Citibank, HSBC",17.15,BankingFinance,"Goldman Sachs, Deutsche, HSBC",27.03,3.0
+Tier2,Hyderabad,Data Science,6.0,5,100,5,"Statistics, Tableau, Python, Machine Learning",2,3,ServiceCompanies,"Accenture, Cognizant, HCL",8.47,ServiceCompanies,"Cognizant, Infosys",12.28,4.0
+Tier3,Pune,Web Development,6.0,4,100,3,"JavaScript, React, HTML/CSS",2,1,ServiceCompanies,"Infosys, HCL, Wipro",5.25,ServiceCompanies,"HCL, Wipro, Accenture",7.46,5.6
+Tier3,Chennai,DevOps,7.75,6,153,5,"Docker, Python, AWS, Linux",1,3,ServiceCompanies,"Infosys, Cognizant",6.5,BankingFinance,"HSBC, Citibank, JPMorgan",9.96,3.6
+Tier3,Bangalore,AI/ML,6.55,4,100,3,"Deep Learning, ML, PyTorch",2,2,ServiceCompanies,"Wipro, TCS",8.19,ServiceCompanies,"TCS, Cognizant",11.63,5.6
+Tier2,Mumbai,Mobile App Development,6.11,4,100,3,"Swift, Java, Kotlin",0,3,ServiceCompanies,"Accenture, Infosys, Cognizant",9.88,ServiceCompanies,"Infosys, Accenture",14.03,5.6
+Tier2,Other,Web Development,7.69,6,136,6,"React, HTML/CSS, Node.js, JavaScript",3,4,ServiceCompanies,"Wipro, HCL, Accenture",6.36,BankingFinance,"Citibank, Deutsche, Barclays",9.64,3.0
+Tier2,Hyderabad,DevOps,6.64,5,100,4,"Jenkins, Linux, Docker",2,2,ServiceCompanies,"Cognizant, HCL",8.45,ServiceCompanies,"TCS, HCL, Infosys",12.25,4.8
+NIT,Pune,Full Stack Development,7.2,7,150,5,"AWS, SQL, React, JavaScript",5,5,GrowingStartups,"Zoho, Freshworks",24.84,GrowingStartups,"Freshworks, Zoho",38.75,3.6
+Tier2,Hyderabad,Data Science,6.41,6,100,5,"Tableau, Statistics, Machine Learning, Python",1,5,ServiceCompanies,"TCS, Wipro, HCL",8.45,ServiceCompanies,"Accenture, Cognizant",12.51,4.0
+Tier3,Hyderabad,Mobile App Development,6.0,6,112,5,"Java, React Native, Flutter, Swift",1,2,ServiceCompanies,"Accenture, Infosys",5.75,ServiceCompanies,"Cognizant, HCL",8.58,3.9
+Tier2,Pune,Web Development,6.0,6,115,5,"React, MongoDB, JavaScript, Node.js",5,3,ServiceCompanies,"Accenture, HCL",6.56,ServiceCompanies,"Accenture, HCL",9.81,3.9
+Tier3,Mumbai,AI/ML,7.81,4,100,4,"Python, TensorFlow, ML",3,3,ServiceCompanies,"Infosys, HCL, Wipro",5.34,ServiceCompanies,"Wipro, Accenture, Cognizant",7.58,4.8
+Tier2,Bangalore,Web Development,7.06,5,105,3,"HTML/CSS, MongoDB, React",1,5,ServiceCompanies,"Wipro, Cognizant",9.11,ServiceCompanies,"Accenture, TCS, Cognizant",13.26,5.6
+Tier3,Delhi NCR,DevOps,6.57,8,136,7,"Kubernetes, AWS, Linux, Docker, Jenkins",3,3,ServiceCompanies,"Infosys, Accenture, Cognizant",9.4,ServiceCompanies,"Wipro, HCL, Infosys",14.81,2.2
+Tier2,Delhi NCR,Cybersecurity,7.6,6,122,5,"Cryptography, Ethical Hacking, Linux, Python",0,6,ServiceCompanies,"TCS, Wipro, Infosys",7.6,ServiceCompanies,"Wipro, TCS, Accenture",11.42,3.9
+Tier1_Private,Other,Web Development,8.6,7,160,6,"HTML/CSS, React, Node.js, MongoDB",3,6,BankingFinance,"HSBC, Deutsche, Barclays",17.66,BankingFinance,"Barclays, Goldman Sachs",27.73,2.8
+Tier1_Private,Bangalore,Quality Assurance,8.14,10,199,8,"Testing, Java, Python, SQL, JIRA, Selenium",4,6,FAANG,"Amazon, Microsoft, Meta",21.59,FAANG,"Microsoft, Google, Amazon",36.68,1.0
+Tier2,Bangalore,Cloud Computing,7.24,7,136,6,"GCP, Kubernetes, Terraform, Docker",5,6,ServiceCompanies,"Accenture, HCL, Cognizant",8.67,ServiceCompanies,"Wipro, TCS",13.4,3.0
+Tier3,Mumbai,Web Development,6.65,5,111,3,"Node.js, MongoDB, JavaScript",1,3,ServiceCompanies,"HCL, Cognizant, Accenture",6.93,ServiceCompanies,"TCS, Infosys",10.12,5.6
+Tier2,Pune,Web Development,6.54,2,100,2,"Node.js, HTML/CSS, JavaScript",0,4,ServiceCompanies,"Wipro, HCL",5.54,ServiceCompanies,"Infosys, HCL",7.53,6.4
+Tier2,Bangalore,Mobile App Development,6.0,5,109,5,"Kotlin, Swift, React Native, Flutter",0,4,ServiceCompanies,"TCS, HCL, Accenture",6.5,ServiceCompanies,"Accenture, TCS",9.48,4.0
+Tier3,Bangalore,Web Development,8.25,4,100,3,"MongoDB, React, Node.js",0,4,ServiceCompanies,"Cognizant, Infosys, TCS",9.69,ServiceCompanies,"Infosys, Accenture, HCL",13.76,5.6
+Tier3,Other,Full Stack Development,6.0,7,137,6,"AWS, React, Python, Node.js",1,5,ServiceCompanies,"HCL, TCS",6.27,ServiceCompanies,"Wipro, Accenture",9.7,2.9
+Tier2,Chennai,DevOps,6.73,6,110,5,"Linux, AWS, Docker, Jenkins",4,6,ServiceCompanies,"Wipro, HCL, TCS",9.95,ServiceCompanies,"Cognizant, Infosys",14.83,4.0
+Tier1_Private,Bangalore,DevOps,6.02,7,156,5,"Docker, AWS, Kubernetes, Python",1,2,ServiceCompanies,"Wipro, Infosys, TCS",7.04,ServiceCompanies,"TCS, Cognizant, Accenture",11.02,3.6
+Tier2,Hyderabad,DevOps,8.04,6,120,7,"Jenkins, Docker, Python, AWS, Linux",2,3,ServiceCompanies,"Infosys, HCL",6.29,ServiceCompanies,"HCL, TCS, Infosys",9.44,2.3
+Tier3,Chennai,Full Stack Development,6.97,6,116,5,"Node.js, SQL, AWS, JavaScript",1,3,ServiceCompanies,"Cognizant, Accenture, Wipro",6.24,ServiceCompanies,"Infosys, Accenture, HCL",9.34,3.9
+Tier2,Hyderabad,Web Development,6.0,6,122,5,"JavaScript, Node.js, React, MongoDB",2,4,ServiceCompanies,"Infosys, Cognizant",9.28,ServiceCompanies,"HCL, Wipro, TCS",13.94,3.9
+Tier3,Hyderabad,Mobile App Development,6.97,8,153,7,"React Native, Java, Flutter, Swift, Kotlin",4,5,ServiceCompanies,"TCS, HCL, Accenture",8.08,ServiceCompanies,"TCS, HCL",12.87,2.0
+Tier3,Chennai,Cloud Computing,8.59,8,161,6,"Kubernetes, Docker, GCP, AWS",5,3,GrowingStartups,"Razorpay, Zoho",12.73,GrowingStartups,"Zoho, Postman, Freshworks",20.38,2.8
+NIT,Other,Web Development,6.56,6,124,5,"MongoDB, HTML/CSS, JavaScript, Node.js",1,6,GrowingStartups,"Postman, Zoho, Freshworks",12.38,GrowingStartups,"Zomato, Swiggy",18.62,3.8
+Tier3,Hyderabad,Quality Assurance,6.82,8,141,8,"Selenium, SQL, JIRA, Python, Java, Testing",1,6,ServiceCompanies,"Infosys, TCS",9.92,ServiceCompanies,"Infosys, Wipro",15.68,1.3
+Tier1_Private,Bangalore,Web Development,6.0,5,100,3,"JavaScript, React, HTML/CSS",1,1,ServiceCompanies,"TCS, Accenture, Infosys",8.83,ServiceCompanies,"TCS, Wipro, Infosys",12.8,5.6
+Tier2,Other,Web Development,6.87,6,108,5,"HTML/CSS, MongoDB, React, Node.js",1,3,ServiceCompanies,"HCL, Infosys",5.96,ServiceCompanies,"Cognizant, TCS",8.87,4.0
+Tier3,Mumbai,Quality Assurance,6.82,5,100,4,"SQL, Testing, JIRA",2,6,ServiceCompanies,"Wipro, Cognizant, Accenture",8.68,ServiceCompanies,"Accenture, Cognizant",12.59,4.8
+Tier3,Hyderabad,DevOps,6.0,4,100,2,"Python, AWS, Jenkins",1,2,ServiceCompanies,"Cognizant, Infosys",9.58,ServiceCompanies,"Wipro, Cognizant, Accenture",13.6,6.4
+Tier3,Bangalore,Data Science,7.52,5,100,4,"R, Machine Learning, Python",3,2,ServiceCompanies,"Wipro, Cognizant",8.79,ServiceCompanies,"HCL, TCS, Wipro",12.75,4.8
+Tier2,Delhi NCR,DevOps,7.31,7,140,7,"AWS, Python, Kubernetes, Linux, Docker",1,2,GrowingStartups,"Swiggy, Zomato, Postman",15.76,GrowingStartups,"Swiggy, Zomato, Zoho",24.43,2.1
+Tier3,Delhi NCR,Data Science,7.37,4,100,3,"Statistics, SQL, R",1,0,ServiceCompanies,"Accenture, TCS, HCL",9.75,ServiceCompanies,"Infosys, Cognizant, Wipro",13.84,5.6
+NIT,Hyderabad,Cloud Computing,9.98,10,208,7,"AWS, GCP, Terraform, Kubernetes, Azure",5,1,TopProduct,"Atlassian, Salesforce",27.38,FAANG,"Amazon, Google, Netflix",46.77,1.6
+Tier1_Private,Bangalore,Web Development,7.67,7,133,5,"React, HTML/CSS, Node.js, JavaScript",2,2,ServiceCompanies,"HCL, TCS, Wipro",8.81,ServiceCompanies,"HCL, Accenture",13.59,3.8
+Tier3,Pune,Cybersecurity,8.19,7,135,6,"Linux, Cryptography, Python, Ethical Hacking",2,2,ServiceCompanies,"TCS, Infosys, Wipro",9.79,BankingFinance,"HSBC, Goldman Sachs, Deutsche",15.13,3.0
+Tier2,Pune,Cloud Computing,6.28,7,136,6,"GCP, AWS, Docker, Kubernetes",1,2,ServiceCompanies,"Accenture, Wipro, TCS",11.07,ServiceCompanies,"HCL, Infosys, TCS",17.11,3.0
+Tier3,Chennai,Data Science,6.0,3,100,1,"Statistics, Python, Tableau",0,1,ServiceCompanies,"Infosys, HCL",7.99,ServiceCompanies,"Infosys, Wipro, HCL",11.11,7.2
+Tier1_Private,Bangalore,Data Science,7.88,5,108,4,"SQL, Statistics, Tableau",3,4,GrowingStartups,"Freshworks, Razorpay",14.17,GrowingStartups,"Zoho, Postman, Zomato",20.66,4.8
+Tier1_Private,Mumbai,Mobile App Development,8.58,8,175,6,"Kotlin, Swift, Flutter, Java",2,3,ServiceCompanies,"TCS, Cognizant",12.19,BankingFinance,"JPMorgan, Deutsche",19.69,2.6
+Tier2,Pune,Web Development,6.39,5,100,3,"Node.js, React, MongoDB",1,0,ServiceCompanies,"Accenture, Infosys",9.71,ServiceCompanies,"Infosys, Wipro, Cognizant",14.08,5.6
+Tier3,Bangalore,AI/ML,7.68,6,107,4,"Python, PyTorch, SQL",3,2,ServiceCompanies,"TCS, Accenture, Cognizant",9.2,ServiceCompanies,"Cognizant, HCL",13.68,4.8
+Tier3,Other,DevOps,8.38,5,100,4,"AWS, Python, Docker",0,1,ServiceCompanies,"Cognizant, Accenture, Wipro",9.59,ServiceCompanies,"Infosys, HCL, Cognizant",13.91,4.8
+NIT,Other,AI/ML,6.59,4,100,3,"TensorFlow, SQL, Deep Learning",2,2,ServiceCompanies,"TCS, HCL, Wipro",5.6,ServiceCompanies,"Cognizant, TCS, HCL",7.95,5.6
+Tier2,Pune,DevOps,6.0,3,100,1,"Kubernetes, AWS, Python",0,4,ServiceCompanies,"Wipro, TCS, HCL",5.92,ServiceCompanies,"Accenture, TCS, Cognizant",8.23,7.2
+Tier2,Delhi NCR,AI/ML,8.14,8,145,6,"ML, TensorFlow, SQL, PyTorch",1,6,BankingFinance,"Goldman Sachs, HSBC, Deutsche",15.49,GrowingStartups,"Postman, Freshworks",24.55,2.9
+Tier3,Bangalore,Cloud Computing,6.0,7,139,5,"Docker, GCP, AWS, Terraform",3,4,ServiceCompanies,"HCL, Wipro",9.15,ServiceCompanies,"Cognizant, HCL",14.17,3.7
+Tier3,Bangalore,AI/ML,8.81,9,169,9,"TensorFlow, PyTorch, Deep Learning, SQL, Python, ML",5,6,TopProduct,"Nvidia, LinkedIn, Salesforce",15.72,TopProduct,"Adobe, Uber",25.77,1.0
+Tier3,Hyderabad,Mobile App Development,7.02,5,114,4,"Kotlin, Flutter, React Native",1,0,ServiceCompanies,"Cognizant, Wipro, Infosys",5.52,ServiceCompanies,"HCL, Wipro",8.08,4.7
+Tier2,Mumbai,AI/ML,7.39,8,164,6,"Python, TensorFlow, Deep Learning, SQL",1,5,BankingFinance,"Deutsche, JPMorgan",17.98,GrowingStartups,"Zoho, Swiggy, Zomato",28.84,2.7
+Tier3,Bangalore,Quality Assurance,6.59,2,100,2,"SQL, Java, Python",0,0,ServiceCompanies,"TCS, Wipro",7.03,ServiceCompanies,"Accenture, Infosys",9.56,6.4
+Tier1_Private,Pune,Cloud Computing,6.21,6,135,5,"AWS, Kubernetes, Azure, Terraform",2,2,ServiceCompanies,"Wipro, HCL, Accenture",5.2,ServiceCompanies,"TCS, Infosys",7.88,3.8
+NIT,Hyderabad,Cybersecurity,7.76,5,100,6,"Ethical Hacking, Linux, Python, Network Security",2,1,ServiceCompanies,"Wipro, HCL",6.67,ServiceCompanies,"Wipro, Accenture, Cognizant",9.67,3.2
+Tier2,Bangalore,Web Development,7.95,4,100,4,"HTML/CSS, Node.js, MongoDB",0,3,ServiceCompanies,"Accenture, Wipro",9.06,ServiceCompanies,"Cognizant, TCS, HCL",12.87,4.8
+Tier2,Hyderabad,Mobile App Development,6.55,3,100,2,"Kotlin, Java, React Native",1,3,ServiceCompanies,"Wipro, Cognizant, HCL",6.27,ServiceCompanies,"Wipro, Cognizant, Accenture",8.72,6.4
+NIT,Mumbai,DevOps,6.38,4,100,3,"Docker, Linux, Jenkins",1,4,GrowingStartups,"Postman, Swiggy",11.11,GrowingStartups,"Zoho, Zomato",15.78,5.6
+Tier3,Hyderabad,Data Science,7.26,6,115,4,"Tableau, SQL, Python",3,3,ServiceCompanies,"HCL, Accenture",6.02,ServiceCompanies,"TCS, Wipro",9.0,4.7
+Tier2,Chennai,Cybersecurity,6.56,5,100,3,"Network Security, Cryptography, Ethical Hacking",0,1,ServiceCompanies,"Infosys, TCS, HCL",9.32,ServiceCompanies,"Cognizant, TCS, HCL",13.51,5.6
+Tier3,Pune,Data Science,6.55,4,100,4,"Python, SQL, R",3,0,ServiceCompanies,"Accenture, Cognizant, Infosys",6.44,ServiceCompanies,"HCL, TCS",9.14,4.8
+Tier1_Private,Mumbai,Full Stack Development,7.77,6,122,5,"React, Python, JavaScript, AWS",3,6,GrowingStartups,"Freshworks, Razorpay",11.24,GrowingStartups,"Freshworks, Zomato, Postman",16.88,3.9
+Tier2,Hyderabad,Cloud Computing,6.3,6,118,4,"Azure, Terraform, GCP",3,2,ServiceCompanies,"Cognizant, Accenture, HCL",9.67,ServiceCompanies,"HCL, Accenture",14.49,4.7
+Tier2,Mumbai,Data Science,8.61,7,104,5,"Statistics, Tableau, R, Machine Learning",1,6,ServiceCompanies,"TCS, Infosys, Wipro",6.47,ServiceCompanies,"HCL, TCS, Wipro",9.8,4.0
+Tier2,Delhi NCR,Full Stack Development,9.43,5,104,5,"SQL, React, JavaScript, Node.js",3,4,ServiceCompanies,"HCL, TCS, Accenture",6.45,ServiceCompanies,"HCL, Infosys, Cognizant",9.38,4.0
+Tier2,Bangalore,Web Development,9.76,5,127,5,"HTML/CSS, Node.js, JavaScript, React",1,2,ServiceCompanies,"Infosys, TCS, HCL",9.29,ServiceCompanies,"Cognizant, Wipro",13.72,3.8
+Tier2,Bangalore,Full Stack Development,6.32,6,125,4,"JavaScript, SQL, Node.js",5,6,ServiceCompanies,"Wipro, Infosys",9.39,ServiceCompanies,"Cognizant, Wipro, Accenture",14.13,4.6
+Tier2,Bangalore,Cloud Computing,8.08,4,100,5,"Docker, Terraform, AWS, Kubernetes",4,0,ServiceCompanies,"Accenture, Wipro",7.79,ServiceCompanies,"Wipro, Accenture, Cognizant",11.06,4.0
+Tier2,Other,Web Development,8.87,5,141,4,"MongoDB, HTML/CSS, React",2,3,ServiceCompanies,"Infosys, Accenture, Wipro",9.69,ServiceCompanies,"Accenture, HCL",14.45,4.5
+Tier3,Other,Full Stack Development,7.72,5,100,5,"JavaScript, AWS, SQL, Node.js",1,2,ServiceCompanies,"TCS, Accenture",7.0,ServiceCompanies,"Infosys, Wipro, HCL",10.15,4.0
+Tier3,Pune,DevOps,6.92,6,113,5,"Jenkins, Kubernetes, Python, AWS",4,5,ServiceCompanies,"Infosys, Accenture, TCS",6.41,ServiceCompanies,"Infosys, Cognizant, HCL",9.57,3.9
+Tier3,Delhi NCR,Web Development,6.95,6,124,5,"React, JavaScript, Node.js, HTML/CSS",2,3,ServiceCompanies,"Infosys, Accenture, Wipro",6.0,ServiceCompanies,"TCS, HCL",9.02,3.8
+Tier1_Private,Other,Mobile App Development,8.83,7,112,8,"Java, React Native, Flutter, Kotlin, Swift",0,5,ServiceCompanies,"HCL, Cognizant, TCS",9.66,ServiceCompanies,"Wipro, TCS, Infosys",14.7,1.5
+Tier1_Private,Other,Web Development,8.6,10,180,9,"React, MongoDB, Node.js, JavaScript, HTML/CSS",3,6,FAANG,"Meta, Apple",30.21,FAANG,"Apple, Meta",50.75,1.0
+Tier2,Hyderabad,Cloud Computing,8.27,8,129,6,"Kubernetes, Docker, AWS, Terraform",1,3,ServiceCompanies,"Wipro, Accenture",6.03,ServiceCompanies,"HCL, Infosys, Accenture",9.46,3.0
+NIT,Pune,AI/ML,7.81,7,164,6,"PyTorch, Python, TensorFlow, Deep Learning",0,3,BankingFinance,"Goldman Sachs, Deutsche",12.14,GrowingStartups,"Postman, Swiggy",19.11,2.7
+Tier3,Other,Cloud Computing,6.0,8,166,7,"Docker, GCP, Terraform, Kubernetes, Azure",1,5,ServiceCompanies,"Wipro, TCS",6.97,ServiceCompanies,"Infosys, Wipro, HCL",11.19,1.9
+Tier1_Private,Chennai,Cloud Computing,7.26,7,128,6,"GCP, Docker, Kubernetes, Terraform",3,1,ServiceCompanies,"Infosys, Accenture, HCL",6.49,ServiceCompanies,"Accenture, Wipro",9.98,3.0
+Tier2,Other,AI/ML,7.01,8,139,7,"Python, SQL, Deep Learning, PyTorch, ML",0,4,ServiceCompanies,"TCS, Accenture, HCL",9.84,BankingFinance,"Citibank, Goldman Sachs",15.54,2.1
+Tier2,Hyderabad,Cloud Computing,7.28,4,100,3,"GCP, Docker, Terraform",1,0,ServiceCompanies,"TCS, Cognizant, Accenture",8.5,ServiceCompanies,"Cognizant, TCS, Infosys",12.07,5.6
+Tier2,Hyderabad,AI/ML,6.0,3,100,2,"PyTorch, TensorFlow, SQL",0,1,ServiceCompanies,"TCS, Infosys, Wipro",7.71,ServiceCompanies,"HCL, TCS, Wipro",10.72,6.4
+Tier3,Mumbai,AI/ML,6.0,6,118,5,"Deep Learning, SQL, Python, TensorFlow",5,1,ServiceCompanies,"Wipro, Infosys",8.37,ServiceCompanies,"Cognizant, Wipro",12.54,3.9
+Tier2,Bangalore,Web Development,7.19,6,121,5,"HTML/CSS, Node.js, JavaScript, MongoDB",1,3,ServiceCompanies,"TCS, Wipro",9.43,ServiceCompanies,"Accenture, HCL",14.15,3.9
+Tier2,Other,DevOps,6.88,7,117,6,"Python, Linux, Docker, Jenkins",2,5,ServiceCompanies,"HCL, Accenture",8.25,ServiceCompanies,"HCL, Wipro",12.6,3.1
+Tier2,Bangalore,DevOps,6.31,4,100,4,"AWS, Kubernetes, Linux",2,0,ServiceCompanies,"Wipro, Cognizant",8.87,ServiceCompanies,"TCS, Cognizant, Wipro",12.6,4.8
+Tier2,Bangalore,UI/UX Design,7.42,8,182,6,"User Research, Prototyping, Figma, Adobe XD",4,6,ServiceCompanies,"Wipro, TCS",11.75,BankingFinance,"HSBC, JPMorgan",19.06,2.6
+Tier2,Chennai,Full Stack Development,8.34,8,168,7,"React, AWS, SQL, Node.js, Python",4,3,ServiceCompanies,"Accenture, TCS, HCL",8.78,ServiceCompanies,"HCL, Accenture, Infosys",14.12,1.9
+NIT,Pune,Quality Assurance,7.72,5,102,3,"SQL, Java, Selenium",1,4,GrowingStartups,"Zoho, Postman",11.89,GrowingStartups,"Razorpay, Swiggy",17.26,5.6
+Tier3,Bangalore,Mobile App Development,7.11,5,103,3,"Flutter, Java, React Native",4,3,ServiceCompanies,"HCL, Infosys, Accenture",9.17,ServiceCompanies,"Accenture, HCL",13.32,5.6
+Tier2,Other,Data Science,6.0,2,100,1,"Tableau, R, SQL",0,1,ServiceCompanies,"TCS, Wipro",7.19,ServiceCompanies,"TCS, HCL, Accenture",9.78,7.2
+NIT,Mumbai,Data Science,7.0,8,177,6,"Tableau, R, Machine Learning, Python",3,0,BankingFinance,"HSBC, Deutsche",12.81,GrowingStartups,"Zomato, Freshworks, Postman",20.71,2.6
+Tier3,Chennai,Mobile App Development,8.67,8,145,6,"Kotlin, React Native, Swift, Flutter",0,5,ServiceCompanies,"HCL, TCS",7.73,BankingFinance,"Barclays, JPMorgan",12.25,2.9
+Tier3,Other,AI/ML,6.16,7,149,7,"Deep Learning, PyTorch, TensorFlow, Python, ML",2,5,ServiceCompanies,"Wipro, Infosys",7.19,ServiceCompanies,"Cognizant, Accenture, HCL",11.21,2.0
+Tier3,Pune,Data Science,6.46,5,100,6,"Tableau, Statistics, Python, SQL",1,2,ServiceCompanies,"Accenture, HCL, TCS",9.1,ServiceCompanies,"Cognizant, HCL",13.19,3.2
+Tier3,Other,Cloud Computing,7.31,4,100,2,"Docker, Terraform, Azure",2,4,ServiceCompanies,"TCS, Infosys, HCL",5.25,ServiceCompanies,"Cognizant, HCL",7.46,6.4
+Tier2,Hyderabad,Full Stack Development,6.0,4,100,5,"React, AWS, Node.js, JavaScript",1,2,ServiceCompanies,"Cognizant, Accenture, TCS",5.64,ServiceCompanies,"Cognizant, TCS",8.01,4.0
+Tier2,Hyderabad,Web Development,6.73,2,100,1,"HTML/CSS, MongoDB, JavaScript",0,1,ServiceCompanies,"Accenture, HCL",7.8,ServiceCompanies,"Accenture, Infosys",10.61,7.2
+Tier3,Bangalore,Web Development,7.92,9,175,7,"HTML/CSS, JavaScript, MongoDB, Node.js, React",3,4,GrowingStartups,"Freshworks, Postman, Razorpay",12.36,TopProduct,"LinkedIn, Adobe, Nvidia",20.33,1.8
+Tier3,Bangalore,Web Development,6.79,5,100,6,"MongoDB, HTML/CSS, Node.js, JavaScript",4,0,ServiceCompanies,"HCL, TCS",9.65,ServiceCompanies,"Cognizant, HCL",13.99,3.2
+Tier3,Hyderabad,DevOps,6.0,6,120,5,"Jenkins, Kubernetes, AWS, Python",3,5,ServiceCompanies,"Infosys, Cognizant, Wipro",7.29,ServiceCompanies,"Accenture, HCL, Infosys",10.94,3.9
+NIT,Bangalore,Web Development,7.42,5,100,4,"MongoDB, React, HTML/CSS",1,1,ServiceCompanies,"Infosys, Wipro, TCS",9.96,ServiceCompanies,"TCS, Cognizant, Infosys",14.44,4.8
+NIT,Hyderabad,Web Development,7.52,3,100,1,"HTML/CSS, JavaScript, React",1,1,ServiceCompanies,"HCL, TCS",6.47,ServiceCompanies,"Wipro, Infosys, TCS",8.99,7.2
+Tier3,Chennai,Mobile App Development,7.35,6,144,6,"Flutter, Kotlin, React Native, Swift",2,2,ServiceCompanies,"Wipro, Infosys",9.19,ServiceCompanies,"HCL, Cognizant",14.01,2.9
+Tier2,Hyderabad,Web Development,9.17,7,158,6,"React, JavaScript, Node.js, MongoDB",1,5,ServiceCompanies,"HCL, Cognizant, TCS",6.97,ServiceCompanies,"Cognizant, TCS",10.93,2.8
+Tier2,Hyderabad,Data Science,8.03,8,174,6,"Machine Learning, SQL, Python, Tableau",2,6,GrowingStartups,"Razorpay, Zoho, Swiggy",21.26,GrowingStartups,"Razorpay, Swiggy",34.31,2.6
+NIT,Chennai,Full Stack Development,9.08,9,169,9,"Python, AWS, Node.js, SQL, JavaScript, React",4,3,FAANG,"Amazon, Google, Meta",27.62,FAANG,"Google, Netflix, Meta",45.27,1.0
+Tier3,Delhi NCR,AI/ML,7.01,4,100,2,"Deep Learning, TensorFlow, Python",2,2,ServiceCompanies,"Wipro, TCS, Infosys",6.0,ServiceCompanies,"Accenture, Cognizant, HCL",8.52,6.4
+Tier2,Hyderabad,Web Development,7.38,5,101,5,"JavaScript, HTML/CSS, Node.js, MongoDB",4,6,ServiceCompanies,"TCS, Infosys, Accenture",5.22,ServiceCompanies,"Wipro, Cognizant",7.57,4.0
+NIT,Bangalore,Full Stack Development,6.0,4,100,3,"AWS, SQL, Node.js",2,5,GrowingStartups,"Razorpay, Freshworks, Zomato",12.02,GrowingStartups,"Zomato, Razorpay",17.07,5.6
+Tier3,Other,Data Science,8.0,8,136,6,"Statistics, Tableau, Python, Machine Learning",5,5,ServiceCompanies,"Accenture, TCS",6.52,ServiceCompanies,"TCS, Cognizant",10.28,3.0
+Tier3,Other,Web Development,6.0,7,150,5,"HTML/CSS, React, Node.js, MongoDB",0,2,ServiceCompanies,"HCL, Cognizant",4.12,ServiceCompanies,"Cognizant, Infosys, TCS",6.43,3.6
+Tier3,Chennai,Web Development,7.6,6,100,7,"React, Node.js, JavaScript, HTML/CSS, MongoDB",1,4,ServiceCompanies,"Infosys, Cognizant, Wipro",8.27,ServiceCompanies,"Infosys, Wipro",12.24,2.4
+Tier3,Bangalore,Data Science,6.0,6,117,5,"R, SQL, Tableau, Machine Learning",0,3,ServiceCompanies,"Infosys, Cognizant, Accenture",6.15,ServiceCompanies,"Cognizant, Wipro, HCL",9.21,3.9
+Tier2,Delhi NCR,Cloud Computing,6.43,4,100,3,"AWS, Azure, GCP",1,3,ServiceCompanies,"Wipro, Accenture",6.01,ServiceCompanies,"Wipro, TCS, Cognizant",8.53,5.6
+Tier3,Pune,Web Development,6.48,5,100,4,"React, MongoDB, JavaScript",0,2,ServiceCompanies,"HCL, Wipro, Accenture",5.91,ServiceCompanies,"Infosys, Wipro",8.57,4.8
+Tier3,Pune,Web Development,9.38,8,131,6,"React, JavaScript, MongoDB, HTML/CSS",0,2,BankingFinance,"Deutsche, Goldman Sachs, HSBC",18.02,BankingFinance,"Citibank, JPMorgan",28.31,3.0
+Tier2,Bangalore,Full Stack Development,7.75,6,109,6,"Python, SQL, JavaScript, Node.js",3,3,ServiceCompanies,"HCL, Cognizant, Accenture",9.0,ServiceCompanies,"Wipro, Cognizant",13.4,3.2
+NIT,Bangalore,AI/ML,7.14,1,100,1,"TensorFlow, SQL, Deep Learning",2,0,ServiceCompanies,"Infosys, TCS",9.15,ServiceCompanies,"HCL, Infosys, Cognizant",12.17,7.2
+Tier3,Bangalore,Full Stack Development,6.0,3,100,3,"Python, SQL, Node.js",3,1,ServiceCompanies,"TCS, Infosys",6.32,ServiceCompanies,"HCL, TCS, Wipro",8.78,5.6
+Tier2,Pune,Web Development,7.53,7,140,5,"Node.js, MongoDB, JavaScript, HTML/CSS",2,6,BankingFinance,"Deutsche, Goldman Sachs",13.98,BankingFinance,"Deutsche, Goldman Sachs",21.67,3.7
+Tier3,Pune,Full Stack Development,6.0,4,100,2,"SQL, Python, JavaScript",0,1,ServiceCompanies,"TCS, Accenture",8.5,ServiceCompanies,"Accenture, HCL, Cognizant",12.07,6.4
+Tier2,Bangalore,Mobile App Development,7.49,5,100,3,"Swift, React Native, Kotlin",0,3,ServiceCompanies,"HCL, Cognizant",6.08,ServiceCompanies,"Accenture, Infosys",8.82,5.6
+Tier3,Mumbai,Full Stack Development,8.49,7,155,8,"Node.js, JavaScript, SQL, Python, React, AWS",1,6,ServiceCompanies,"Accenture, HCL, TCS",8.65,BankingFinance,"JPMorgan, Barclays, Citibank",13.54,1.2
+Tier1_Private,Bangalore,Web Development,6.36,4,100,2,"HTML/CSS, JavaScript, MongoDB",0,2,ServiceCompanies,"Wipro, Accenture",8.62,ServiceCompanies,"TCS, Wipro, HCL",12.24,6.4
+Tier2,Other,Full Stack Development,6.0,6,115,6,"React, AWS, SQL, Python",1,6,ServiceCompanies,"Wipro, TCS, HCL",9.3,ServiceCompanies,"Wipro, Infosys",13.9,3.1
+Tier3,Bangalore,Full Stack Development,6.44,4,104,6,"JavaScript, AWS, Python, Node.js",0,3,ServiceCompanies,"HCL, Wipro, Accenture",9.42,ServiceCompanies,"Wipro, Infosys",13.41,3.2
+Tier3,Bangalore,Full Stack Development,6.14,5,107,3,"Python, SQL, JavaScript",2,1,ServiceCompanies,"TCS, Wipro, Infosys",6.78,ServiceCompanies,"Accenture, Wipro, TCS",9.88,5.6
+Tier2,Pune,DevOps,8.34,7,160,5,"AWS, Docker, Jenkins, Linux",2,6,BankingFinance,"Goldman Sachs, HSBC",19.34,BankingFinance,"Citibank, Barclays, HSBC",30.36,3.6
+Tier3,Mumbai,Mobile App Development,6.52,6,133,4,"Flutter, React Native, Java",2,1,ServiceCompanies,"Cognizant, TCS, Infosys",7.18,ServiceCompanies,"Infosys, Wipro, Accenture",10.86,4.6
+Tier2,Pune,Quality Assurance,6.91,4,100,4,"Testing, Java, SQL",0,2,ServiceCompanies,"Accenture, HCL, Cognizant",5.6,ServiceCompanies,"Wipro, Accenture, TCS",7.95,4.8
+Tier3,Hyderabad,AI/ML,7.47,8,163,6,"PyTorch, Python, SQL, ML",2,6,ServiceCompanies,"Accenture, Infosys",5.32,BankingFinance,"HSBC, Citibank",8.53,2.7
+Tier1_Private,Hyderabad,Cybersecurity,6.0,5,100,5,"Python, Linux, Cryptography, Network Security",2,2,ServiceCompanies,"Accenture, TCS",8.02,ServiceCompanies,"Infosys, Wipro, HCL",11.63,4.0
+Tier2,Mumbai,Web Development,6.81,3,100,1,"Node.js, MongoDB, HTML/CSS",0,0,ServiceCompanies,"TCS, Accenture, HCL",5.19,ServiceCompanies,"HCL, Wipro, Cognizant",7.21,7.2
+Tier2,Chennai,Data Science,6.84,7,141,5,"Machine Learning, Statistics, SQL, R",1,2,ServiceCompanies,"HCL, Wipro",8.11,ServiceCompanies,"Accenture, Cognizant, Infosys",12.58,3.7
+Tier3,Bangalore,Cloud Computing,8.16,6,135,5,"Kubernetes, Docker, GCP, AWS",1,5,ServiceCompanies,"TCS, HCL, Infosys",8.79,BankingFinance,"Barclays, Goldman Sachs",13.32,3.8
+Tier3,Chennai,Web Development,6.0,4,100,4,"React, MongoDB, HTML/CSS",2,2,ServiceCompanies,"Accenture, TCS, Infosys",9.71,ServiceCompanies,"Cognizant, Accenture",13.79,4.8
+Tier3,Pune,Data Science,6.92,7,136,4,"Python, Tableau, SQL",2,6,ServiceCompanies,"HCL, Cognizant, TCS",4.68,ServiceCompanies,"HCL, Infosys, Cognizant",7.24,4.6
+Tier3,Hyderabad,Quality Assurance,6.0,6,103,4,"Python, SQL, Testing",1,6,ServiceCompanies,"Accenture, Infosys",7.42,ServiceCompanies,"Cognizant, TCS, HCL",11.0,4.8
+Tier2,Mumbai,Web Development,6.0,7,163,5,"Node.js, MongoDB, HTML/CSS, React",3,4,ServiceCompanies,"Infosys, HCL",6.13,ServiceCompanies,"Wipro, HCL",9.64,3.5
+Tier3,Bangalore,Mobile App Development,9.12,5,100,3,"Java, Flutter, Kotlin",1,2,ServiceCompanies,"HCL, Accenture, Infosys",5.21,ServiceCompanies,"Wipro, Accenture",7.55,5.6
+Tier3,Chennai,Data Science,6.0,4,100,1,"Statistics, R, Machine Learning",0,2,ServiceCompanies,"Accenture, Wipro, Cognizant",8.12,ServiceCompanies,"HCL, Wipro, Accenture",11.53,7.2
+NIT,Bangalore,Mobile App Development,6.33,5,100,3,"React Native, Kotlin, Swift",3,2,ServiceCompanies,"TCS, Wipro",5.18,ServiceCompanies,"Infosys, Accenture, Wipro",7.51,5.6
+Tier1_Private,Pune,Full Stack Development,6.0,1,100,1,"JavaScript, SQL, AWS",2,0,ServiceCompanies,"Wipro, TCS, Infosys",7.17,ServiceCompanies,"Wipro, Infosys",9.54,7.2
+Tier2,Mumbai,Cloud Computing,6.0,2,100,1,"Azure, Docker, GCP",1,0,ServiceCompanies,"HCL, Wipro",7.27,ServiceCompanies,"Wipro, Accenture",9.89,7.2
+Tier3,Delhi NCR,DevOps,7.84,6,106,2,"AWS, Linux, Jenkins",0,1,ServiceCompanies,"Cognizant, Accenture, Wipro",5.13,ServiceCompanies,"Cognizant, TCS",7.62,6.4
+Tier3,Delhi NCR,Data Science,6.91,6,100,5,"R, Machine Learning, Tableau, Python",2,2,ServiceCompanies,"Wipro, Cognizant, HCL",8.12,ServiceCompanies,"Infosys, HCL, TCS",12.02,4.0
+Tier3,Chennai,Mobile App Development,6.0,6,100,4,"React Native, Kotlin, Flutter",1,6,ServiceCompanies,"TCS, Cognizant",6.77,ServiceCompanies,"Wipro, TCS, HCL",10.02,4.8
+Tier2,Bangalore,AI/ML,7.06,7,134,5,"Deep Learning, SQL, ML, PyTorch",4,5,BankingFinance,"Goldman Sachs, JPMorgan, Citibank",19.11,BankingFinance,"Citibank, Goldman Sachs",29.51,3.8
+Tier2,Mumbai,Quality Assurance,6.41,5,111,3,"Testing, JIRA, SQL",0,4,ServiceCompanies,"HCL, Infosys",5.88,ServiceCompanies,"HCL, Wipro, TCS",8.59,5.6
+Tier3,Mumbai,Full Stack Development,6.0,3,100,2,"JavaScript, AWS, Node.js",1,1,ServiceCompanies,"Cognizant, HCL, Infosys",7.85,ServiceCompanies,"Accenture, Cognizant",10.91,6.4
+Tier2,Other,Full Stack Development,7.38,9,186,7,"SQL, React, JavaScript, Python, Node.js",3,6,ServiceCompanies,"TCS, Wipro",7.72,BankingFinance,"Deutsche, Goldman Sachs, Citibank",12.78,1.8
+Tier1_Private,Other,Cybersecurity,8.88,7,130,4,"Network Security, Python, Linux",1,2,ServiceCompanies,"Infosys, Wipro",5.59,BankingFinance,"HSBC, Citibank",8.61,4.6
+IIT,Chennai,Full Stack Development,7.05,6,115,5,"Python, Node.js, AWS, SQL",1,4,GrowingStartups,"Razorpay, Zomato, Swiggy",14.4,GrowingStartups,"Zomato, Zoho, Freshworks",21.53,3.9
+Tier2,Bangalore,Web Development,6.14,3,100,4,"HTML/CSS, JavaScript, MongoDB",0,0,ServiceCompanies,"HCL, Infosys",9.26,ServiceCompanies,"TCS, HCL",12.87,4.8
+Tier3,Hyderabad,Full Stack Development,6.32,7,149,5,"SQL, JavaScript, AWS, Python",3,4,ServiceCompanies,"HCL, Cognizant, TCS",7.95,ServiceCompanies,"HCL, TCS, Cognizant",12.39,3.6
+Tier3,Delhi NCR,UI/UX Design,6.7,4,100,5,"Prototyping, Sketch, User Research, Adobe XD",1,3,ServiceCompanies,"Cognizant, HCL, Accenture",5.33,ServiceCompanies,"Cognizant, Wipro, TCS",7.57,4.0
+Tier3,Chennai,UI/UX Design,6.0,4,100,5,"Sketch, User Research, Adobe XD, Prototyping",3,4,ServiceCompanies,"HCL, Accenture",7.45,ServiceCompanies,"Wipro, Infosys, TCS",10.58,4.0
+NIT,Other,Cloud Computing,9.24,8,141,8,"Kubernetes, Docker, GCP, Azure, AWS, Terraform",5,4,ServiceCompanies,"HCL, Cognizant",8.86,ServiceCompanies,"HCL, Wipro, Infosys",14.01,1.3
+Tier2,Bangalore,Web Development,6.68,4,100,4,"Node.js, HTML/CSS, MongoDB",2,2,ServiceCompanies,"Wipro, TCS",8.41,ServiceCompanies,"TCS, Accenture",11.94,4.8
+Tier1_Private,Hyderabad,Cybersecurity,7.51,7,133,6,"Linux, Network Security, Cryptography, Ethical Hacking",5,5,BankingFinance,"HSBC, Barclays",24.6,BankingFinance,"Deutsche, HSBC, Citibank",37.96,3.0
+Tier3,Bangalore,Full Stack Development,8.06,8,142,7,"Python, Node.js, AWS, SQL, React",5,6,BankingFinance,"Barclays, Goldman Sachs, Citibank",16.54,BankingFinance,"Barclays, JPMorgan",26.17,2.1
+Tier2,Delhi NCR,Mobile App Development,6.25,6,137,5,"Swift, React Native, Kotlin, Flutter",0,3,ServiceCompanies,"Wipro, Cognizant, HCL",8.59,ServiceCompanies,"Infosys, Cognizant, TCS",13.03,3.7
+Tier3,Bangalore,Web Development,6.92,5,100,5,"JavaScript, HTML/CSS, MongoDB, React",2,0,ServiceCompanies,"TCS, Cognizant, HCL",9.16,ServiceCompanies,"Wipro, TCS",13.28,4.0
+Tier2,Hyderabad,Mobile App Development,6.0,5,102,6,"Swift, React Native, Kotlin, Java",2,6,ServiceCompanies,"Cognizant, Wipro, Infosys",9.58,ServiceCompanies,"HCL, Infosys, Accenture",13.91,3.2
+Tier2,Hyderabad,DevOps,7.51,7,145,5,"Docker, Python, Kubernetes, AWS",0,6,BankingFinance,"Barclays, Goldman Sachs, JPMorgan",13.54,GrowingStartups,"Zomato, Zoho",21.05,3.7
+Tier3,Pune,AI/ML,8.13,3,100,3,"TensorFlow, SQL, Deep Learning",3,3,ServiceCompanies,"HCL, Infosys",9.26,ServiceCompanies,"HCL, Accenture, Wipro",12.87,5.6
+Tier2,Chennai,Full Stack Development,8.43,7,133,5,"AWS, Node.js, SQL, React",2,4,ServiceCompanies,"Cognizant, TCS, Wipro",9.4,BankingFinance,"Goldman Sachs, Deutsche",14.5,3.8
+Tier2,Pune,DevOps,6.76,5,100,4,"Python, Linux, Kubernetes",3,6,ServiceCompanies,"Wipro, HCL, Cognizant",5.0,ServiceCompanies,"Cognizant, TCS",7.25,4.8
+NIT,Bangalore,Full Stack Development,7.48,7,144,6,"Python, AWS, JavaScript, SQL",2,6,GrowingStartups,"Zoho, Freshworks, Postman",30.6,GrowingStartups,"Razorpay, Freshworks",47.55,2.9
+Tier2,Bangalore,Web Development,6.67,5,119,3,"MongoDB, HTML/CSS, Node.js",1,3,ServiceCompanies,"Infosys, Accenture, TCS",6.43,ServiceCompanies,"HCL, Infosys, Cognizant",9.45,5.5
+Tier2,Mumbai,Full Stack Development,7.47,7,163,6,"Python, React, SQL, JavaScript",1,4,ServiceCompanies,"Infosys, Accenture, HCL",10.2,ServiceCompanies,"HCL, Accenture",16.04,2.7
+Tier1_Private,Pune,Full Stack Development,6.94,7,126,7,"React, JavaScript, SQL, Python, AWS",2,2,ServiceCompanies,"HCL, Cognizant, TCS",8.29,ServiceCompanies,"HCL, Accenture",12.73,2.2
+Tier3,Mumbai,Data Science,7.71,7,121,6,"Python, R, Tableau, SQL",4,4,BankingFinance,"JPMorgan, Goldman Sachs, Citibank",16.11,BankingFinance,"Goldman Sachs, Deutsche, HSBC",24.66,3.1
+Tier2,Other,AI/ML,6.0,6,115,6,"TensorFlow, ML, PyTorch, SQL",2,4,ServiceCompanies,"Accenture, Infosys, Cognizant",9.38,ServiceCompanies,"Infosys, Accenture",14.02,3.1
+Tier2,Other,AI/ML,6.61,4,100,1,"TensorFlow, SQL, ML",1,3,ServiceCompanies,"Wipro, TCS, Accenture",6.27,ServiceCompanies,"TCS, Accenture, HCL",8.9,7.2
+Tier1_Private,Delhi NCR,Quality Assurance,6.29,5,100,3,"Selenium, Testing, Java",0,3,ServiceCompanies,"Wipro, Infosys, Accenture",7.15,ServiceCompanies,"Accenture, HCL",10.37,5.6
+NIT,Chennai,Quality Assurance,6.88,3,100,2,"Selenium, JIRA, Testing",0,1,ServiceCompanies,"HCL, TCS, Wipro",7.07,ServiceCompanies,"HCL, Accenture, Wipro",9.83,6.4
+Tier3,Chennai,Cybersecurity,6.99,6,118,4,"Network Security, Linux, Ethical Hacking",1,6,ServiceCompanies,"HCL, Cognizant, Infosys",7.71,ServiceCompanies,"Infosys, Wipro, Accenture",11.55,4.7
+Tier2,Pune,Web Development,6.0,6,120,5,"JavaScript, HTML/CSS, React, Node.js",5,4,ServiceCompanies,"Infosys, Wipro",8.17,ServiceCompanies,"Infosys, TCS, HCL",12.25,3.9
+NIT,Hyderabad,Mobile App Development,6.06,7,121,5,"Flutter, React Native, Java, Swift",2,6,ServiceCompanies,"Accenture, HCL",7.42,ServiceCompanies,"TCS, HCL, Cognizant",11.36,3.9
+Tier2,Bangalore,Web Development,7.52,5,100,4,"React, MongoDB, HTML/CSS",2,6,ServiceCompanies,"Wipro, HCL, Infosys",9.89,ServiceCompanies,"HCL, Cognizant, TCS",14.34,4.8
+Tier3,Chennai,DevOps,6.7,6,128,5,"Kubernetes, Linux, AWS, Python",1,3,ServiceCompanies,"HCL, Accenture, Infosys",8.99,ServiceCompanies,"Infosys, Accenture",13.56,3.8
+Tier3,Chennai,Cybersecurity,6.98,6,136,6,"Cryptography, Linux, Network Security, Python",4,2,ServiceCompanies,"Cognizant, Accenture, Infosys",6.65,ServiceCompanies,"Wipro, Accenture",10.08,3.0
+Tier3,Other,Data Science,6.81,2,100,3,"SQL, R, Statistics",1,1,ServiceCompanies,"Cognizant, Accenture, Wipro",8.11,ServiceCompanies,"Cognizant, Accenture, Infosys",11.03,5.6
+Tier3,Pune,Full Stack Development,6.0,6,129,5,"JavaScript, Node.js, SQL, Python",2,3,ServiceCompanies,"Wipro, Infosys",7.37,ServiceCompanies,"Accenture, Infosys",11.12,3.8
+Tier1_Private,Other,Quality Assurance,6.5,3,100,2,"Java, JIRA, SQL",1,3,ServiceCompanies,"Infosys, Wipro",7.68,ServiceCompanies,"TCS, Accenture",10.68,6.4
+Tier2,Mumbai,Web Development,8.48,7,121,6,"HTML/CSS, Node.js, MongoDB, JavaScript",2,2,ServiceCompanies,"HCL, Cognizant, Infosys",11.44,ServiceCompanies,"Cognizant, HCL",17.51,3.1
+Tier3,Hyderabad,Cybersecurity,6.27,6,100,3,"Network Security, Python, Cryptography",0,2,ServiceCompanies,"TCS, Accenture, HCL",6.42,ServiceCompanies,"Infosys, Wipro, Cognizant",9.5,5.6
+Tier1_Private,Hyderabad,Web Development,7.7,4,100,2,"HTML/CSS, Node.js, MongoDB",1,0,ServiceCompanies,"HCL, TCS, Accenture",7.61,ServiceCompanies,"TCS, Accenture, Wipro",10.81,6.4
+Tier2,Delhi NCR,Full Stack Development,7.35,5,105,4,"Node.js, SQL, AWS",1,3,ServiceCompanies,"TCS, Infosys",7.96,ServiceCompanies,"Cognizant, Accenture",11.58,4.8
+Tier2,Pune,Mobile App Development,7.06,5,114,4,"React Native, Java, Swift",4,2,ServiceCompanies,"Accenture, Infosys, Wipro",6.72,ServiceCompanies,"Infosys, Wipro",9.84,4.7
+Tier3,Bangalore,Quality Assurance,6.0,4,102,3,"Testing, Java, Selenium",0,5,ServiceCompanies,"HCL, Accenture",5.4,ServiceCompanies,"Cognizant, HCL",7.68,5.6
+Tier3,Pune,Full Stack Development,7.75,5,108,3,"SQL, JavaScript, Python",1,3,ServiceCompanies,"HCL, Accenture, Cognizant",6.63,ServiceCompanies,"TCS, HCL, Infosys",9.67,5.6
+Tier2,Other,Data Science,6.33,5,110,5,"Machine Learning, SQL, Tableau, Statistics",2,3,ServiceCompanies,"Cognizant, HCL",9.38,ServiceCompanies,"TCS, Accenture, Cognizant",13.69,4.0
+Tier2,Other,AI/ML,6.06,7,152,6,"SQL, Python, PyTorch, ML",4,4,ServiceCompanies,"Accenture, HCL",6.08,ServiceCompanies,"Wipro, Infosys, HCL",9.5,2.8
+Tier3,Pune,Quality Assurance,6.0,6,123,4,"SQL, Python, Testing",1,1,ServiceCompanies,"Wipro, Accenture",8.72,ServiceCompanies,"Cognizant, Wipro, HCL",13.11,4.7
+Tier3,Hyderabad,Quality Assurance,6.0,3,100,2,"Testing, Java, Selenium",0,2,ServiceCompanies,"Wipro, Infosys",8.39,ServiceCompanies,"Cognizant, Infosys, Accenture",11.66,6.4
+Tier2,Other,Web Development,7.75,7,154,5,"JavaScript, HTML/CSS, MongoDB, React",4,4,ServiceCompanies,"Wipro, HCL, Accenture",8.47,ServiceCompanies,"Accenture, Wipro, Cognizant",13.25,3.6
+Tier2,Hyderabad,Web Development,6.04,6,117,7,"Node.js, HTML/CSS, MongoDB, React, JavaScript",2,3,ServiceCompanies,"Wipro, Infosys, TCS",11.04,ServiceCompanies,"Infosys, Wipro",16.53,2.3
+Tier3,Other,Web Development,6.46,4,100,4,"MongoDB, HTML/CSS, JavaScript",0,0,ServiceCompanies,"Cognizant, HCL",7.93,ServiceCompanies,"HCL, Infosys, TCS",11.26,4.8
+Tier1_Private,Pune,Web Development,6.19,5,110,4,"HTML/CSS, JavaScript, Node.js",1,2,ServiceCompanies,"TCS, Wipro",7.35,ServiceCompanies,"Wipro, Accenture, HCL",10.73,4.8
+Tier2,Bangalore,AI/ML,6.54,6,114,4,"Python, SQL, ML",0,2,ServiceCompanies,"Wipro, HCL",6.74,ServiceCompanies,"Cognizant, HCL",10.07,4.7
+Tier2,Hyderabad,UI/UX Design,6.44,5,111,5,"Prototyping, Adobe XD, Sketch, User Research",4,2,ServiceCompanies,"Accenture, Cognizant, Infosys",7.75,ServiceCompanies,"HCL, Infosys, Wipro",11.32,4.0
+Tier2,Hyderabad,Web Development,6.39,4,100,4,"HTML/CSS, JavaScript, React",4,3,ServiceCompanies,"Cognizant, TCS",9.95,ServiceCompanies,"TCS, Infosys, Accenture",14.13,4.8
+Tier1_Private,Delhi NCR,AI/ML,8.42,6,100,5,"SQL, TensorFlow, ML, Python",2,4,GrowingStartups,"Razorpay, Swiggy",13.9,GrowingStartups,"Zoho, Swiggy",20.57,4.0
+Tier1_Private,Chennai,Cybersecurity,8.63,7,144,5,"Network Security, Python, Linux, Cryptography",4,6,ServiceCompanies,"Infosys, TCS, Accenture",9.2,ServiceCompanies,"Infosys, TCS",14.3,3.7
+Tier2,Hyderabad,Full Stack Development,8.9,6,151,4,"Python, AWS, Node.js",4,1,ServiceCompanies,"Wipro, HCL, Cognizant",9.08,ServiceCompanies,"Cognizant, Accenture, Infosys",13.9,4.4
+Tier3,Other,Full Stack Development,6.78,6,107,6,"JavaScript, Node.js, SQL, React",5,6,ServiceCompanies,"Accenture, TCS",7.94,ServiceCompanies,"TCS, HCL",11.81,3.2
+Tier3,Bangalore,Mobile App Development,6.14,3,100,3,"Kotlin, Java, Swift",0,3,ServiceCompanies,"Wipro, Cognizant",7.85,ServiceCompanies,"Wipro, HCL",10.91,5.6
+Tier3,Pune,Data Science,6.0,5,102,5,"Machine Learning, R, SQL, Python",1,0,ServiceCompanies,"TCS, Cognizant, HCL",5.74,ServiceCompanies,"Wipro, TCS, HCL",8.33,4.0
+Tier1_Private,Other,Full Stack Development,6.0,8,166,5,"React, SQL, Node.js, JavaScript",2,2,ServiceCompanies,"HCL, Accenture, TCS",9.73,ServiceCompanies,"Accenture, Infosys, TCS",15.63,3.5
+Tier2,Hyderabad,UI/UX Design,8.15,8,161,6,"User Research, Figma, Sketch, Adobe XD",2,5,GrowingStartups,"Razorpay, Zomato, Postman",21.54,TopProduct,"Atlassian, Nvidia, Salesforce",34.49,2.8
+Tier2,Hyderabad,AI/ML,7.19,8,126,6,"SQL, PyTorch, TensorFlow, Python",2,6,ServiceCompanies,"Accenture, Cognizant, TCS",9.22,ServiceCompanies,"Cognizant, Infosys, TCS",14.44,3.0
+Tier3,Chennai,Web Development,6.0,4,100,4,"Node.js, JavaScript, MongoDB",5,2,ServiceCompanies,"TCS, Cognizant, Infosys",8.74,ServiceCompanies,"Infosys, TCS, Wipro",12.41,4.8
+Tier3,Pune,Web Development,7.35,6,100,5,"HTML/CSS, React, JavaScript, Node.js",2,6,ServiceCompanies,"Infosys, Accenture",7.28,ServiceCompanies,"Infosys, TCS, Cognizant",10.77,4.0
+Tier1_Private,Chennai,DevOps,7.48,6,120,3,"Jenkins, Docker, Kubernetes",1,0,ServiceCompanies,"Infosys, Cognizant",8.35,ServiceCompanies,"TCS, Accenture",12.52,5.5
+Tier2,Bangalore,Full Stack Development,8.08,8,160,5,"Node.js, React, JavaScript, Python",3,3,TopProduct,"Nvidia, Atlassian",19.87,TopProduct,"Atlassian, Nvidia",31.79,3.6
+Tier2,Pune,AI/ML,6.0,5,122,4,"PyTorch, ML, Deep Learning",5,3,ServiceCompanies,"HCL, Wipro",6.89,ServiceCompanies,"TCS, HCL",10.14,4.7
+Tier1_Private,Hyderabad,AI/ML,7.48,5,100,4,"Python, Deep Learning, SQL",0,4,GrowingStartups,"Zoho, Postman, Zomato",13.58,GrowingStartups,"Zoho, Swiggy, Razorpay",19.69,4.8
+Tier3,Hyderabad,Data Science,6.0,7,124,4,"Python, R, Statistics",0,3,ServiceCompanies,"Accenture, Cognizant, HCL",8.76,ServiceCompanies,"TCS, Wipro",13.44,4.6
+Tier2,Chennai,Data Science,6.0,4,100,1,"Machine Learning, SQL, R",0,3,ServiceCompanies,"HCL, Infosys, Wipro",9.47,ServiceCompanies,"Infosys, TCS",13.45,7.2
+NIT,Other,DevOps,6.84,5,102,5,"Docker, Linux, Jenkins, Kubernetes",0,3,ServiceCompanies,"HCL, TCS, Wipro",7.89,ServiceCompanies,"Accenture, Cognizant",11.46,4.0
+NIT,Bangalore,Cloud Computing,6.94,7,155,6,"AWS, Kubernetes, Terraform, Azure",3,6,ServiceCompanies,"HCL, Cognizant, Wipro",13.28,ServiceCompanies,"HCL, Accenture",20.78,2.8
+Tier1_Private,Bangalore,UI/UX Design,6.67,5,100,4,"User Research, Prototyping, Adobe XD",1,3,ServiceCompanies,"HCL, Wipro",7.52,ServiceCompanies,"Infosys, Accenture, Cognizant",10.9,4.8
+IIT,Bangalore,Full Stack Development,6.66,7,150,5,"SQL, Node.js, Python, JavaScript",2,3,ServiceCompanies,"TCS, Accenture",12.33,ServiceCompanies,"Accenture, TCS",19.23,3.6
+IIT,Hyderabad,Web Development,6.08,6,100,4,"JavaScript, HTML/CSS, React",2,0,ServiceCompanies,"Infosys, HCL",5.13,ServiceCompanies,"TCS, Accenture",7.59,4.8
+Tier3,Mumbai,Web Development,7.56,5,108,4,"React, HTML/CSS, JavaScript",3,1,ServiceCompanies,"Wipro, HCL",8.09,ServiceCompanies,"HCL, Cognizant",11.8,4.8
+Tier3,Bangalore,Web Development,8.88,8,160,7,"HTML/CSS, Node.js, MongoDB, JavaScript, React",3,3,ServiceCompanies,"Wipro, Infosys, Cognizant",8.31,BankingFinance,"JPMorgan, Barclays, Deutsche",13.3,2.0
+Tier2,Pune,AI/ML,7.91,5,110,5,"ML, TensorFlow, SQL, Deep Learning",3,1,ServiceCompanies,"Wipro, HCL, Cognizant",9.53,ServiceCompanies,"HCL, Cognizant",13.91,4.0
+NIT,Hyderabad,Mobile App Development,7.49,5,105,3,"Kotlin, Java, Flutter",3,4,GrowingStartups,"Postman, Razorpay",12.58,GrowingStartups,"Freshworks, Zoho",18.3,5.6
+Tier2,Hyderabad,Mobile App Development,9.34,6,106,7,"Swift, Kotlin, Flutter, Java, React Native",5,6,ServiceCompanies,"Cognizant, TCS, Infosys",10.07,ServiceCompanies,"Infosys, Accenture, TCS",14.96,2.4
+Tier2,Bangalore,Cloud Computing,6.76,4,100,3,"AWS, Kubernetes, Azure",1,1,ServiceCompanies,"TCS, Infosys, Cognizant",8.87,ServiceCompanies,"Accenture, HCL, Infosys",12.6,5.6
+Tier3,Delhi NCR,Web Development,6.97,8,160,5,"MongoDB, React, JavaScript, HTML/CSS",2,4,ServiceCompanies,"Wipro, Infosys, TCS",6.78,ServiceCompanies,"HCL, TCS, Accenture",10.85,3.6
+Tier2,Chennai,Mobile App Development,6.0,5,103,3,"Java, Flutter, Swift",0,2,ServiceCompanies,"Cognizant, Wipro, Infosys",8.86,ServiceCompanies,"Accenture, HCL, Wipro",12.87,5.6
+Tier2,Mumbai,Full Stack Development,6.67,5,100,5,"Node.js, AWS, JavaScript, SQL",2,3,ServiceCompanies,"TCS, Accenture, Cognizant",5.25,ServiceCompanies,"Accenture, Wipro",7.61,4.0
+Tier3,Pune,Mobile App Development,6.0,6,115,4,"Swift, Java, React Native",0,6,ServiceCompanies,"Infosys, Accenture, Cognizant",8.07,ServiceCompanies,"HCL, Accenture",12.06,4.7
+Tier2,Pune,Full Stack Development,6.0,4,100,3,"JavaScript, Python, Node.js",3,6,ServiceCompanies,"HCL, Cognizant",5.12,ServiceCompanies,"Accenture, Cognizant",7.27,5.6
+Tier3,Other,Mobile App Development,6.49,3,100,2,"Java, Swift, React Native",0,4,ServiceCompanies,"Infosys, Wipro",5.39,ServiceCompanies,"Accenture, Cognizant, Wipro",7.49,6.4
+Tier3,Hyderabad,DevOps,9.5,6,112,5,"Python, Linux, Jenkins, Kubernetes",0,3,ServiceCompanies,"Accenture, Cognizant, Infosys",9.89,ServiceCompanies,"Infosys, Accenture",14.76,3.9
+Tier1_Private,Mumbai,AI/ML,6.69,8,178,7,"SQL, PyTorch, TensorFlow, Python, Deep Learning",0,6,ServiceCompanies,"Accenture, Infosys",9.25,ServiceCompanies,"HCL, TCS",14.97,1.8
+Tier3,Other,Web Development,8.35,6,120,5,"React, JavaScript, MongoDB, HTML/CSS",2,4,ServiceCompanies,"Accenture, Infosys",7.6,ServiceCompanies,"Infosys, TCS, Cognizant",11.4,3.9
+Tier1_Private,Bangalore,DevOps,8.0,6,107,4,"Docker, Python, AWS",2,4,GrowingStartups,"Razorpay, Postman, Swiggy",14.52,GrowingStartups,"Zoho, Zomato",21.59,4.8
+Tier2,Mumbai,Full Stack Development,6.0,6,117,5,"Python, JavaScript, Node.js, React",1,2,ServiceCompanies,"HCL, Infosys, TCS",6.84,ServiceCompanies,"Infosys, TCS, Wipro",10.24,3.9
+Tier3,Other,Full Stack Development,6.92,3,100,2,"React, AWS, Node.js",1,4,ServiceCompanies,"Accenture, TCS",7.95,ServiceCompanies,"HCL, Wipro, TCS",11.05,6.4
+Tier3,Chennai,DevOps,6.17,6,122,6,"Python, Linux, Jenkins, AWS",3,3,ServiceCompanies,"HCL, TCS, Infosys",9.32,ServiceCompanies,"Cognizant, Infosys",14.0,3.1
+Tier3,Mumbai,DevOps,6.77,7,135,5,"AWS, Python, Jenkins, Kubernetes",2,2,ServiceCompanies,"Accenture, Wipro",7.3,ServiceCompanies,"Accenture, TCS, Infosys",11.28,3.8
+Tier2,Chennai,AI/ML,6.61,4,100,2,"TensorFlow, SQL, Deep Learning",1,0,ServiceCompanies,"Infosys, HCL, TCS",9.37,ServiceCompanies,"Infosys, Wipro",13.31,6.4
+NIT,Mumbai,Cybersecurity,6.0,4,100,2,"Python, Network Security, Linux",0,3,ServiceCompanies,"HCL, Accenture, Cognizant",8.11,ServiceCompanies,"Accenture, Infosys, HCL",11.52,6.4
+Tier2,Chennai,Full Stack Development,6.94,5,108,3,"Python, AWS, React",1,3,ServiceCompanies,"Wipro, Cognizant",9.72,ServiceCompanies,"Wipro, Cognizant, Infosys",14.17,5.6
+Tier2,Other,Mobile App Development,6.0,7,156,5,"Flutter, Java, Kotlin, React Native",2,0,ServiceCompanies,"Infosys, HCL",8.46,ServiceCompanies,"HCL, Cognizant, Wipro",13.25,3.6
+Tier3,Mumbai,Data Science,6.0,5,100,4,"Tableau, SQL, Machine Learning",1,0,ServiceCompanies,"Infosys, TCS, HCL",9.03,ServiceCompanies,"TCS, HCL, Infosys",13.09,4.8
+NIT,Bangalore,Mobile App Development,7.9,7,135,5,"Flutter, Swift, React Native, Java",3,4,BankingFinance,"Goldman Sachs, HSBC",27.84,BankingFinance,"Goldman Sachs, HSBC, JPMorgan",43.01,3.8
+Tier3,Hyderabad,DevOps,6.38,7,134,6,"AWS, Python, Linux, Kubernetes",2,1,ServiceCompanies,"Accenture, HCL, TCS",6.54,ServiceCompanies,"Wipro, Cognizant",10.1,3.0
+Tier3,Hyderabad,AI/ML,7.53,3,100,1,"SQL, PyTorch, ML",0,1,ServiceCompanies,"HCL, Cognizant",9.68,ServiceCompanies,"TCS, Wipro",13.46,7.2
+Tier3,Bangalore,Quality Assurance,6.0,5,100,5,"JIRA, SQL, Java, Python",2,5,ServiceCompanies,"Cognizant, HCL, Accenture",9.29,ServiceCompanies,"Accenture, Wipro",13.47,4.0
+Tier2,Pune,Quality Assurance,6.49,9,175,7,"Selenium, JIRA, SQL, Testing, Java",3,4,ServiceCompanies,"HCL, Cognizant",8.54,ServiceCompanies,"TCS, HCL",14.05,1.8
+Tier2,Hyderabad,Quality Assurance,6.36,5,104,4,"Testing, Selenium, Java",4,3,ServiceCompanies,"TCS, Cognizant, Infosys",9.24,ServiceCompanies,"Infosys, Accenture",13.43,4.8
+Tier2,Pune,Mobile App Development,8.2,6,116,6,"Java, Flutter, Kotlin, Swift",0,2,ServiceCompanies,"Cognizant, Accenture",8.16,ServiceCompanies,"HCL, Infosys",12.21,3.1
+Tier3,Delhi NCR,AI/ML,7.51,6,164,6,"TensorFlow, SQL, PyTorch, ML",1,4,ServiceCompanies,"Accenture, TCS",6.17,BankingFinance,"JPMorgan, Citibank",9.53,2.7
+Tier1_Private,Hyderabad,Full Stack Development,8.63,6,122,6,"Node.js, JavaScript, AWS, Python",2,0,ServiceCompanies,"TCS, Infosys",6.32,ServiceCompanies,"Wipro, HCL",9.49,3.1
+Tier3,Hyderabad,Cloud Computing,6.0,3,100,4,"AWS, Docker, GCP",1,0,ServiceCompanies,"Cognizant, Accenture",5.07,ServiceCompanies,"Wipro, Cognizant",7.05,4.8
+Tier3,Hyderabad,Full Stack Development,7.45,3,100,2,"Python, React, JavaScript",1,1,ServiceCompanies,"HCL, Infosys, Wipro",5.45,ServiceCompanies,"HCL, Infosys, Cognizant",7.58,6.4
+Tier3,Chennai,Cybersecurity,8.03,4,100,3,"Python, Ethical Hacking, Network Security",1,5,ServiceCompanies,"Infosys, Wipro, Cognizant",9.66,ServiceCompanies,"HCL, Accenture, Wipro",13.72,5.6
+Tier1_Private,Bangalore,Full Stack Development,7.59,7,135,4,"SQL, JavaScript, AWS",0,2,ServiceCompanies,"Wipro, HCL, Cognizant",6.37,ServiceCompanies,"TCS, HCL",9.84,4.6
+Tier3,Other,Data Science,7.29,6,134,6,"Machine Learning, Tableau, Python, SQL",5,6,ServiceCompanies,"TCS, Cognizant",8.49,ServiceCompanies,"Accenture, HCL, Cognizant",12.85,3.0
+NIT,Bangalore,AI/ML,7.39,7,122,8,"ML, Python, SQL, PyTorch, TensorFlow, Deep Learning",5,6,ServiceCompanies,"Cognizant, Wipro, Accenture",12.79,ServiceCompanies,"Accenture, HCL",19.59,1.5
+IIT,Bangalore,Mobile App Development,8.68,8,144,9,"Swift, Java, React Native, Flutter, Kotlin",5,4,GrowingStartups,"Zomato, Postman",32.17,GrowingStartups,"Postman, Zomato",50.96,1.0
+Tier3,Bangalore,Web Development,6.0,4,100,2,"Node.js, JavaScript, HTML/CSS",0,2,ServiceCompanies,"Accenture, Infosys",6.25,ServiceCompanies,"TCS, Accenture, Cognizant",8.88,6.4
+Tier2,Hyderabad,Quality Assurance,6.55,5,100,3,"SQL, Selenium, Testing",1,3,ServiceCompanies,"Cognizant, Wipro",9.29,ServiceCompanies,"HCL, Cognizant, TCS",13.47,5.6
+Tier2,Chennai,DevOps,7.92,7,140,6,"Python, Jenkins, Docker, Linux",2,4,ServiceCompanies,"Cognizant, Infosys, Accenture",6.6,ServiceCompanies,"TCS, Wipro",10.23,2.9
+NIT,Mumbai,AI/ML,7.66,6,140,7,"PyTorch, TensorFlow, Python, ML, Deep Learning",1,2,BankingFinance,"Goldman Sachs, JPMorgan, Barclays",18.78,BankingFinance,"Goldman Sachs, HSBC, Barclays",28.55,2.1
+Tier2,Hyderabad,Cloud Computing,6.0,1,100,1,"Kubernetes, AWS, Azure",0,0,ServiceCompanies,"Wipro, TCS",9.55,ServiceCompanies,"Infosys, HCL, TCS",12.7,7.2
+Tier2,Bangalore,Full Stack Development,8.79,7,172,4,"AWS, JavaScript, Node.js",2,4,ServiceCompanies,"Cognizant, TCS, Infosys",5.81,BankingFinance,"Barclays, Goldman Sachs, Citibank",9.19,4.3
+Tier2,Bangalore,Web Development,7.08,7,133,4,"MongoDB, HTML/CSS, Node.js",1,3,ServiceCompanies,"Accenture, TCS, HCL",9.62,ServiceCompanies,"HCL, Wipro, Accenture",14.84,4.6
+Tier1_Private,Hyderabad,AI/ML,7.48,5,100,4,"SQL, PyTorch, Deep Learning",1,6,GrowingStartups,"Razorpay, Freshworks",12.59,GrowingStartups,"Zomato, Freshworks, Zoho",18.26,4.8
+Tier2,Other,AI/ML,8.59,8,180,7,"Python, ML, PyTorch, SQL, TensorFlow",2,2,FAANG,"Google, Meta, Amazon",16.73,FAANG,"Amazon, Meta, Google",27.1,1.8
+Tier2,Hyderabad,DevOps,6.02,7,150,4,"Jenkins, Docker, Python",2,5,ServiceCompanies,"Cognizant, Infosys, Accenture",7.88,ServiceCompanies,"HCL, TCS",12.29,4.4
+Tier2,Pune,UI/UX Design,6.0,6,119,5,"Prototyping, User Research, Sketch, Adobe XD",1,2,ServiceCompanies,"Infosys, Wipro",8.96,ServiceCompanies,"HCL, Wipro",13.43,3.9
+Tier3,Delhi NCR,DevOps,8.12,7,122,7,"AWS, Python, Linux, Jenkins, Docker",3,3,ServiceCompanies,"Accenture, TCS, Infosys",5.28,ServiceCompanies,"Infosys, TCS",8.09,2.3
+Tier1_Private,Bangalore,Web Development,6.0,3,100,2,"React, MongoDB, HTML/CSS",2,3,ServiceCompanies,"Accenture, HCL, Cognizant",5.14,ServiceCompanies,"Cognizant, TCS, HCL",7.14,6.4
+Tier3,Chennai,Cybersecurity,7.56,6,110,5,"Ethical Hacking, Cryptography, Python, Network Security",1,6,ServiceCompanies,"Accenture, Wipro",9.57,ServiceCompanies,"TCS, Cognizant, HCL",14.26,4.0
+Tier2,Pune,DevOps,7.71,5,109,4,"Python, Linux, AWS",4,1,ServiceCompanies,"Wipro, Infosys, TCS",6.65,ServiceCompanies,"HCL, Infosys",9.7,4.8
+Tier2,Hyderabad,Data Science,7.04,3,100,2,"Tableau, Statistics, SQL",1,0,ServiceCompanies,"HCL, Wipro",9.25,ServiceCompanies,"Wipro, Cognizant, Accenture",12.86,6.4
+Tier3,Pune,DevOps,6.0,6,118,5,"Docker, Linux, Python, Kubernetes",0,2,ServiceCompanies,"Wipro, Infosys",9.53,ServiceCompanies,"TCS, HCL, Cognizant",14.28,3.9
+Tier1_Private,Mumbai,Data Science,6.0,4,100,2,"Statistics, R, Tableau",0,1,ServiceCompanies,"HCL, Wipro",7.21,ServiceCompanies,"Accenture, HCL, Wipro",10.24,6.4
+Tier2,Hyderabad,Web Development,6.0,5,118,3,"Node.js, HTML/CSS, JavaScript",0,1,ServiceCompanies,"HCL, Infosys, Cognizant",7.34,ServiceCompanies,"Cognizant, Infosys, HCL",10.78,5.5
+NIT,Hyderabad,Data Science,7.46,6,114,4,"Python, SQL, Tableau",1,1,ServiceCompanies,"Infosys, Wipro, TCS",7.81,ServiceCompanies,"Cognizant, Infosys, Wipro",11.67,4.7
+Tier2,Pune,DevOps,7.54,6,100,6,"Docker, AWS, Linux, Kubernetes",3,6,ServiceCompanies,"Wipro, Cognizant",9.03,ServiceCompanies,"Cognizant, TCS",13.36,3.2
+Tier2,Delhi NCR,DevOps,7.32,5,100,4,"Jenkins, AWS, Docker",2,1,ServiceCompanies,"Accenture, TCS",6.24,ServiceCompanies,"Infosys, Wipro",9.05,4.8
+Tier1_Private,Bangalore,Web Development,6.0,5,100,4,"HTML/CSS, JavaScript, React",0,1,ServiceCompanies,"HCL, TCS, Cognizant",9.56,ServiceCompanies,"Cognizant, Infosys",13.86,4.8
+Tier3,Pune,Mobile App Development,6.0,7,167,5,"React Native, Flutter, Kotlin, Swift",1,6,ServiceCompanies,"TCS, Wipro",7.43,ServiceCompanies,"Wipro, Accenture",11.72,3.5
+Tier1_Private,Hyderabad,Data Science,7.91,8,175,6,"Statistics, Tableau, SQL, R",4,5,ServiceCompanies,"Infosys, Wipro, Cognizant",10.89,BankingFinance,"Barclays, Deutsche",17.59,2.6
+Tier2,Other,Data Science,6.21,6,119,6,"Python, R, Statistics, SQL",1,6,ServiceCompanies,"Accenture, Cognizant",5.77,ServiceCompanies,"Infosys, Wipro, Cognizant",8.65,3.1
+Tier2,Pune,Data Science,7.11,8,154,8,"Python, Tableau, Machine Learning, SQL, Statistics, R",1,3,ServiceCompanies,"Wipro, HCL, Accenture",9.0,ServiceCompanies,"Cognizant, Wipro",14.35,1.2
+Tier3,Bangalore,Full Stack Development,6.8,5,100,5,"SQL, Python, React, AWS",2,2,ServiceCompanies,"Accenture, HCL",9.72,ServiceCompanies,"HCL, TCS, Cognizant",14.09,4.0
+Tier2,Bangalore,Mobile App Development,6.43,3,100,2,"Flutter, Java, Swift",0,1,ServiceCompanies,"Infosys, Cognizant, Wipro",5.94,ServiceCompanies,"Cognizant, Infosys",8.26,6.4
+Tier1_Private,Pune,AI/ML,8.21,5,100,3,"Deep Learning, PyTorch, TensorFlow",1,4,GrowingStartups,"Zoho, Postman, Swiggy",10.76,GrowingStartups,"Razorpay, Zoho",15.6,5.6
+Tier2,Pune,Mobile App Development,8.41,8,156,8,"React Native, Java, Kotlin, Flutter, Swift",3,5,GrowingStartups,"Postman, Razorpay, Zoho",25.73,GrowingStartups,"Postman, Zomato",41.07,1.2
+Tier1_Private,Bangalore,Cybersecurity,8.43,6,106,3,"Cryptography, Python, Ethical Hacking",0,4,GrowingStartups,"Zoho, Swiggy, Postman",11.47,GrowingStartups,"Freshworks, Zoho",17.04,5.6
+Tier2,Other,AI/ML,8.15,7,138,8,"Deep Learning, PyTorch, TensorFlow, Python, SQL, ML",5,3,ServiceCompanies,"Infosys, Accenture, Wipro",7.79,BankingFinance,"Citibank, Deutsche",12.06,1.3
+Tier3,Pune,UI/UX Design,6.12,6,118,4,"Sketch, Figma, Adobe XD",1,5,ServiceCompanies,"Infosys, Wipro, HCL",6.38,ServiceCompanies,"Wipro, Cognizant",9.56,4.7
+Tier3,Bangalore,Mobile App Development,8.64,7,148,8,"Java, Swift, Kotlin, React Native, Flutter",4,3,ServiceCompanies,"Accenture, Infosys",8.41,BankingFinance,"JPMorgan, Citibank",13.1,1.3
+Tier2,Bangalore,AI/ML,6.81,6,126,3,"ML, Deep Learning, Python",0,5,ServiceCompanies,"HCL, Accenture, Infosys",5.6,ServiceCompanies,"HCL, Wipro",8.43,5.4
+NIT,Chennai,AI/ML,6.77,5,100,3,"Deep Learning, TensorFlow, PyTorch",2,3,ServiceCompanies,"Infosys, Wipro, HCL",9.22,ServiceCompanies,"Cognizant, HCL, TCS",13.37,5.6
+Tier3,Bangalore,Full Stack Development,7.46,5,100,5,"React, Node.js, SQL, AWS",3,3,ServiceCompanies,"Wipro, Accenture, TCS",6.9,ServiceCompanies,"Accenture, TCS, Infosys",10.01,4.0
+Tier3,Chennai,Web Development,6.0,7,132,7,"HTML/CSS, Node.js, React, MongoDB, JavaScript",1,4,ServiceCompanies,"Accenture, Wipro, TCS",5.51,ServiceCompanies,"HCL, Infosys",8.5,2.2
+Tier3,Delhi NCR,Web Development,7.97,6,124,5,"MongoDB, HTML/CSS, JavaScript, Node.js",3,3,ServiceCompanies,"HCL, TCS, Wipro",9.19,ServiceCompanies,"Infosys, TCS, Accenture",13.82,3.8
+NIT,Hyderabad,Cybersecurity,7.38,7,142,3,"Network Security, Cryptography, Linux",1,3,ServiceCompanies,"Wipro, Cognizant, HCL",11.34,BankingFinance,"Citibank, Goldman Sachs, Deutsche",17.6,5.3
+Tier2,Mumbai,DevOps,7.12,2,100,2,"Jenkins, Kubernetes, AWS",0,3,ServiceCompanies,"Accenture, HCL, TCS",6.43,ServiceCompanies,"Infosys, HCL, TCS",8.74,6.4
+Tier3,Other,Full Stack Development,6.9,5,100,5,"React, JavaScript, Python, Node.js",0,1,ServiceCompanies,"Wipro, TCS",6.77,ServiceCompanies,"Accenture, HCL, Wipro",9.82,4.0
+NIT,Bangalore,Cybersecurity,9.32,6,121,6,"Network Security, Cryptography, Ethical Hacking, Linux",3,2,ServiceCompanies,"Accenture, Infosys, TCS",6.07,ServiceCompanies,"HCL, Wipro",9.11,3.1
+NIT,Other,Cybersecurity,6.66,4,100,4,"Network Security, Ethical Hacking, Cryptography",0,3,ServiceCompanies,"Wipro, HCL, Infosys",7.98,ServiceCompanies,"Cognizant, Wipro, Accenture",11.33,4.8
+Tier2,Bangalore,Mobile App Development,8.35,7,149,6,"Java, React Native, Swift, Flutter",1,2,BankingFinance,"Barclays, JPMorgan, Deutsche",16.68,GrowingStartups,"Postman, Razorpay",26.0,2.8
+NIT,Chennai,Cloud Computing,8.26,7,159,5,"Terraform, GCP, Kubernetes, Docker",0,2,ServiceCompanies,"HCL, Infosys",11.22,BankingFinance,"HSBC, Citibank",17.6,3.6
+Tier3,Bangalore,Data Science,7.86,6,105,4,"Tableau, Python, SQL",1,6,ServiceCompanies,"Cognizant, Wipro, HCL",6.74,ServiceCompanies,"HCL, TCS, Infosys",10.01,4.8
+Tier3,Delhi NCR,Cloud Computing,6.32,5,114,5,"AWS, Terraform, Docker, Kubernetes",1,2,ServiceCompanies,"Wipro, Accenture",5.19,ServiceCompanies,"Wipro, Infosys",7.6,3.9
+Tier2,Mumbai,Quality Assurance,6.13,6,122,4,"Python, SQL, JIRA",1,5,ServiceCompanies,"HCL, TCS",6.09,ServiceCompanies,"HCL, Cognizant, Wipro",9.15,4.7
+NIT,Other,Web Development,7.94,8,153,6,"MongoDB, JavaScript, Node.js, HTML/CSS",2,1,ServiceCompanies,"Wipro, Accenture, TCS",7.36,BankingFinance,"Barclays, HSBC",11.72,2.8
+Tier2,Pune,Data Science,10.0,6,106,4,"SQL, Machine Learning, Python",1,6,ServiceCompanies,"Cognizant, Wipro",7.62,ServiceCompanies,"Infosys, Wipro",11.32,4.8
+Tier3,Bangalore,AI/ML,8.48,8,150,6,"ML, SQL, PyTorch, TensorFlow",1,6,BankingFinance,"Goldman Sachs, Citibank",20.23,GrowingStartups,"Freshworks, Zoho, Swiggy",32.17,2.8
+Tier2,Pune,Mobile App Development,6.0,7,134,6,"React Native, Kotlin, Flutter, Swift",1,6,ServiceCompanies,"HCL, Cognizant, TCS",10.2,ServiceCompanies,"Wipro, Accenture, HCL",15.75,3.0
+Tier2,Delhi NCR,DevOps,8.41,7,120,5,"AWS, Docker, Kubernetes, Linux",3,6,ServiceCompanies,"Cognizant, Accenture, TCS",9.07,ServiceCompanies,"Infosys, Cognizant, TCS",13.88,3.9
+Tier2,Chennai,Quality Assurance,6.0,5,117,5,"JIRA, Python, Selenium, SQL",0,3,ServiceCompanies,"Wipro, Infosys",5.23,ServiceCompanies,"Accenture, HCL, TCS",7.67,3.9
+Tier3,Delhi NCR,Mobile App Development,6.0,4,100,4,"Flutter, Swift, Java",3,2,ServiceCompanies,"Wipro, TCS, Infosys",8.04,ServiceCompanies,"Wipro, HCL",11.42,4.8
+Tier3,Chennai,Mobile App Development,6.82,6,124,5,"Swift, Java, React Native, Flutter",2,4,ServiceCompanies,"Infosys, Wipro",7.99,ServiceCompanies,"TCS, Cognizant",12.02,3.8
+Tier2,Chennai,Cloud Computing,6.51,7,146,6,"Docker, Terraform, Kubernetes, GCP",1,2,ServiceCompanies,"Infosys, HCL, Wipro",10.25,ServiceCompanies,"HCL, TCS",15.95,2.9
+Tier2,Hyderabad,Mobile App Development,7.36,8,150,5,"Flutter, React Native, Swift, Kotlin",2,5,ServiceCompanies,"Cognizant, Accenture",10.39,BankingFinance,"HSBC, Goldman Sachs",16.52,3.6
+Tier3,Chennai,Data Science,6.45,5,102,4,"Machine Learning, Statistics, R",0,2,ServiceCompanies,"HCL, TCS, Cognizant",7.22,ServiceCompanies,"Infosys, Cognizant, Accenture",10.48,4.8
+Tier2,Hyderabad,Cybersecurity,8.16,5,100,4,"Linux, Cryptography, Ethical Hacking",4,1,ServiceCompanies,"TCS, HCL, Cognizant",9.02,ServiceCompanies,"Cognizant, Wipro, TCS",13.08,4.8
+Tier1_Private,Bangalore,Web Development,7.42,7,124,7,"MongoDB, React, JavaScript, Node.js, HTML/CSS",5,6,ServiceCompanies,"Cognizant, TCS",11.41,ServiceCompanies,"Cognizant, TCS",17.5,2.2
+Tier2,Mumbai,AI/ML,6.71,8,179,5,"Python, SQL, ML, Deep Learning",0,6,ServiceCompanies,"Wipro, TCS",7.69,ServiceCompanies,"TCS, Accenture, HCL",12.45,3.4
+Tier3,Chennai,Web Development,8.14,4,100,2,"HTML/CSS, JavaScript, React",1,2,ServiceCompanies,"TCS, HCL",5.02,ServiceCompanies,"HCL, TCS, Cognizant",7.13,6.4
+NIT,Chennai,DevOps,9.76,8,153,6,"Docker, Linux, Jenkins, Kubernetes",4,2,ServiceCompanies,"Wipro, TCS",12.41,BankingFinance,"Citibank, Deutsche",19.77,2.8
+Tier2,Hyderabad,AI/ML,8.62,5,100,4,"TensorFlow, Python, SQL",2,1,ServiceCompanies,"Wipro, Infosys",9.9,ServiceCompanies,"Accenture, TCS, Infosys",14.36,4.8
+Tier2,Pune,UI/UX Design,7.21,7,106,6,"Figma, User Research, Adobe XD, Prototyping",5,2,ServiceCompanies,"Accenture, Infosys",9.61,ServiceCompanies,"HCL, Accenture, TCS",14.57,3.2
+Tier2,Delhi NCR,Web Development,7.27,8,148,8,"React, JavaScript, Node.js, HTML/CSS, MongoDB",4,4,ServiceCompanies,"TCS, Accenture",12.17,ServiceCompanies,"TCS, Wipro, Cognizant",19.33,1.3
+Tier3,Pune,Mobile App Development,6.28,6,129,5,"Swift, Flutter, React Native, Kotlin",2,2,ServiceCompanies,"Wipro, HCL, Infosys",9.44,ServiceCompanies,"Infosys, Wipro",14.24,3.8
+Tier3,Delhi NCR,DevOps,6.0,5,114,4,"Python, AWS, Kubernetes",5,2,ServiceCompanies,"HCL, Infosys, Accenture",8.89,ServiceCompanies,"Infosys, Cognizant, TCS",13.01,4.7
+NIT,Hyderabad,AI/ML,6.0,7,117,5,"Deep Learning, ML, TensorFlow, Python",1,6,ServiceCompanies,"Cognizant, Infosys, TCS",8.76,ServiceCompanies,"HCL, Wipro, Infosys",13.38,3.9
+Tier1_Private,Bangalore,Mobile App Development,8.06,7,122,6,"React Native, Java, Flutter, Swift",0,6,ServiceCompanies,"Wipro, HCL",7.92,ServiceCompanies,"TCS, Accenture",12.13,3.1
+Tier3,Bangalore,Quality Assurance,6.74,4,100,4,"Python, Java, SQL",1,2,ServiceCompanies,"Infosys, Cognizant, TCS",9.45,ServiceCompanies,"TCS, Accenture",13.42,4.8
+NIT,Bangalore,DevOps,8.81,5,100,5,"AWS, Docker, Linux, Python",3,4,GrowingStartups,"Swiggy, Zomato, Freshworks",12.96,GrowingStartups,"Razorpay, Postman",18.79,4.0
+Tier3,Chennai,DevOps,6.0,5,100,6,"AWS, Docker, Linux, Python",5,1,ServiceCompanies,"HCL, Wipro, TCS",8.58,ServiceCompanies,"TCS, Wipro",12.44,3.2
+Tier1_Private,Bangalore,Mobile App Development,7.33,6,141,3,"Swift, Flutter, Kotlin",3,3,ServiceCompanies,"Accenture, Wipro",6.92,BankingFinance,"Barclays, JPMorgan",10.53,5.3
+Tier2,Pune,Web Development,6.6,3,100,1,"MongoDB, HTML/CSS, Node.js",1,1,ServiceCompanies,"Cognizant, TCS",7.55,ServiceCompanies,"Wipro, TCS, Accenture",10.49,7.2
+Tier3,Mumbai,UI/UX Design,6.0,3,100,2,"User Research, Figma, Prototyping",0,3,ServiceCompanies,"Accenture, Cognizant",5.88,ServiceCompanies,"Accenture, HCL, TCS",8.17,6.4
+Tier1_Private,Other,Full Stack Development,6.49,3,100,4,"AWS, React, JavaScript",3,2,ServiceCompanies,"TCS, Wipro",8.86,ServiceCompanies,"Cognizant, Wipro, Infosys",12.32,4.8
+Tier3,Pune,Full Stack Development,6.42,6,106,4,"Python, Node.js, AWS",1,5,ServiceCompanies,"Accenture, HCL",6.05,ServiceCompanies,"Wipro, Cognizant, HCL",8.99,4.8
+Tier1_Private,Chennai,Cybersecurity,7.03,5,105,5,"Python, Cryptography, Ethical Hacking, Linux",3,3,ServiceCompanies,"Cognizant, Wipro, Accenture",7.58,ServiceCompanies,"HCL, Infosys",11.03,4.0
+NIT,Bangalore,Web Development,6.54,3,100,3,"Node.js, MongoDB, HTML/CSS",0,3,ServiceCompanies,"Wipro, TCS, Infosys",7.37,ServiceCompanies,"Wipro, Cognizant, TCS",10.24,5.6
+Tier1_Private,Pune,AI/ML,6.0,6,100,5,"TensorFlow, Deep Learning, SQL, PyTorch",1,3,ServiceCompanies,"Accenture, Cognizant",5.85,ServiceCompanies,"Cognizant, HCL",8.66,4.0
+Tier2,Pune,Web Development,8.89,6,100,3,"JavaScript, Node.js, MongoDB",2,1,ServiceCompanies,"Infosys, TCS",7.24,ServiceCompanies,"HCL, Infosys",10.72,5.6
+Tier2,Pune,Data Science,7.59,5,101,4,"Machine Learning, R, SQL",2,1,ServiceCompanies,"Infosys, TCS, HCL",6.76,ServiceCompanies,"Accenture, Wipro",9.81,4.8
+Tier2,Delhi NCR,Full Stack Development,6.87,7,135,6,"Node.js, React, JavaScript, SQL",1,3,ServiceCompanies,"TCS, Infosys",7.92,ServiceCompanies,"Infosys, Accenture, Cognizant",12.24,3.0
+Tier3,Bangalore,DevOps,6.59,6,126,3,"AWS, Python, Jenkins",2,4,ServiceCompanies,"Cognizant, Infosys, HCL",9.57,ServiceCompanies,"Accenture, Wipro",14.41,5.4
+Tier2,Chennai,Quality Assurance,7.88,8,164,8,"SQL, JIRA, Python, Java, Testing, Selenium",2,3,ServiceCompanies,"Accenture, Infosys, Wipro",7.09,ServiceCompanies,"HCL, Accenture",11.37,1.1
+Tier3,Hyderabad,Full Stack Development,6.0,5,100,5,"Python, SQL, React, JavaScript",3,2,ServiceCompanies,"HCL, TCS",5.46,ServiceCompanies,"Cognizant, Accenture",7.92,4.0
+Tier3,Pune,Quality Assurance,7.11,5,100,3,"Java, JIRA, SQL",3,1,ServiceCompanies,"Infosys, Cognizant, HCL",5.57,ServiceCompanies,"Infosys, HCL, TCS",8.08,5.6
+Tier1_Private,Pune,Data Science,6.67,5,100,4,"Machine Learning, Python, R",1,2,ServiceCompanies,"HCL, TCS, Accenture",5.5,ServiceCompanies,"Wipro, Infosys",7.97,4.8
+Tier3,Bangalore,DevOps,6.47,4,100,3,"Kubernetes, Docker, Python",1,1,ServiceCompanies,"HCL, TCS",8.88,ServiceCompanies,"Accenture, TCS, Wipro",12.61,5.6
+Tier1_Private,Chennai,Mobile App Development,6.99,5,109,2,"Flutter, Swift, Kotlin",2,2,ServiceCompanies,"Infosys, HCL",5.31,ServiceCompanies,"Cognizant, TCS, Accenture",7.75,6.4
+NIT,Pune,Full Stack Development,6.67,7,132,7,"AWS, Python, React, Node.js, SQL",2,4,ServiceCompanies,"Infosys, TCS, Cognizant",9.9,ServiceCompanies,"Cognizant, TCS",15.27,2.2
+Tier3,Bangalore,Web Development,8.76,9,157,8,"HTML/CSS, JavaScript, Node.js, React, MongoDB",3,6,TopProduct,"Uber, Nvidia",15.63,TopProduct,"Adobe, Salesforce, Uber",25.43,1.2
+Tier3,Hyderabad,Web Development,6.0,4,100,4,"JavaScript, MongoDB, React",4,1,ServiceCompanies,"TCS, HCL",7.05,ServiceCompanies,"TCS, Infosys, HCL",10.01,4.8
+Tier1_Private,Bangalore,Web Development,7.96,7,183,4,"HTML/CSS, MongoDB, Node.js",1,2,ServiceCompanies,"TCS, HCL, Wipro",12.28,BankingFinance,"Goldman Sachs, Barclays",19.56,4.2
+Tier1_Private,Chennai,DevOps,6.09,6,117,6,"Jenkins, AWS, Kubernetes, Linux",2,3,ServiceCompanies,"HCL, Accenture",6.88,ServiceCompanies,"Accenture, Cognizant",10.3,3.1
+Tier1_Private,Bangalore,Web Development,6.0,6,102,6,"MongoDB, JavaScript, React, HTML/CSS",1,5,GrowingStartups,"Freshworks, Zoho",13.12,GrowingStartups,"Razorpay, Zoho",19.44,3.2
+Tier3,Bangalore,Quality Assurance,7.65,6,131,6,"Selenium, Java, Testing, JIRA",2,5,ServiceCompanies,"Cognizant, Accenture",7.41,BankingFinance,"HSBC, Barclays",11.2,3.0
+Tier2,Delhi NCR,Data Science,7.85,5,113,5,"Machine Learning, R, SQL, Python",1,2,ServiceCompanies,"TCS, HCL, Infosys",6.08,ServiceCompanies,"Infosys, Cognizant",8.9,3.9
+Tier3,Chennai,Cybersecurity,7.12,6,138,6,"Python, Ethical Hacking, Cryptography, Network Security",0,3,ServiceCompanies,"TCS, Cognizant",5.52,BankingFinance,"Goldman Sachs, Deutsche, Barclays",8.38,2.9
+Tier3,Chennai,Web Development,6.0,2,100,3,"Node.js, React, JavaScript",0,0,ServiceCompanies,"TCS, Wipro, Infosys",9.51,ServiceCompanies,"Accenture, TCS",12.93,5.6
+Tier3,Chennai,Cybersecurity,6.0,5,130,5,"Python, Network Security, Linux, Cryptography",1,6,ServiceCompanies,"Infosys, Accenture",5.38,ServiceCompanies,"Wipro, HCL",7.96,3.8
+NIT,Bangalore,Full Stack Development,8.95,6,122,3,"JavaScript, Python, SQL",3,6,GrowingStartups,"Razorpay, Zoho",12.3,GrowingStartups,"Swiggy, Freshworks, Zoho",18.47,5.5
+Tier1_Private,Pune,Mobile App Development,7.4,6,148,5,"Kotlin, React Native, Flutter, Java",5,5,GrowingStartups,"Swiggy, Razorpay",12.73,GrowingStartups,"Postman, Zoho, Swiggy",19.45,3.7
+Tier3,Pune,Web Development,6.0,6,113,6,"HTML/CSS, JavaScript, Node.js, MongoDB",5,3,ServiceCompanies,"HCL, Cognizant, Infosys",8.39,ServiceCompanies,"HCL, Accenture, TCS",12.53,3.1
+Tier2,Pune,Mobile App Development,7.77,8,148,7,"Java, React Native, Kotlin, Swift, Flutter",1,6,BankingFinance,"Deutsche, JPMorgan, Citibank",19.14,GrowingStartups,"Swiggy, Zomato",30.39,2.1
+Tier2,Bangalore,Full Stack Development,8.92,8,159,5,"React, AWS, Node.js, SQL",3,6,ServiceCompanies,"TCS, Infosys",10.03,ServiceCompanies,"TCS, Infosys, HCL",16.04,3.6
+IIT,Hyderabad,Full Stack Development,8.56,8,161,7,"AWS, JavaScript, React, Python, Node.js",4,6,BankingFinance,"Goldman Sachs, Citibank, HSBC",22.97,BankingFinance,"Citibank, Deutsche",36.77,2.0
+Tier3,Bangalore,AI/ML,7.12,7,114,5,"SQL, Deep Learning, ML, TensorFlow",2,1,ServiceCompanies,"HCL, Accenture",5.15,ServiceCompanies,"HCL, Infosys, TCS",7.85,3.9
+Tier1_Private,Mumbai,DevOps,6.3,2,100,1,"AWS, Kubernetes, Python",1,1,ServiceCompanies,"Wipro, Infosys, Accenture",6.9,ServiceCompanies,"Accenture, Infosys, Wipro",9.38,7.2
+Tier2,Chennai,Full Stack Development,6.42,5,126,6,"JavaScript, React, SQL, Python",4,6,ServiceCompanies,"Wipro, Infosys, TCS",9.53,ServiceCompanies,"Accenture, HCL",14.07,3.0
+Tier3,Chennai,Mobile App Development,6.99,6,100,5,"Flutter, Swift, Kotlin, React Native",2,4,ServiceCompanies,"TCS, HCL",8.93,ServiceCompanies,"HCL, Accenture, TCS",13.22,4.0
+Tier2,Hyderabad,Cloud Computing,6.78,6,146,7,"Azure, Docker, GCP, Kubernetes, AWS",4,6,ServiceCompanies,"Infosys, TCS, Accenture",11.74,ServiceCompanies,"Wipro, Infosys",17.92,2.1
+Tier1_Private,Bangalore,Cybersecurity,6.77,5,100,5,"Cryptography, Network Security, Linux, Python",3,1,ServiceCompanies,"Accenture, Cognizant",7.93,ServiceCompanies,"HCL, Cognizant",11.5,4.0
+Tier3,Bangalore,Cloud Computing,6.73,7,129,6,"GCP, Terraform, Docker, Azure",3,6,ServiceCompanies,"Cognizant, TCS, Accenture",7.94,ServiceCompanies,"Accenture, Cognizant",12.22,3.0
+IIT,Pune,Mobile App Development,9.63,7,125,5,"React Native, Swift, Kotlin, Flutter",4,4,ServiceCompanies,"Infosys, TCS",10.19,ServiceCompanies,"Cognizant, Infosys",15.64,3.8
+Tier3,Hyderabad,Web Development,7.15,6,127,5,"React, MongoDB, JavaScript, Node.js",2,3,ServiceCompanies,"Wipro, TCS, Cognizant",6.67,ServiceCompanies,"Accenture, Cognizant, HCL",10.05,3.8
+NIT,Mumbai,AI/ML,8.01,9,163,8,"PyTorch, SQL, TensorFlow, Python, Deep Learning, ML",1,6,FAANG,"Amazon, Google",21.21,FAANG,"Netflix, Apple, Amazon",34.64,1.1
+Tier2,Pune,Cloud Computing,7.19,4,100,2,"AWS, Kubernetes, Docker",0,0,ServiceCompanies,"Infosys, Accenture",9.94,ServiceCompanies,"HCL, Cognizant, Infosys",14.11,6.4
+Tier2,Chennai,Web Development,6.0,7,141,6,"React, Node.js, JavaScript, HTML/CSS",1,1,ServiceCompanies,"TCS, Cognizant",6.49,ServiceCompanies,"HCL, Cognizant",10.07,2.9
+Tier3,Chennai,DevOps,6.07,3,100,3,"Kubernetes, Docker, Linux",4,3,ServiceCompanies,"Infosys, HCL",9.6,ServiceCompanies,"Infosys, TCS",13.34,5.6
+Tier2,Mumbai,Data Science,6.0,3,100,1,"Machine Learning, SQL, R",1,0,ServiceCompanies,"HCL, Cognizant",6.09,ServiceCompanies,"TCS, Wipro",8.47,7.2
+Tier2,Mumbai,Mobile App Development,8.45,7,155,5,"Kotlin, Java, Swift, React Native",4,6,BankingFinance,"Deutsche, HSBC, Citibank",12.24,GrowingStartups,"Razorpay, Freshworks, Postman",19.16,3.6
+Tier3,Hyderabad,Data Science,6.18,5,100,4,"Python, R, Statistics",2,1,ServiceCompanies,"Cognizant, HCL, Accenture",8.45,ServiceCompanies,"Accenture, Wipro",12.25,4.8
+Tier3,Hyderabad,Data Science,7.41,7,129,7,"Statistics, Python, Machine Learning, Tableau, SQL",4,4,ServiceCompanies,"TCS, Accenture, Cognizant",7.71,ServiceCompanies,"Wipro, Cognizant, Accenture",11.87,2.2
+Tier2,Chennai,Web Development,6.0,7,147,6,"HTML/CSS, MongoDB, React, JavaScript",3,3,ServiceCompanies,"TCS, Infosys",6.88,ServiceCompanies,"Infosys, Wipro",10.71,2.9
+Tier3,Hyderabad,Web Development,7.07,6,111,4,"HTML/CSS, MongoDB, JavaScript",1,3,ServiceCompanies,"TCS, Infosys, Wipro",6.02,ServiceCompanies,"HCL, TCS",8.98,4.8
+Tier3,Other,Quality Assurance,6.45,2,100,1,"Python, Java, Testing",0,0,ServiceCompanies,"Wipro, HCL, Infosys",7.52,ServiceCompanies,"Infosys, HCL, TCS",10.23,7.2
+Tier3,Bangalore,Cloud Computing,7.01,6,132,6,"Kubernetes, Terraform, AWS, Azure",2,4,ServiceCompanies,"HCL, TCS",8.41,BankingFinance,"JPMorgan, Deutsche, Goldman Sachs",12.72,3.0
+Tier1_Private,Chennai,Data Science,7.5,6,100,5,"Machine Learning, SQL, Statistics, Python",3,1,ServiceCompanies,"TCS, Cognizant",8.55,ServiceCompanies,"HCL, Accenture",12.65,4.0
+Tier2,Chennai,DevOps,6.0,6,130,4,"Linux, Jenkins, Kubernetes",3,4,ServiceCompanies,"Accenture, Wipro, Cognizant",5.61,ServiceCompanies,"HCL, Wipro",8.47,4.6
+Tier3,Chennai,AI/ML,6.0,4,100,2,"ML, PyTorch, TensorFlow",1,1,ServiceCompanies,"Accenture, Wipro",6.98,ServiceCompanies,"Infosys, Accenture, Wipro",9.91,6.4
+Tier1_Private,Hyderabad,Data Science,7.82,6,103,5,"Python, R, SQL, Machine Learning",2,5,GrowingStartups,"Zoho, Swiggy",14.74,GrowingStartups,"Zomato, Freshworks, Swiggy",21.86,4.0
+Tier2,Bangalore,AI/ML,8.07,6,124,4,"TensorFlow, ML, Deep Learning",0,3,ServiceCompanies,"HCL, Infosys, Accenture",7.58,ServiceCompanies,"TCS, Wipro, HCL",11.4,4.6
+Tier2,Chennai,Full Stack Development,6.43,4,100,3,"JavaScript, Node.js, React",0,3,ServiceCompanies,"Infosys, Cognizant",5.71,ServiceCompanies,"Wipro, HCL",8.11,5.6
+Tier1_Private,Hyderabad,DevOps,6.0,6,120,6,"Jenkins, AWS, Linux, Python",1,4,GrowingStartups,"Postman, Razorpay",12.16,GrowingStartups,"Swiggy, Freshworks",18.24,3.1
+Tier3,Mumbai,Mobile App Development,8.07,9,174,7,"Kotlin, React Native, Flutter, Java, Swift",5,6,ServiceCompanies,"Cognizant, Accenture, Wipro",6.65,BankingFinance,"Citibank, JPMorgan",10.93,1.8
+Tier2,Bangalore,Quality Assurance,8.4,7,145,5,"JIRA, SQL, Java, Testing",5,3,ServiceCompanies,"TCS, HCL",6.98,BankingFinance,"Goldman Sachs, JPMorgan",10.85,3.7
+Tier2,Pune,Mobile App Development,8.83,9,180,8,"Kotlin, Swift, React Native, Flutter, Java",4,6,TopProduct,"Salesforce, LinkedIn",21.55,TopProduct,"Adobe, Nvidia",35.56,1.0
+Tier3,Other,Web Development,8.54,6,116,5,"HTML/CSS, React, Node.js, MongoDB",2,3,ServiceCompanies,"Infosys, Wipro",8.23,ServiceCompanies,"Wipro, TCS",12.31,3.9
+Tier3,Mumbai,UI/UX Design,8.63,9,169,6,"Adobe XD, Prototyping, Sketch, User Research",4,2,TopProduct,"Atlassian, LinkedIn",20.05,TopProduct,"Nvidia, Adobe, LinkedIn",32.86,2.7
+Tier2,Hyderabad,Cybersecurity,6.0,3,100,4,"Network Security, Cryptography, Python",0,2,ServiceCompanies,"Cognizant, Accenture, Wipro",7.37,ServiceCompanies,"Infosys, Accenture, HCL",10.24,4.8
+Tier3,Bangalore,AI/ML,6.41,6,122,5,"Python, PyTorch, TensorFlow, ML",0,4,ServiceCompanies,"Infosys, Cognizant, Wipro",9.66,ServiceCompanies,"Cognizant, Infosys, Wipro",14.51,3.9
+Tier3,Mumbai,AI/ML,7.14,5,100,4,"ML, Python, Deep Learning",4,3,ServiceCompanies,"Accenture, Cognizant",7.07,ServiceCompanies,"TCS, HCL, Wipro",10.25,4.8
+Tier2,Delhi NCR,Full Stack Development,6.49,7,154,5,"JavaScript, Node.js, React, SQL",3,6,ServiceCompanies,"Wipro, Accenture, TCS",6.74,ServiceCompanies,"Infosys, HCL, Accenture",10.54,3.6
+Tier3,Bangalore,DevOps,6.37,5,120,5,"Python, AWS, Kubernetes, Docker",1,3,ServiceCompanies,"HCL, Infosys, Accenture",6.34,ServiceCompanies,"Infosys, Accenture",9.32,3.9
+Tier3,Other,AI/ML,7.6,7,142,4,"Python, Deep Learning, PyTorch",2,5,BankingFinance,"Goldman Sachs, HSBC, Deutsche",13.83,BankingFinance,"Deutsche, HSBC, Barclays",21.46,4.5
+Tier3,Bangalore,AI/ML,6.0,5,100,6,"Python, Deep Learning, TensorFlow, PyTorch",3,5,ServiceCompanies,"Wipro, Cognizant, TCS",7.21,ServiceCompanies,"Infosys, Wipro",10.45,3.2
+Tier3,Other,Data Science,6.67,3,100,3,"Machine Learning, Python, Tableau",0,1,ServiceCompanies,"Cognizant, Wipro",5.49,ServiceCompanies,"TCS, Wipro",7.63,5.6
+Tier3,Chennai,Web Development,8.1,6,106,5,"Node.js, React, HTML/CSS, MongoDB",1,3,ServiceCompanies,"Wipro, Accenture",8.94,ServiceCompanies,"Accenture, Wipro, Infosys",13.28,4.0
+Tier3,Bangalore,Data Science,6.0,5,119,5,"Statistics, R, Machine Learning, Python",0,2,ServiceCompanies,"Cognizant, TCS",5.71,ServiceCompanies,"TCS, Infosys, HCL",8.39,3.9
+Tier2,Delhi NCR,Full Stack Development,6.55,7,135,4,"Python, AWS, Node.js",1,6,ServiceCompanies,"Cognizant, TCS",6.09,ServiceCompanies,"TCS, Cognizant, Wipro",9.41,4.6
+Tier3,Chennai,Cloud Computing,6.63,6,124,4,"Docker, Kubernetes, Terraform",1,2,ServiceCompanies,"Accenture, Cognizant, HCL",6.35,ServiceCompanies,"Cognizant, TCS, Infosys",9.55,4.6
+Tier1_Private,Chennai,DevOps,8.57,5,120,4,"Jenkins, Kubernetes, Docker",0,6,GrowingStartups,"Freshworks, Razorpay",10.46,GrowingStartups,"Zomato, Razorpay",15.38,4.7
+Tier3,Delhi NCR,Cybersecurity,6.78,3,100,3,"Ethical Hacking, Network Security, Python",2,4,ServiceCompanies,"HCL, Accenture, Infosys",7.24,ServiceCompanies,"Infosys, HCL",10.06,5.6
+Tier3,Bangalore,Quality Assurance,8.66,5,100,4,"JIRA, Python, Java",1,3,ServiceCompanies,"TCS, HCL",7.85,ServiceCompanies,"Accenture, HCL",11.38,4.8
+Tier2,Bangalore,AI/ML,8.74,8,151,6,"PyTorch, Deep Learning, Python, ML",1,5,ServiceCompanies,"Accenture, Infosys",8.99,BankingFinance,"Barclays, Citibank, HSBC",14.3,2.8
+Tier3,Hyderabad,Full Stack Development,6.0,8,151,6,"React, AWS, Python, JavaScript",5,2,ServiceCompanies,"HCL, Infosys, Wipro",5.9,ServiceCompanies,"HCL, Wipro",9.39,2.8
+Tier3,Chennai,Data Science,6.44,3,100,2,"SQL, Machine Learning, Tableau",0,4,ServiceCompanies,"TCS, Cognizant",5.15,ServiceCompanies,"HCL, Cognizant, TCS",7.16,6.4
+Tier3,Delhi NCR,Cybersecurity,7.91,6,145,4,"Network Security, Linux, Ethical Hacking",3,4,ServiceCompanies,"Accenture, Wipro",5.01,BankingFinance,"Deutsche, HSBC",7.64,4.5
+Tier2,Other,AI/ML,6.0,6,100,5,"ML, PyTorch, Python, Deep Learning",3,5,ServiceCompanies,"Cognizant, TCS, Wipro",8.85,ServiceCompanies,"Wipro, Cognizant",13.1,4.0
+Tier1_Private,Pune,Quality Assurance,6.12,5,113,5,"Python, Testing, Java, JIRA",2,3,ServiceCompanies,"Wipro, TCS, Cognizant",7.65,ServiceCompanies,"TCS, Accenture, Infosys",11.19,3.9
+Tier2,Delhi NCR,UI/UX Design,7.73,8,149,7,"Sketch, Prototyping, User Research, Adobe XD, Figma",5,6,ServiceCompanies,"Wipro, Accenture",6.96,BankingFinance,"JPMorgan, HSBC, Citibank",11.06,2.0
+Tier1_Private,Other,Full Stack Development,6.56,4,100,2,"Python, React, AWS",1,1,ServiceCompanies,"Accenture, TCS",8.36,ServiceCompanies,"HCL, Accenture, Wipro",11.87,6.4
+Tier2,Hyderabad,Cloud Computing,6.0,7,120,6,"Terraform, AWS, Docker, Azure",3,6,ServiceCompanies,"HCL, TCS",6.86,ServiceCompanies,"HCL, Infosys, Cognizant",10.5,3.1
+Tier2,Hyderabad,Cloud Computing,7.66,7,119,6,"GCP, Kubernetes, Azure, AWS",4,6,ServiceCompanies,"Accenture, Wipro",8.32,ServiceCompanies,"Cognizant, HCL",12.72,3.1
+Tier2,Mumbai,Full Stack Development,6.0,4,100,5,"Python, AWS, JavaScript, React",0,0,ServiceCompanies,"Accenture, Wipro, Infosys",6.01,ServiceCompanies,"HCL, Accenture",8.53,4.0
+Tier3,Chennai,Web Development,8.17,6,100,5,"JavaScript, Node.js, MongoDB, React",1,2,ServiceCompanies,"Cognizant, Infosys",6.03,ServiceCompanies,"Cognizant, Infosys",8.92,4.0
+Tier2,Hyderabad,Web Development,7.64,4,100,2,"HTML/CSS, React, MongoDB",0,1,ServiceCompanies,"HCL, Infosys, TCS",6.23,ServiceCompanies,"TCS, Infosys",8.85,6.4
+Tier2,Delhi NCR,Cloud Computing,6.01,5,125,5,"Azure, Kubernetes, Docker, GCP",2,3,ServiceCompanies,"Cognizant, TCS",5.34,ServiceCompanies,"HCL, Infosys",7.88,3.8
+Tier2,Chennai,Cloud Computing,10.0,7,145,6,"Terraform, AWS, GCP, Azure",3,3,GrowingStartups,"Freshworks, Razorpay, Swiggy",18.64,GrowingStartups,"Postman, Razorpay, Zomato",28.99,2.9
+Tier2,Other,Mobile App Development,8.05,6,153,5,"Java, Kotlin, React Native, Swift",1,2,ServiceCompanies,"Cognizant, Wipro, Infosys",8.96,BankingFinance,"HSBC, Barclays",13.74,3.6
+Tier2,Pune,Full Stack Development,7.7,8,175,7,"AWS, Node.js, Python, SQL, React",1,3,BankingFinance,"HSBC, Citibank",23.01,GrowingStartups,"Swiggy, Razorpay",37.16,1.8
+Tier3,Bangalore,Data Science,6.95,6,140,5,"Python, Tableau, SQL, Machine Learning",0,6,ServiceCompanies,"Cognizant, TCS, Infosys",5.29,ServiceCompanies,"Cognizant, Wipro",8.04,3.7
+Tier2,Hyderabad,Cybersecurity,9.03,5,100,3,"Cryptography, Network Security, Linux",1,3,ServiceCompanies,"Cognizant, Wipro",5.22,ServiceCompanies,"Infosys, Wipro",7.57,5.6
+Tier1_Private,Pune,Data Science,8.19,6,153,5,"Statistics, Tableau, Machine Learning, R",4,3,ServiceCompanies,"Infosys, Wipro, Cognizant",6.0,BankingFinance,"JPMorgan, Deutsche",9.2,3.6
+Tier2,Bangalore,Data Science,9.65,6,132,5,"Tableau, R, Python, Machine Learning",0,5,ServiceCompanies,"Wipro, Cognizant, Accenture",8.3,BankingFinance,"HSBC, JPMorgan, Citibank",12.55,3.8
+Tier2,Bangalore,DevOps,6.72,4,100,3,"AWS, Docker, Kubernetes",0,3,ServiceCompanies,"HCL, Cognizant, Accenture",9.58,ServiceCompanies,"Cognizant, Wipro",13.6,5.6
+Tier3,Hyderabad,Full Stack Development,6.0,1,100,1,"Node.js, Python, JavaScript",0,2,ServiceCompanies,"Cognizant, Wipro, Infosys",9.19,ServiceCompanies,"Wipro, Infosys",12.22,7.2
+Tier2,Hyderabad,Full Stack Development,6.56,6,114,5,"Python, AWS, Node.js, React",5,3,ServiceCompanies,"Accenture, Infosys, HCL",7.62,ServiceCompanies,"HCL, Accenture",11.38,3.9
+Tier2,Chennai,Web Development,7.12,7,144,5,"JavaScript, HTML/CSS, MongoDB, React",1,4,BankingFinance,"HSBC, JPMorgan",17.42,GrowingStartups,"Postman, Razorpay, Zomato",27.07,3.7
+Tier2,Mumbai,Data Science,7.06,7,144,6,"SQL, R, Python, Statistics",4,3,ServiceCompanies,"HCL, Infosys",7.56,ServiceCompanies,"HCL, Accenture",11.75,2.9
+Tier1_Private,Delhi NCR,Cybersecurity,10.0,8,153,7,"Python, Ethical Hacking, Network Security, Linux, Cryptography",5,5,GrowingStartups,"Postman, Swiggy",23.26,GrowingStartups,"Razorpay, Zoho",37.05,2.0
+Tier1_Private,Chennai,Web Development,7.97,10,179,8,"Node.js, MongoDB, HTML/CSS, JavaScript, React",0,6,FAANG,"Google, Apple",27.63,FAANG,"Apple, Microsoft, Amazon",46.39,1.0
+Tier1_Private,Mumbai,AI/ML,9.34,4,100,4,"Python, SQL, PyTorch",0,2,ServiceCompanies,"Cognizant, HCL, Accenture",5.05,ServiceCompanies,"Wipro, TCS",7.17,4.8
+Tier2,Hyderabad,AI/ML,9.18,10,188,9,"ML, SQL, Python, TensorFlow, Deep Learning, PyTorch",4,3,TopProduct,"Atlassian, Adobe",22.93,TopProduct,"Uber, Adobe",38.71,1.0
+NIT,Other,Mobile App Development,6.37,4,100,4,"Flutter, Java, React Native",2,3,ServiceCompanies,"Cognizant, Accenture",5.18,ServiceCompanies,"Accenture, Cognizant, Wipro",7.36,4.8
+Tier3,Chennai,Web Development,8.36,7,155,7,"React, MongoDB, Node.js, JavaScript, HTML/CSS",0,3,ServiceCompanies,"Infosys, HCL, TCS",6.18,BankingFinance,"Deutsche, HSBC",9.67,2.0
+Tier3,Chennai,Quality Assurance,7.05,5,100,2,"Java, Selenium, JIRA",1,2,ServiceCompanies,"TCS, Wipro",5.3,ServiceCompanies,"TCS, Accenture, Infosys",7.68,6.4
+Tier2,Mumbai,DevOps,6.31,6,120,5,"Python, AWS, Kubernetes, Linux",2,6,ServiceCompanies,"Cognizant, HCL",9.66,ServiceCompanies,"Accenture, HCL, Infosys",14.49,3.9
+Tier2,Bangalore,DevOps,7.84,7,155,5,"AWS, Kubernetes, Linux, Docker",1,6,GrowingStartups,"Freshworks, Razorpay, Zoho",20.86,GrowingStartups,"Zomato, Zoho",32.65,3.6
+Tier1_Private,Hyderabad,Web Development,6.08,3,100,3,"JavaScript, MongoDB, Node.js",1,2,ServiceCompanies,"Wipro, HCL",5.9,ServiceCompanies,"Accenture, HCL, Wipro",8.2,5.6
+Tier3,Bangalore,Web Development,6.0,6,122,6,"MongoDB, JavaScript, Node.js, HTML/CSS",2,2,ServiceCompanies,"Cognizant, Accenture",5.89,ServiceCompanies,"Wipro, HCL",8.85,3.1
+Tier2,Hyderabad,Mobile App Development,6.0,5,100,2,"React Native, Java, Swift",1,4,ServiceCompanies,"Accenture, HCL",5.92,ServiceCompanies,"HCL, Cognizant, Infosys",8.58,6.4
+Tier2,Bangalore,Web Development,6.0,5,100,4,"Node.js, MongoDB, React",0,3,ServiceCompanies,"TCS, HCL, Wipro",6.99,ServiceCompanies,"Cognizant, Infosys",10.14,4.8
+Tier3,Other,Web Development,6.35,5,108,3,"HTML/CSS, Node.js, React",3,1,ServiceCompanies,"Wipro, Accenture, Infosys",5.5,ServiceCompanies,"TCS, Infosys, HCL",8.02,5.6
+Tier2,Chennai,Web Development,7.75,4,100,6,"HTML/CSS, Node.js, MongoDB, JavaScript",2,2,ServiceCompanies,"Wipro, HCL",9.97,ServiceCompanies,"TCS, Accenture",14.16,3.2
+Tier3,Pune,DevOps,6.0,3,100,1,"Python, AWS, Kubernetes",0,0,ServiceCompanies,"Wipro, Cognizant",6.06,ServiceCompanies,"Cognizant, TCS",8.42,7.2
+Tier2,Delhi NCR,Data Science,7.85,4,100,3,"Tableau, Machine Learning, SQL",2,2,ServiceCompanies,"Accenture, Infosys, HCL",6.26,ServiceCompanies,"TCS, Infosys",8.89,5.6
+Tier2,Chennai,Data Science,6.0,3,100,3,"Statistics, SQL, R",1,1,ServiceCompanies,"Cognizant, Accenture, Wipro",8.66,ServiceCompanies,"Wipro, HCL, Cognizant",12.04,5.6
+Tier2,Pune,Full Stack Development,6.34,6,135,5,"JavaScript, Python, AWS, Node.js",1,4,ServiceCompanies,"TCS, Accenture, Infosys",7.58,ServiceCompanies,"HCL, Accenture, Cognizant",11.48,3.8
+IIT,Hyderabad,Full Stack Development,7.07,5,114,5,"SQL, Node.js, AWS, React",0,3,ServiceCompanies,"TCS, Cognizant, HCL",6.46,ServiceCompanies,"Cognizant, TCS",9.46,3.9
+Tier1_Private,Hyderabad,Mobile App Development,6.79,5,100,2,"Swift, React Native, Flutter",0,5,GrowingStartups,"Swiggy, Zoho, Freshworks",13.27,GrowingStartups,"Razorpay, Zoho",19.24,6.4
+Tier3,Mumbai,Web Development,9.66,6,113,4,"React, MongoDB, HTML/CSS",0,4,ServiceCompanies,"HCL, TCS, Accenture",9.49,ServiceCompanies,"Cognizant, Accenture, Infosys",14.17,4.7
+Tier3,Other,Full Stack Development,7.3,8,165,4,"SQL, React, Python",0,6,ServiceCompanies,"TCS, HCL",4.61,BankingFinance,"Citibank, HSBC, Barclays",7.4,4.3
+Tier3,Hyderabad,Full Stack Development,6.0,2,100,3,"JavaScript, React, Node.js",2,0,ServiceCompanies,"Infosys, HCL, Cognizant",9.72,ServiceCompanies,"Wipro, Accenture, HCL",13.22,5.6
+NIT,Mumbai,Data Science,9.32,10,194,9,"Machine Learning, SQL, R, Tableau, Python, Statistics",5,6,FAANG,"Meta, Apple, Amazon",32.46,FAANG,"Meta, Amazon",54.99,1.0
+Tier2,Chennai,Full Stack Development,6.74,4,100,3,"Python, JavaScript, SQL",1,3,ServiceCompanies,"Infosys, HCL",9.88,ServiceCompanies,"Accenture, HCL, Infosys",14.03,5.6
+Tier2,Hyderabad,Quality Assurance,6.59,5,102,5,"SQL, Java, JIRA, Python",2,5,ServiceCompanies,"Infosys, Wipro",6.34,ServiceCompanies,"Infosys, HCL",9.21,4.0
+Tier3,Bangalore,Web Development,7.04,8,186,8,"JavaScript, React, Node.js, MongoDB, HTML/CSS",1,2,GrowingStartups,"Postman, Zomato, Freshworks",17.87,GrowingStartups,"Razorpay, Zoho",29.06,1.0
+Tier3,Chennai,Web Development,7.15,9,179,6,"JavaScript, Node.js, MongoDB, React",0,6,BankingFinance,"JPMorgan, HSBC, Barclays",12.72,BankingFinance,"Barclays, HSBC",20.98,2.6
+Tier1_Private,Hyderabad,Data Science,7.58,8,168,6,"SQL, Statistics, R, Python",1,6,GrowingStartups,"Zoho, Postman, Zomato",25.17,TopProduct,"LinkedIn, Salesforce",40.47,2.7
+Tier1_Private,Hyderabad,Mobile App Development,6.12,5,108,5,"Flutter, Java, Swift, Kotlin",2,1,ServiceCompanies,"HCL, Accenture",8.84,ServiceCompanies,"TCS, Wipro",12.89,4.0
+IIT,Mumbai,DevOps,6.0,5,112,4,"Kubernetes, Linux, Docker",1,1,ServiceCompanies,"Accenture, HCL",8.83,ServiceCompanies,"Accenture, Infosys, Wipro",12.91,4.7
+Tier3,Other,Cybersecurity,8.28,6,101,4,"Linux, Ethical Hacking, Network Security",2,5,ServiceCompanies,"Wipro, Cognizant, Accenture",8.69,ServiceCompanies,"Wipro, TCS",12.87,4.8
+Tier3,Pune,AI/ML,7.32,6,100,5,"TensorFlow, ML, SQL, PyTorch",1,3,ServiceCompanies,"Accenture, Wipro, Infosys",9.27,ServiceCompanies,"Wipro, Infosys, Cognizant",13.72,4.0
+Tier3,Mumbai,Full Stack Development,6.78,4,100,3,"Node.js, Python, AWS",3,2,ServiceCompanies,"Cognizant, TCS, HCL",7.96,ServiceCompanies,"HCL, TCS, Wipro",11.3,5.6
+Tier1_Private,Hyderabad,Web Development,6.22,6,113,4,"MongoDB, JavaScript, React",2,1,ServiceCompanies,"Accenture, Wipro, Infosys",8.94,ServiceCompanies,"Wipro, TCS, Cognizant",13.35,4.7
+Tier2,Hyderabad,DevOps,7.45,6,116,4,"Python, Jenkins, Linux",2,6,ServiceCompanies,"Wipro, Accenture, Infosys",7.09,ServiceCompanies,"Accenture, Wipro, HCL",10.61,4.7
+Tier3,Bangalore,AI/ML,6.41,4,100,4,"PyTorch, Deep Learning, ML",0,2,ServiceCompanies,"HCL, Wipro",8.65,ServiceCompanies,"TCS, Accenture, Cognizant",12.28,4.8
+NIT,Delhi NCR,Mobile App Development,7.92,7,149,7,"Kotlin, Flutter, Swift, Java, React Native",4,4,ServiceCompanies,"Accenture, Cognizant",11.44,ServiceCompanies,"TCS, Infosys, Wipro",17.83,2.0
+Tier3,Delhi NCR,Web Development,6.0,3,100,3,"Node.js, HTML/CSS, MongoDB",1,2,ServiceCompanies,"Infosys, Accenture",9.97,ServiceCompanies,"Cognizant, HCL",13.86,5.6
+Tier2,Other,Full Stack Development,7.56,6,131,4,"AWS, Python, JavaScript",0,0,ServiceCompanies,"HCL, TCS, Wipro",9.23,BankingFinance,"Goldman Sachs, Deutsche",13.95,4.6
+Tier2,Other,Web Development,6.86,3,100,3,"HTML/CSS, MongoDB, JavaScript",1,1,ServiceCompanies,"TCS, Accenture",6.51,ServiceCompanies,"HCL, Infosys, Cognizant",9.05,5.6
+Tier2,Bangalore,AI/ML,6.99,5,121,3,"TensorFlow, PyTorch, ML",0,6,ServiceCompanies,"Cognizant, Wipro",8.24,ServiceCompanies,"TCS, Cognizant",12.12,5.5
+Tier2,Hyderabad,UI/UX Design,7.69,9,173,8,"Sketch, User Research, Prototyping, Figma, Adobe XD",4,6,TopProduct,"Uber, Salesforce, Adobe",24.69,TopProduct,"Atlassian, Nvidia",40.57,1.1
+Tier3,Bangalore,Data Science,6.0,4,100,3,"Machine Learning, SQL, Tableau",0,3,ServiceCompanies,"Cognizant, TCS, Accenture",6.75,ServiceCompanies,"Infosys, Cognizant",9.58,5.6
+Tier3,Other,AI/ML,7.17,5,107,4,"Python, ML, SQL",0,1,ServiceCompanies,"Infosys, Accenture",6.75,ServiceCompanies,"Wipro, Accenture, TCS",9.83,4.8
+Tier3,Delhi NCR,Cybersecurity,6.0,6,106,5,"Ethical Hacking, Linux, Cryptography, Network Security",3,4,ServiceCompanies,"Accenture, Cognizant, TCS",5.5,ServiceCompanies,"Accenture, HCL",8.17,4.0
+Tier2,Bangalore,Web Development,6.99,6,123,5,"JavaScript, HTML/CSS, MongoDB, React",0,4,ServiceCompanies,"HCL, Infosys",5.41,ServiceCompanies,"Infosys, Cognizant",8.13,3.9
+Tier2,Pune,Cloud Computing,7.58,2,100,2,"Azure, Terraform, GCP",2,1,ServiceCompanies,"Infosys, HCL",5.83,ServiceCompanies,"Wipro, Infosys, Accenture",7.93,6.4
+Tier3,Bangalore,Mobile App Development,6.0,2,100,2,"Java, Kotlin, React Native",3,2,ServiceCompanies,"Wipro, Accenture, Infosys",6.63,ServiceCompanies,"Accenture, HCL",9.02,6.4
+Tier3,Other,Cloud Computing,8.65,7,144,7,"AWS, Terraform, Docker, Azure, Kubernetes",3,5,GrowingStartups,"Freshworks, Zomato",9.42,GrowingStartups,"Swiggy, Zomato, Zoho",14.64,2.1
+Tier3,Pune,DevOps,7.46,5,111,5,"Linux, Kubernetes, Docker, Python",0,6,ServiceCompanies,"HCL, Infosys",7.16,ServiceCompanies,"Accenture, Cognizant, Infosys",10.46,4.0
+Tier1_Private,Chennai,AI/ML,7.84,5,100,5,"PyTorch, ML, Deep Learning, Python",3,3,ServiceCompanies,"Infosys, TCS, Accenture",8.25,ServiceCompanies,"Cognizant, HCL",11.96,4.0
+Tier3,Other,DevOps,6.0,3,100,4,"Python, Linux, Jenkins",0,4,ServiceCompanies,"HCL, Accenture",6.36,ServiceCompanies,"HCL, TCS, Wipro",8.84,4.8
+Tier3,Delhi NCR,Web Development,7.43,4,100,4,"MongoDB, Node.js, HTML/CSS",1,2,ServiceCompanies,"Accenture, TCS",5.03,ServiceCompanies,"Accenture, Wipro",7.14,4.8
+Tier1_Private,Bangalore,AI/ML,7.66,6,138,4,"SQL, PyTorch, ML",2,4,GrowingStartups,"Freshworks, Zomato",12.25,GrowingStartups,"Postman, Razorpay, Zoho",18.6,4.5
+Tier3,Other,Data Science,6.0,4,100,5,"Python, Statistics, SQL, Machine Learning",5,5,ServiceCompanies,"HCL, Wipro",8.73,ServiceCompanies,"Cognizant, Accenture",12.4,4.0
+Tier3,Mumbai,DevOps,6.0,4,100,5,"AWS, Docker, Kubernetes, Jenkins",5,1,ServiceCompanies,"Cognizant, HCL",7.88,ServiceCompanies,"Cognizant, HCL",11.19,4.0
+Tier2,Other,Data Science,6.0,3,100,1,"Tableau, Machine Learning, Statistics",1,3,ServiceCompanies,"HCL, Wipro",9.67,ServiceCompanies,"Accenture, HCL",13.44,7.2
+NIT,Chennai,AI/ML,6.68,7,136,6,"ML, PyTorch, SQL, Python",2,3,ServiceCompanies,"Infosys, Wipro",12.19,ServiceCompanies,"Wipro, HCL, Accenture",18.85,3.0
+NIT,Hyderabad,AI/ML,6.0,5,103,3,"Python, TensorFlow, PyTorch",1,4,GrowingStartups,"Razorpay, Postman",12.67,GrowingStartups,"Postman, Razorpay, Zoho",18.41,5.6
+Tier3,Other,Full Stack Development,7.66,8,129,7,"Node.js, SQL, JavaScript, React, AWS",4,6,ServiceCompanies,"TCS, HCL",6.29,ServiceCompanies,"TCS, Infosys",9.87,2.2
+Tier1_Private,Pune,AI/ML,8.77,7,104,7,"Deep Learning, ML, TensorFlow, PyTorch, Python",1,3,ServiceCompanies,"Cognizant, Accenture",11.57,ServiceCompanies,"Accenture, HCL, Wipro",17.52,2.4
+Tier3,Chennai,AI/ML,6.91,4,100,4,"TensorFlow, PyTorch, Python",2,1,ServiceCompanies,"HCL, Infosys, Accenture",9.32,ServiceCompanies,"Infosys, TCS, Wipro",13.23,4.8
+Tier1_Private,Bangalore,UI/UX Design,6.0,5,100,3,"Figma, User Research, Prototyping",2,2,ServiceCompanies,"Wipro, TCS, HCL",5.08,ServiceCompanies,"Infosys, Wipro, TCS",7.37,5.6
+Tier2,Bangalore,Cloud Computing,6.06,4,100,5,"Azure, AWS, Kubernetes, Docker",3,3,ServiceCompanies,"HCL, TCS, Infosys",8.31,ServiceCompanies,"Infosys, TCS",11.8,4.0
+Tier3,Chennai,Cybersecurity,7.12,7,103,5,"Ethical Hacking, Network Security, Linux, Python",1,4,ServiceCompanies,"TCS, Accenture, Infosys",5.51,ServiceCompanies,"Wipro, TCS, HCL",8.34,4.0
+NIT,Chennai,UI/UX Design,10.0,10,206,8,"Adobe XD, Sketch, Figma, Prototyping, User Research",3,1,FAANG,"Amazon, Google",25.89,FAANG,"Google, Apple, Amazon",44.17,1.0
+Tier2,Pune,Cloud Computing,6.04,7,168,6,"Terraform, Azure, GCP, Kubernetes",0,5,ServiceCompanies,"TCS, Infosys",10.9,ServiceCompanies,"TCS, HCL, Cognizant",17.2,2.7
+Tier2,Mumbai,Cybersecurity,7.68,7,152,4,"Python, Network Security, Cryptography",1,4,BankingFinance,"HSBC, JPMorgan",11.12,BankingFinance,"JPMorgan, HSBC",17.37,4.4
+Tier2,Bangalore,UI/UX Design,7.7,7,151,7,"Sketch, User Research, Figma, Adobe XD, Prototyping",3,6,ServiceCompanies,"TCS, Wipro, Accenture",9.69,ServiceCompanies,"Accenture, HCL",15.13,2.0
+Tier1_Private,Pune,Full Stack Development,6.4,6,112,5,"AWS, Node.js, Python, SQL",3,4,GrowingStartups,"Zomato, Swiggy, Freshworks",14.84,GrowingStartups,"Postman, Razorpay",22.14,3.9
+Tier3,Bangalore,Data Science,8.34,7,118,5,"Machine Learning, Python, SQL, R",5,5,ServiceCompanies,"Cognizant, Infosys, Accenture",9.99,ServiceCompanies,"Infosys, HCL, Accenture",15.26,3.9
+Tier1_Private,Other,DevOps,6.0,2,100,2,"AWS, Jenkins, Python",0,0,ServiceCompanies,"HCL, Accenture",8.14,ServiceCompanies,"Accenture, HCL",11.07,6.4
+Tier3,Bangalore,Mobile App Development,7.86,6,140,3,"React Native, Swift, Flutter",3,5,ServiceCompanies,"HCL, Wipro",6.05,ServiceCompanies,"Infosys, Accenture, Wipro",9.2,5.3
+Tier2,Pune,DevOps,7.42,7,132,6,"Linux, Kubernetes, Jenkins, AWS",0,4,ServiceCompanies,"TCS, HCL",10.39,ServiceCompanies,"Cognizant, Infosys, TCS",16.02,3.0
+Tier3,Hyderabad,DevOps,6.0,5,106,5,"Jenkins, Python, Linux, Kubernetes",2,4,ServiceCompanies,"Accenture, Cognizant",8.23,ServiceCompanies,"Infosys, Wipro",11.98,4.0
+Tier3,Mumbai,Full Stack Development,7.19,6,106,5,"Node.js, JavaScript, SQL, Python",1,3,ServiceCompanies,"Cognizant, Accenture",6.79,ServiceCompanies,"Infosys, Accenture, Wipro",10.09,4.0
+Tier1_Private,Bangalore,Cybersecurity,8.87,6,117,4,"Linux, Python, Network Security",1,1,ServiceCompanies,"Wipro, HCL",5.6,ServiceCompanies,"Accenture, TCS",8.38,4.7
+NIT,Bangalore,Cybersecurity,8.76,7,124,5,"Network Security, Cryptography, Ethical Hacking, Linux",0,6,ServiceCompanies,"TCS, HCL",10.92,ServiceCompanies,"Accenture, Infosys, TCS",16.75,3.8
+Tier1_Private,Pune,UI/UX Design,7.13,3,100,2,"Figma, User Research, Prototyping",1,0,ServiceCompanies,"HCL, TCS, Wipro",8.1,ServiceCompanies,"Cognizant, Infosys",11.26,6.4
+Tier2,Other,Full Stack Development,6.01,5,100,3,"Node.js, AWS, React",4,2,ServiceCompanies,"Infosys, Cognizant",9.52,ServiceCompanies,"Cognizant, Wipro",13.8,5.6
+Tier2,Hyderabad,Cloud Computing,7.92,9,190,8,"GCP, Azure, Docker, AWS, Terraform, Kubernetes",5,0,GrowingStartups,"Freshworks, Swiggy",24.74,TopProduct,"Salesforce, Nvidia, Uber",41.07,1.0
+NIT,Bangalore,Data Science,6.32,5,100,5,"Statistics, Python, R, Tableau",2,2,ServiceCompanies,"Wipro, Cognizant",6.39,ServiceCompanies,"Wipro, TCS, HCL",9.27,4.0
+Tier2,Hyderabad,Mobile App Development,10.0,9,190,9,"React Native, Flutter, Java, Swift, Kotlin",5,5,GrowingStartups,"Postman, Zomato, Zoho",19.68,GrowingStartups,"Razorpay, Freshworks, Postman",32.67,1.0
+NIT,Bangalore,Cloud Computing,6.42,4,100,2,"Kubernetes, Docker, Terraform",1,6,GrowingStartups,"Swiggy, Razorpay",14.39,GrowingStartups,"Postman, Swiggy",20.43,6.4
+Tier1_Private,Mumbai,Full Stack Development,7.66,5,102,3,"JavaScript, Node.js, AWS",2,5,GrowingStartups,"Razorpay, Swiggy, Zomato",12.19,GrowingStartups,"Swiggy, Zoho",17.7,5.6
+Tier1_Private,Other,UI/UX Design,7.86,6,142,3,"Prototyping, User Research, Figma",0,3,ServiceCompanies,"Cognizant, Accenture",8.76,BankingFinance,"Citibank, JPMorgan",13.33,5.3
+Tier1_Private,Mumbai,Mobile App Development,7.5,4,100,2,"Kotlin, Java, React Native",0,2,ServiceCompanies,"Accenture, Infosys",6.03,ServiceCompanies,"Infosys, Accenture",8.56,6.4
+Tier2,Chennai,DevOps,7.4,7,155,6,"Docker, Kubernetes, Python, Linux",2,6,ServiceCompanies,"Infosys, TCS, Cognizant",9.85,BankingFinance,"Citibank, Goldman Sachs, HSBC",15.42,2.8
+Tier1_Private,Other,Web Development,6.26,3,100,4,"MongoDB, Node.js, React",3,1,ServiceCompanies,"Wipro, HCL",5.08,ServiceCompanies,"TCS, Cognizant",7.06,4.8
+Tier1_Private,Delhi NCR,Full Stack Development,7.47,2,100,1,"AWS, Node.js, Python",0,1,ServiceCompanies,"Infosys, Cognizant",8.41,ServiceCompanies,"Accenture, HCL",11.44,7.2
+Tier3,Pune,Data Science,7.3,8,158,8,"R, Machine Learning, Python, Statistics, Tableau, SQL",3,0,GrowingStartups,"Razorpay, Zoho",14.35,GrowingStartups,"Zoho, Freshworks, Zomato",22.93,1.2
+Tier3,Hyderabad,Cybersecurity,6.0,8,154,5,"Network Security, Ethical Hacking, Cryptography, Python",1,6,ServiceCompanies,"Cognizant, Infosys, HCL",8.61,ServiceCompanies,"TCS, HCL",13.72,3.6
+Tier3,Bangalore,Mobile App Development,8.25,7,171,7,"Flutter, Java, Kotlin, Swift, React Native",5,6,TopProduct,"Nvidia, Atlassian",18.45,TopProduct,"Atlassian, LinkedIn",29.17,1.9
+Tier2,Bangalore,AI/ML,8.87,7,147,5,"PyTorch, TensorFlow, SQL, Python",2,6,BankingFinance,"Goldman Sachs, Barclays",13.4,GrowingStartups,"Freshworks, Zoho",20.86,3.7
+Tier3,Bangalore,Cloud Computing,6.5,3,100,3,"AWS, Terraform, Docker",0,4,ServiceCompanies,"TCS, Accenture, HCL",9.4,ServiceCompanies,"Wipro, HCL",13.07,5.6
+Tier1_Private,Other,Mobile App Development,6.48,4,100,4,"React Native, Kotlin, Flutter",3,1,ServiceCompanies,"Cognizant, Accenture, TCS",8.47,ServiceCompanies,"HCL, Infosys, TCS",12.03,4.8
+Tier3,Mumbai,UI/UX Design,7.43,3,100,2,"Figma, User Research, Prototyping",3,3,ServiceCompanies,"TCS, Accenture",8.31,ServiceCompanies,"HCL, TCS",11.55,6.4
+Tier3,Other,UI/UX Design,6.0,5,100,6,"Figma, Sketch, Prototyping, User Research",2,6,ServiceCompanies,"HCL, Infosys",6.97,ServiceCompanies,"Infosys, TCS",10.11,3.2
+Tier3,Bangalore,Full Stack Development,7.65,6,102,5,"JavaScript, AWS, Node.js, Python",1,2,ServiceCompanies,"Accenture, TCS",7.6,ServiceCompanies,"Accenture, HCL, TCS",11.26,4.0
+Tier2,Bangalore,Mobile App Development,9.2,5,108,5,"Kotlin, Flutter, Swift, Java",1,2,ServiceCompanies,"Accenture, HCL",6.42,ServiceCompanies,"Infosys, Cognizant",9.36,4.0
+Tier1_Private,Hyderabad,Data Science,6.0,4,100,3,"R, Statistics, SQL",1,2,ServiceCompanies,"Infosys, HCL, Accenture",5.2,ServiceCompanies,"TCS, Wipro, Infosys",7.38,5.6
+Tier3,Delhi NCR,AI/ML,6.26,4,100,1,"Python, ML, Deep Learning",1,5,ServiceCompanies,"Accenture, TCS",8.7,ServiceCompanies,"Wipro, Cognizant, TCS",12.35,7.2
+Tier3,Bangalore,Full Stack Development,6.0,5,102,4,"React, SQL, Python",2,3,ServiceCompanies,"HCL, Wipro, Infosys",6.92,ServiceCompanies,"Cognizant, Infosys, Accenture",10.05,4.8
+Tier2,Other,Full Stack Development,7.56,4,100,5,"AWS, JavaScript, Python, SQL",1,2,ServiceCompanies,"Wipro, TCS, Cognizant",7.9,ServiceCompanies,"Wipro, HCL, Accenture",11.22,4.0
+Tier3,Bangalore,Cybersecurity,6.07,5,100,5,"Network Security, Python, Cryptography, Ethical Hacking",3,3,ServiceCompanies,"TCS, Accenture, Infosys",7.36,ServiceCompanies,"TCS, Infosys",10.67,4.0
+Tier2,Chennai,Mobile App Development,7.13,7,137,5,"Java, React Native, Swift, Kotlin",3,2,ServiceCompanies,"Accenture, Cognizant, HCL",8.09,ServiceCompanies,"Cognizant, Accenture, HCL",12.52,3.7
+Tier3,Other,Full Stack Development,6.45,5,111,5,"AWS, Node.js, JavaScript, SQL",4,6,ServiceCompanies,"Wipro, Cognizant, Accenture",7.49,ServiceCompanies,"TCS, Accenture, Wipro",10.94,4.0
+Tier1_Private,Hyderabad,Web Development,8.41,4,108,3,"Node.js, HTML/CSS, JavaScript",1,5,GrowingStartups,"Freshworks, Zomato, Zoho",12.09,GrowingStartups,"Zoho, Zomato",17.26,5.6
+Tier3,Chennai,Full Stack Development,6.77,8,156,5,"JavaScript, React, SQL, Python",4,6,ServiceCompanies,"Infosys, Accenture",8.3,ServiceCompanies,"Infosys, HCL, TCS",13.25,3.6
+NIT,Bangalore,Cybersecurity,7.85,7,171,6,"Ethical Hacking, Network Security, Python, Cryptography",2,6,GrowingStartups,"Freshworks, Razorpay",23.48,GrowingStartups,"Postman, Razorpay",37.12,2.7
+Tier3,Hyderabad,Full Stack Development,6.0,4,100,3,"React, JavaScript, Python",2,3,ServiceCompanies,"TCS, Cognizant",9.06,ServiceCompanies,"Infosys, TCS",12.87,5.6
+Tier2,Pune,Cybersecurity,7.1,8,203,8,"Network Security, Cryptography, Ethical Hacking, Linux, Python",4,5,ServiceCompanies,"HCL, Wipro",12.25,BankingFinance,"Deutsche, JPMorgan, Citibank",20.13,1.0
+Tier1_Private,Hyderabad,Data Science,6.15,4,100,5,"Python, SQL, Tableau, R",2,3,ServiceCompanies,"HCL, Accenture, Cognizant",9.18,ServiceCompanies,"Accenture, Cognizant, TCS",13.04,4.0
+Tier3,Pune,AI/ML,6.0,6,120,4,"SQL, ML, TensorFlow",2,0,ServiceCompanies,"Wipro, Accenture",6.3,ServiceCompanies,"Wipro, Infosys, HCL",9.45,4.7
+Tier3,Hyderabad,Full Stack Development,6.0,6,129,4,"SQL, Node.js, AWS",2,4,ServiceCompanies,"Infosys, Accenture, Cognizant",9.21,ServiceCompanies,"Accenture, Infosys, Cognizant",13.9,4.6
+Tier3,Bangalore,AI/ML,6.57,7,142,7,"PyTorch, Python, Deep Learning, TensorFlow, ML",3,5,BankingFinance,"Goldman Sachs, Barclays",19.81,BankingFinance,"JPMorgan, Deutsche, Barclays",30.75,2.1
+NIT,Bangalore,Web Development,6.27,7,152,5,"Node.js, JavaScript, MongoDB, React",2,3,ServiceCompanies,"Wipro, Accenture",9.93,ServiceCompanies,"Cognizant, TCS",15.51,3.6
+Tier2,Mumbai,Web Development,6.32,5,114,3,"JavaScript, HTML/CSS, React",2,6,ServiceCompanies,"TCS, Cognizant",5.34,ServiceCompanies,"Wipro, Cognizant",7.82,5.5
+IIT,Hyderabad,DevOps,6.22,5,101,2,"AWS, Kubernetes, Python",1,2,ServiceCompanies,"Wipro, TCS, Cognizant",9.31,ServiceCompanies,"Infosys, TCS, HCL",13.51,6.4
+Tier3,Other,Full Stack Development,6.66,5,100,4,"Python, JavaScript, SQL",3,2,ServiceCompanies,"Accenture, TCS",5.14,ServiceCompanies,"Accenture, Wipro, HCL",7.45,4.8
+Tier2,Bangalore,Mobile App Development,10.0,7,124,5,"Java, Swift, React Native, Kotlin",1,2,ServiceCompanies,"Wipro, TCS",10.26,ServiceCompanies,"Accenture, Cognizant",15.74,3.8
+Tier3,Other,AI/ML,6.0,4,100,2,"SQL, Python, ML",1,2,ServiceCompanies,"Infosys, Accenture, HCL",7.73,ServiceCompanies,"HCL, Accenture, TCS",10.98,6.4
+Tier3,Delhi NCR,Full Stack Development,7.25,7,154,6,"JavaScript, SQL, AWS, Python",3,5,BankingFinance,"Barclays, Goldman Sachs",15.5,BankingFinance,"Citibank, Deutsche",24.24,2.8
+Tier2,Chennai,AI/ML,6.67,2,100,2,"PyTorch, Deep Learning, SQL",2,0,ServiceCompanies,"Wipro, Cognizant, Accenture",5.46,ServiceCompanies,"HCL, Infosys, Cognizant",7.43,6.4
+Tier3,Mumbai,Mobile App Development,6.0,4,102,4,"Kotlin, Swift, Flutter",1,1,ServiceCompanies,"Infosys, TCS",7.09,ServiceCompanies,"Accenture, TCS",10.08,4.8
+Tier3,Pune,UI/UX Design,6.39,7,122,6,"Sketch, User Research, Prototyping, Adobe XD",0,3,ServiceCompanies,"Wipro, HCL, Cognizant",7.5,ServiceCompanies,"Cognizant, HCL, TCS",11.49,3.1
+Tier2,Hyderabad,DevOps,7.68,8,154,6,"Docker, Python, Linux, Jenkins",2,3,ServiceCompanies,"Infosys, TCS, Wipro",11.27,BankingFinance,"Barclays, JPMorgan",17.96,2.8
+Tier1_Private,Chennai,DevOps,8.07,7,141,6,"Kubernetes, AWS, Jenkins, Python",3,3,ServiceCompanies,"HCL, Wipro",8.82,BankingFinance,"HSBC, Citibank",13.68,2.9
+Tier3,Delhi NCR,Data Science,7.31,6,140,3,"R, Python, Statistics",2,2,ServiceCompanies,"Infosys, TCS",5.88,ServiceCompanies,"TCS, HCL, Cognizant",8.94,5.3
+NIT,Delhi NCR,Web Development,7.5,6,121,4,"Node.js, JavaScript, MongoDB",0,4,GrowingStartups,"Swiggy, Freshworks",14.22,GrowingStartups,"Postman, Razorpay",21.34,4.7
+Tier1_Private,Delhi NCR,Web Development,6.89,7,114,7,"React, Node.js, HTML/CSS, MongoDB, JavaScript",2,5,ServiceCompanies,"TCS, Infosys, Accenture",13.23,ServiceCompanies,"Wipro, HCL, Accenture",20.16,2.3
+Tier2,Hyderabad,Web Development,7.39,7,148,4,"JavaScript, HTML/CSS, MongoDB",4,3,GrowingStartups,"Swiggy, Freshworks, Zomato",16.42,GrowingStartups,"Zoho, Razorpay",25.58,4.5
+Tier2,Hyderabad,Mobile App Development,9.06,7,134,3,"Flutter, React Native, Java",0,5,ServiceCompanies,"Infosys, Cognizant, TCS",6.07,BankingFinance,"Citibank, JPMorgan, HSBC",9.37,5.4
+Tier2,Bangalore,UI/UX Design,7.57,6,125,5,"User Research, Adobe XD, Prototyping, Figma",3,3,ServiceCompanies,"Accenture, TCS",5.12,ServiceCompanies,"HCL, Accenture",7.71,3.8
+Tier1_Private,Other,AI/ML,10.0,8,131,5,"ML, Deep Learning, Python, TensorFlow",2,4,ServiceCompanies,"Cognizant, Accenture",6.76,ServiceCompanies,"Cognizant, HCL, TCS",10.62,3.8
+Tier1_Private,Bangalore,Data Science,6.85,5,100,4,"SQL, Statistics, R",1,5,GrowingStartups,"Swiggy, Freshworks",14.28,GrowingStartups,"Razorpay, Swiggy",20.71,4.8
+Tier2,Hyderabad,Cybersecurity,7.79,6,128,6,"Python, Network Security, Ethical Hacking, Cryptography",4,4,ServiceCompanies,"Infosys, Wipro, HCL",5.74,ServiceCompanies,"Infosys, Accenture, Cognizant",8.66,3.0
+Tier2,Pune,Mobile App Development,8.33,8,173,7,"React Native, Kotlin, Flutter, Java, Swift",0,6,BankingFinance,"Barclays, HSBC",18.47,GrowingStartups,"Razorpay, Zoho",29.79,1.9
+Tier3,Bangalore,DevOps,7.68,4,100,4,"Docker, Python, Jenkins",4,0,ServiceCompanies,"Accenture, TCS",5.63,ServiceCompanies,"Infosys, HCL, Wipro",7.99,4.8
+Tier1_Private,Pune,Cloud Computing,6.14,5,109,3,"Docker, AWS, Azure",1,2,ServiceCompanies,"Cognizant, HCL",5.57,ServiceCompanies,"Cognizant, HCL",8.13,5.6
+Tier1_Private,Pune,AI/ML,8.4,6,123,5,"ML, Python, PyTorch, SQL",2,3,ServiceCompanies,"HCL, Infosys, Cognizant",9.53,ServiceCompanies,"TCS, Wipro, Accenture",14.32,3.9
+Tier1_Private,Bangalore,UI/UX Design,7.39,6,100,4,"Figma, Sketch, Adobe XD",2,2,ServiceCompanies,"Accenture, Infosys",9.61,ServiceCompanies,"Cognizant, Accenture",14.22,4.8
+Tier2,Chennai,Web Development,8.3,7,138,6,"Node.js, React, MongoDB, JavaScript",3,4,BankingFinance,"Citibank, JPMorgan",14.99,BankingFinance,"Deutsche, HSBC, Barclays",23.2,2.9
+Tier1_Private,Bangalore,DevOps,7.95,7,121,5,"Linux, Docker, Python, AWS",3,2,ServiceCompanies,"Accenture, Cognizant, HCL",11.13,ServiceCompanies,"Cognizant, Wipro, Infosys",17.04,3.9
+NIT,Bangalore,Full Stack Development,7.65,8,140,8,"React, SQL, Python, Node.js, JavaScript, AWS",5,5,ServiceCompanies,"Infosys, TCS",10.61,BankingFinance,"Citibank, Goldman Sachs, JPMorgan",16.76,1.3
+Tier1_Private,Bangalore,Data Science,8.28,6,105,8,"R, Statistics, Python, Machine Learning, Tableau, SQL",4,5,ServiceCompanies,"Cognizant, Infosys, TCS",14.03,ServiceCompanies,"Infosys, HCL",20.83,1.6
+Tier3,Pune,Mobile App Development,6.94,6,149,4,"Swift, Flutter, Java",3,4,ServiceCompanies,"Cognizant, HCL, Accenture",8.4,ServiceCompanies,"HCL, Infosys, Accenture",12.84,4.4
+Tier3,Bangalore,Data Science,6.0,5,107,4,"SQL, Python, Statistics",1,4,ServiceCompanies,"Wipro, TCS",6.89,ServiceCompanies,"Accenture, Cognizant, HCL",10.04,4.8
+Tier2,Bangalore,Web Development,6.0,5,100,4,"Node.js, MongoDB, JavaScript",2,3,ServiceCompanies,"Accenture, Wipro",6.51,ServiceCompanies,"Cognizant, Wipro",9.44,4.8
+Tier2,Mumbai,Web Development,6.16,5,100,5,"MongoDB, Node.js, JavaScript, React",2,5,ServiceCompanies,"Infosys, TCS, Accenture",7.79,ServiceCompanies,"Accenture, TCS, Infosys",11.3,4.0
+Tier3,Pune,Web Development,7.07,5,100,6,"React, Node.js, HTML/CSS, MongoDB",3,4,ServiceCompanies,"Accenture, Cognizant, Wipro",7.59,ServiceCompanies,"HCL, Cognizant",11.01,3.2
+NIT,Chennai,Full Stack Development,6.81,4,100,4,"Node.js, SQL, Python",1,2,ServiceCompanies,"Wipro, Infosys, Cognizant",6.65,ServiceCompanies,"Wipro, Cognizant, Accenture",9.44,4.8
+Tier3,Other,Mobile App Development,7.12,3,100,3,"Swift, Java, Kotlin",2,1,ServiceCompanies,"TCS, Infosys, Cognizant",9.82,ServiceCompanies,"Wipro, HCL, TCS",13.65,5.6
+Tier2,Other,Data Science,9.52,7,157,4,"SQL, Machine Learning, Tableau",1,5,ServiceCompanies,"Infosys, TCS, Wipro",8.47,BankingFinance,"Citibank, Goldman Sachs, Barclays",13.27,4.4
+Tier3,Chennai,Cybersecurity,8.23,7,151,6,"Python, Network Security, Ethical Hacking, Linux",1,1,BankingFinance,"Barclays, Goldman Sachs",15.26,GrowingStartups,"Postman, Swiggy, Zomato",23.82,2.8
+Tier3,Pune,Web Development,6.0,5,100,3,"MongoDB, HTML/CSS, JavaScript",3,6,ServiceCompanies,"Cognizant, Wipro",8.69,ServiceCompanies,"TCS, Cognizant, Wipro",12.6,5.6
+Tier1_Private,Hyderabad,Web Development,6.0,5,100,4,"HTML/CSS, React, JavaScript",2,4,GrowingStartups,"Razorpay, Swiggy, Zoho",10.8,GrowingStartups,"Zomato, Freshworks, Zoho",15.66,4.8
+Tier2,Chennai,Cybersecurity,6.0,2,100,3,"Ethical Hacking, Network Security, Cryptography",1,3,ServiceCompanies,"HCL, Accenture, TCS",5.27,ServiceCompanies,"HCL, Cognizant",7.17,5.6
+Tier3,Mumbai,Cybersecurity,6.52,5,100,3,"Ethical Hacking, Linux, Python",1,2,ServiceCompanies,"TCS, Cognizant, Infosys",9.88,ServiceCompanies,"Infosys, Wipro, HCL",14.33,5.6
+Tier1_Private,Hyderabad,Mobile App Development,6.0,5,115,4,"React Native, Kotlin, Flutter",3,4,GrowingStartups,"Freshworks, Swiggy, Zomato",10.19,GrowingStartups,"Freshworks, Zoho",14.93,4.7
+Tier1_Private,Delhi NCR,DevOps,6.08,2,100,1,"Kubernetes, AWS, Jenkins",0,5,GrowingStartups,"Postman, Freshworks",12.36,GrowingStartups,"Freshworks, Zoho, Postman",16.81,7.2
+Tier3,Mumbai,Data Science,7.61,5,100,6,"Tableau, Python, SQL, R",3,5,ServiceCompanies,"Cognizant, HCL",6.53,ServiceCompanies,"Cognizant, Wipro",9.47,3.2
+Tier3,Other,Mobile App Development,7.98,7,145,6,"Swift, React Native, Java, Flutter",2,5,ServiceCompanies,"Accenture, Cognizant",7.03,ServiceCompanies,"Wipro, Accenture, HCL",10.93,2.9
+NIT,Bangalore,Web Development,9.16,10,205,9,"Node.js, JavaScript, React, HTML/CSS, MongoDB",1,6,FAANG,"Google, Apple",33.71,FAANG,"Meta, Microsoft, Amazon",57.48,1.0
+Tier2,Hyderabad,Full Stack Development,6.0,1,100,1,"JavaScript, Node.js, React",0,0,ServiceCompanies,"Accenture, Infosys",9.39,ServiceCompanies,"Wipro, TCS",12.49,7.2
+Tier3,Mumbai,Full Stack Development,8.49,7,130,6,"SQL, React, Node.js, JavaScript",3,6,ServiceCompanies,"HCL, Infosys, Cognizant",6.91,BankingFinance,"Barclays, Goldman Sachs, Deutsche",10.64,3.0
+Tier1_Private,Hyderabad,Cybersecurity,8.36,8,153,9,"Ethical Hacking, Cryptography, Linux, Python, Network Security",3,4,ServiceCompanies,"Cognizant, Accenture, TCS",9.0,ServiceCompanies,"TCS, HCL, Wipro",14.34,1.0
+Tier3,Chennai,Web Development,7.47,9,185,7,"MongoDB, React, JavaScript, HTML/CSS, Node.js",4,3,ServiceCompanies,"TCS, Accenture",4.71,BankingFinance,"Citibank, Goldman Sachs, Deutsche",7.8,1.8
+Tier2,Bangalore,Web Development,7.16,4,100,3,"HTML/CSS, Node.js, MongoDB",0,2,ServiceCompanies,"Cognizant, Accenture",8.64,ServiceCompanies,"TCS, Accenture, Wipro",12.27,5.6
+Tier3,Hyderabad,Web Development,7.59,6,113,6,"HTML/CSS, MongoDB, JavaScript, React",5,5,ServiceCompanies,"Accenture, Cognizant",9.47,ServiceCompanies,"Accenture, Cognizant, HCL",14.14,3.1
+Tier3,Bangalore,Full Stack Development,6.52,4,100,2,"JavaScript, Python, Node.js",0,1,ServiceCompanies,"Wipro, Infosys, Cognizant",6.64,ServiceCompanies,"Accenture, TCS",9.43,6.4
+Tier2,Hyderabad,Mobile App Development,7.15,8,179,6,"React Native, Java, Kotlin, Flutter",1,3,BankingFinance,"Citibank, Barclays",17.49,BankingFinance,"JPMorgan, Citibank, Goldman Sachs",28.32,2.6
+Tier2,Chennai,Web Development,6.0,4,100,3,"Node.js, React, JavaScript",0,2,ServiceCompanies,"Infosys, Cognizant, TCS",6.68,ServiceCompanies,"Cognizant, TCS",9.49,5.6
+Tier2,Pune,Quality Assurance,6.72,6,100,5,"Python, JIRA, Selenium, SQL",4,2,ServiceCompanies,"Wipro, Accenture",9.67,ServiceCompanies,"TCS, Accenture",14.31,4.0
+Tier3,Mumbai,Web Development,6.08,8,177,8,"JavaScript, React, HTML/CSS, MongoDB, Node.js",5,3,ServiceCompanies,"TCS, Infosys",7.61,ServiceCompanies,"Accenture, TCS",12.31,1.0
+Tier3,Other,Web Development,6.0,5,100,4,"React, JavaScript, MongoDB",1,5,ServiceCompanies,"Infosys, Cognizant, HCL",6.57,ServiceCompanies,"Infosys, HCL",9.53,4.8
+Tier3,Bangalore,Web Development,7.44,7,148,7,"React, Node.js, HTML/CSS, JavaScript, MongoDB",3,3,ServiceCompanies,"TCS, Infosys",7.11,BankingFinance,"Citibank, Deutsche, JPMorgan",11.08,2.1
+Tier3,Bangalore,AI/ML,7.0,7,154,7,"Python, TensorFlow, ML, Deep Learning, PyTorch",1,5,GrowingStartups,"Postman, Razorpay",23.06,GrowingStartups,"Zomato, Razorpay, Postman",36.07,2.0
+Tier2,Bangalore,Data Science,6.0,4,100,4,"SQL, Machine Learning, R",4,3,ServiceCompanies,"Wipro, Cognizant, Accenture",6.35,ServiceCompanies,"Cognizant, HCL, Wipro",9.02,4.8
+Tier2,Delhi NCR,DevOps,7.04,5,100,5,"Kubernetes, Python, Docker, AWS",2,1,ServiceCompanies,"Cognizant, HCL, TCS",6.76,ServiceCompanies,"Accenture, HCL, Infosys",9.8,4.0
+Tier2,Bangalore,AI/ML,6.58,5,100,4,"TensorFlow, ML, PyTorch",2,4,ServiceCompanies,"Cognizant, HCL",6.35,ServiceCompanies,"TCS, Wipro",9.21,4.8
+Tier2,Mumbai,Cloud Computing,6.0,4,114,4,"Docker, GCP, AWS",2,1,ServiceCompanies,"Cognizant, TCS, Wipro",5.22,ServiceCompanies,"Accenture, Infosys, Wipro",7.49,4.7
+Tier2,Bangalore,Web Development,6.0,5,120,4,"JavaScript, MongoDB, HTML/CSS",3,0,ServiceCompanies,"Cognizant, Wipro, HCL",8.72,ServiceCompanies,"Wipro, Accenture",12.82,4.7
+Tier3,Pune,Mobile App Development,6.72,4,100,2,"Flutter, Swift, React Native",2,0,ServiceCompanies,"HCL, Wipro, Infosys",8.84,ServiceCompanies,"HCL, Infosys, Wipro",12.55,6.4
+Tier3,Bangalore,Data Science,8.33,2,100,1,"SQL, R, Python",0,1,ServiceCompanies,"Wipro, TCS",7.96,ServiceCompanies,"Wipro, Infosys, Accenture",10.83,7.2
+Tier2,Pune,Mobile App Development,6.58,7,149,6,"Java, Swift, React Native, Flutter",3,4,ServiceCompanies,"Cognizant, Infosys",9.79,ServiceCompanies,"Wipro, Infosys",15.26,2.8
+Tier3,Mumbai,Quality Assurance,6.04,5,116,4,"Java, Testing, JIRA",1,1,ServiceCompanies,"HCL, TCS, Wipro",6.02,ServiceCompanies,"Infosys, Wipro, Accenture",8.83,4.7
+Tier1_Private,Bangalore,DevOps,7.63,9,180,9,"AWS, Python, Kubernetes, Docker, Jenkins, Linux",5,5,FAANG,"Amazon, Netflix, Meta",40.73,FAANG,"Meta, Microsoft, Netflix",67.2,1.0
+NIT,Chennai,Full Stack Development,7.49,6,137,4,"Python, JavaScript, React",1,4,GrowingStartups,"Freshworks, Zomato, Swiggy",14.62,GrowingStartups,"Freshworks, Swiggy, Razorpay",22.18,4.5
+Tier2,Pune,Quality Assurance,8.19,8,177,7,"Java, JIRA, Python, SQL, Testing",0,6,ServiceCompanies,"Infosys, Accenture",11.16,ServiceCompanies,"Wipro, TCS, Accenture",18.05,1.8
+Tier2,Hyderabad,Web Development,8.38,8,154,8,"MongoDB, Node.js, React, HTML/CSS, JavaScript",3,5,ServiceCompanies,"Cognizant, HCL",11.16,BankingFinance,"Deutsche, JPMorgan, Citibank",17.79,1.2
+Tier1_Private,Bangalore,Mobile App Development,6.82,5,100,6,"React Native, Swift, Flutter, Kotlin",3,3,ServiceCompanies,"TCS, Wipro",7.87,ServiceCompanies,"Cognizant, TCS, Infosys",11.41,3.2
+NIT,Delhi NCR,Data Science,7.27,5,106,4,"Tableau, R, Statistics",1,3,ServiceCompanies,"HCL, Wipro, Cognizant",9.39,ServiceCompanies,"HCL, Accenture, Wipro",13.67,4.8
+Tier2,Bangalore,Data Science,6.17,5,104,4,"Python, SQL, Tableau",2,2,ServiceCompanies,"Infosys, Cognizant, Wipro",5.32,ServiceCompanies,"Wipro, Accenture, Infosys",7.74,4.8
+Tier3,Pune,Full Stack Development,6.75,5,100,4,"SQL, Node.js, React",3,5,ServiceCompanies,"TCS, Infosys, HCL",6.4,ServiceCompanies,"Accenture, Wipro",9.28,4.8
+Tier1_Private,Chennai,Full Stack Development,6.53,6,131,6,"AWS, Python, JavaScript, SQL",1,3,ServiceCompanies,"TCS, Accenture, Cognizant",7.1,ServiceCompanies,"Cognizant, HCL",10.73,3.0
+Tier2,Bangalore,Quality Assurance,9.15,7,153,6,"Python, Testing, SQL, Java",0,6,BankingFinance,"Barclays, HSBC",10.2,GrowingStartups,"Swiggy, Postman, Zomato",15.94,2.8
+Tier2,Bangalore,Full Stack Development,6.0,5,100,5,"React, Node.js, SQL, AWS",2,2,ServiceCompanies,"Wipro, Infosys",9.71,ServiceCompanies,"Accenture, Cognizant, TCS",14.08,4.0
+Tier2,Bangalore,DevOps,8.63,5,106,4,"AWS, Docker, Linux",0,5,ServiceCompanies,"TCS, Accenture",9.86,ServiceCompanies,"HCL, Cognizant, Accenture",14.36,4.8
+Tier2,Hyderabad,Mobile App Development,6.0,7,140,6,"Java, Flutter, Swift, React Native",0,5,ServiceCompanies,"Wipro, TCS, Cognizant",6.86,ServiceCompanies,"TCS, HCL, Infosys",10.63,2.9
+Tier2,Mumbai,DevOps,7.72,9,159,9,"Python, Linux, Kubernetes, AWS, Docker, Jenkins",3,5,GrowingStartups,"Postman, Zoho",20.12,GrowingStartups,"Postman, Zomato",32.78,1.0
+Tier3,Hyderabad,Mobile App Development,7.92,9,167,8,"Swift, Java, Kotlin, Flutter, React Native",5,4,TopProduct,"LinkedIn, Uber",24.8,TopProduct,"LinkedIn, Uber, Nvidia",40.6,1.1
+Tier2,Bangalore,DevOps,8.11,9,185,7,"Python, AWS, Jenkins, Kubernetes, Linux",0,4,BankingFinance,"Deutsche, Goldman Sachs",23.79,GrowingStartups,"Razorpay, Zoho, Freshworks",39.37,1.8
+IIT,Pune,AI/ML,10.0,8,133,6,"Python, ML, TensorFlow, SQL",2,6,ServiceCompanies,"HCL, Infosys",12.23,BankingFinance,"Deutsche, Barclays",19.24,3.0
+Tier2,Pune,Quality Assurance,7.53,2,100,1,"Java, Selenium, Testing",0,2,ServiceCompanies,"Wipro, Accenture, HCL",9.89,ServiceCompanies,"Wipro, HCL",13.45,7.2
+Tier2,Pune,Full Stack Development,6.57,5,100,4,"SQL, Python, Node.js",1,0,ServiceCompanies,"TCS, HCL",7.17,ServiceCompanies,"Accenture, Infosys, Wipro",10.4,4.8
+NIT,Chennai,Cybersecurity,7.2,9,184,7,"Ethical Hacking, Network Security, Linux, Python, Cryptography",5,3,BankingFinance,"Goldman Sachs, HSBC, Barclays",13.91,BankingFinance,"Citibank, HSBC",23.01,1.8
+Tier2,Pune,Web Development,7.16,7,113,4,"HTML/CSS, JavaScript, Node.js",1,3,ServiceCompanies,"Accenture, HCL, Cognizant",9.99,ServiceCompanies,"TCS, Cognizant, Accenture",15.21,4.7
+Tier3,Delhi NCR,Web Development,7.52,7,119,4,"MongoDB, JavaScript, React",3,6,ServiceCompanies,"Accenture, Cognizant",7.23,ServiceCompanies,"Infosys, TCS, Cognizant",11.05,4.7
+IIT,Bangalore,Cloud Computing,8.34,5,122,5,"Terraform, Docker, GCP, Kubernetes",1,6,GrowingStartups,"Freshworks, Razorpay",10.97,GrowingStartups,"Razorpay, Swiggy, Zomato",16.15,3.9
+Tier3,Hyderabad,DevOps,8.08,4,104,3,"Docker, Linux, Jenkins",0,0,ServiceCompanies,"Cognizant, Wipro",9.8,ServiceCompanies,"Infosys, Wipro",13.96,5.6
+Tier2,Hyderabad,Mobile App Development,6.07,4,100,4,"Flutter, Kotlin, React Native",0,3,ServiceCompanies,"Infosys, HCL, Wipro",9.25,ServiceCompanies,"Accenture, Infosys",13.13,4.8
+Tier3,Mumbai,Cloud Computing,6.57,6,132,4,"Terraform, AWS, Azure",2,6,ServiceCompanies,"Infosys, HCL, Accenture",7.7,ServiceCompanies,"Wipro, TCS",11.64,4.6
+Tier3,Mumbai,Web Development,8.41,6,118,4,"HTML/CSS, React, MongoDB",0,2,ServiceCompanies,"Infosys, Wipro",8.58,ServiceCompanies,"Cognizant, TCS, Accenture",12.85,4.7
+NIT,Pune,DevOps,7.28,7,154,3,"Python, AWS, Jenkins",1,5,GrowingStartups,"Freshworks, Postman, Zoho",17.44,GrowingStartups,"Zoho, Swiggy, Freshworks",27.28,5.2
+Tier3,Mumbai,Web Development,6.07,6,100,5,"JavaScript, Node.js, HTML/CSS, MongoDB",3,2,ServiceCompanies,"Wipro, Infosys, Cognizant",5.64,ServiceCompanies,"Cognizant, Accenture, TCS",8.35,4.0
+Tier3,Pune,DevOps,6.0,4,100,2,"Linux, AWS, Kubernetes",0,1,ServiceCompanies,"Wipro, Cognizant",5.77,ServiceCompanies,"Accenture, Infosys",8.19,6.4
+Tier2,Delhi NCR,Web Development,7.9,6,143,4,"Node.js, HTML/CSS, React",3,5,ServiceCompanies,"Accenture, Cognizant",8.67,ServiceCompanies,"Wipro, HCL, Cognizant",13.2,4.5
+Tier2,Hyderabad,Mobile App Development,7.92,4,100,3,"Swift, Flutter, Kotlin",0,4,ServiceCompanies,"Accenture, Wipro, HCL",5.26,ServiceCompanies,"Cognizant, Accenture, HCL",7.47,5.6
+NIT,Bangalore,AI/ML,6.0,6,100,6,"SQL, Python, ML, PyTorch",3,6,GrowingStartups,"Freshworks, Swiggy, Zomato",11.22,GrowingStartups,"Razorpay, Freshworks",16.61,3.2
+Tier3,Bangalore,Web Development,6.5,6,111,5,"Node.js, MongoDB, React, HTML/CSS",4,2,ServiceCompanies,"HCL, TCS, Infosys",7.08,ServiceCompanies,"Infosys, TCS, Accenture",10.56,4.0
+Tier3,Bangalore,Data Science,9.28,3,100,3,"Statistics, R, Tableau",3,2,ServiceCompanies,"HCL, TCS, Accenture",9.03,ServiceCompanies,"Infosys, HCL, TCS",12.55,5.6
+Tier2,Bangalore,Data Science,9.45,7,128,6,"Machine Learning, Statistics, Python, Tableau",5,3,BankingFinance,"Barclays, Goldman Sachs, HSBC",14.92,BankingFinance,"JPMorgan, Citibank, Deutsche",22.95,3.0
+Tier2,Pune,Mobile App Development,6.6,5,100,5,"Kotlin, Flutter, Java, React Native",3,3,ServiceCompanies,"Wipro, TCS, Accenture",7.45,ServiceCompanies,"Cognizant, HCL, Infosys",10.8,4.0
+Tier1_Private,Bangalore,Web Development,8.83,8,153,7,"React, Node.js, JavaScript, MongoDB, HTML/CSS",1,3,ServiceCompanies,"HCL, TCS, Infosys",12.1,BankingFinance,"Barclays, Goldman Sachs, HSBC",19.28,2.0
+NIT,Pune,Data Science,7.19,6,153,3,"Tableau, Python, Machine Learning",2,5,GrowingStartups,"Zomato, Swiggy, Zoho",12.19,GrowingStartups,"Postman, Zomato, Zoho",18.69,5.2
+Tier2,Bangalore,Full Stack Development,6.39,4,100,2,"React, JavaScript, Python",2,3,ServiceCompanies,"Accenture, Wipro, HCL",9.2,ServiceCompanies,"Accenture, HCL",13.06,6.4
+Tier2,Hyderabad,Web Development,9.65,8,169,7,"JavaScript, Node.js, MongoDB, React, HTML/CSS",4,6,TopProduct,"Salesforce, Atlassian",33.71,TopProduct,"Salesforce, Atlassian, Uber",54.24,1.9
+Tier1_Private,Mumbai,DevOps,7.76,6,100,4,"Kubernetes, Linux, Jenkins",1,3,ServiceCompanies,"Infosys, HCL, TCS",5.04,ServiceCompanies,"TCS, HCL",7.46,4.8
+Tier2,Bangalore,Data Science,6.95,6,127,3,"Python, Tableau, Machine Learning",1,6,ServiceCompanies,"Cognizant, HCL",9.85,ServiceCompanies,"HCL, Accenture, Wipro",14.84,5.4
+Tier3,Mumbai,Quality Assurance,6.0,9,168,6,"Python, Java, Selenium, Testing",1,3,ServiceCompanies,"HCL, TCS, Infosys",9.94,ServiceCompanies,"Cognizant, Accenture, Wipro",16.28,2.7
+Tier3,Bangalore,DevOps,6.0,3,100,3,"AWS, Docker, Kubernetes",2,0,ServiceCompanies,"TCS, Infosys",8.88,ServiceCompanies,"TCS, Accenture",12.34,5.6
+Tier1_Private,Pune,Quality Assurance,6.0,5,120,4,"Python, Testing, Java",1,0,ServiceCompanies,"TCS, HCL, Cognizant",8.87,ServiceCompanies,"Cognizant, Infosys, TCS",13.04,4.7
+Tier2,Hyderabad,Full Stack Development,8.98,5,113,5,"AWS, React, Node.js, SQL",1,4,ServiceCompanies,"Cognizant, Wipro, HCL",7.16,ServiceCompanies,"Infosys, Cognizant",10.48,3.9
+Tier2,Hyderabad,Web Development,7.15,4,111,4,"HTML/CSS, MongoDB, Node.js",0,1,ServiceCompanies,"Cognizant, Infosys",5.07,ServiceCompanies,"Cognizant, HCL, TCS",7.26,4.8
+Tier2,Bangalore,Full Stack Development,7.1,4,100,2,"AWS, JavaScript, Node.js",0,0,ServiceCompanies,"Wipro, Accenture",5.56,ServiceCompanies,"TCS, Accenture, HCL",7.9,6.4
+Tier1_Private,Hyderabad,Cloud Computing,7.77,6,118,4,"GCP, Docker, Azure",1,3,ServiceCompanies,"Infosys, Cognizant",5.83,ServiceCompanies,"Wipro, Infosys, Cognizant",8.73,4.7
+Tier2,Delhi NCR,Full Stack Development,7.99,8,130,6,"React, Node.js, Python, JavaScript",3,6,ServiceCompanies,"Wipro, Cognizant, Infosys",7.94,BankingFinance,"HSBC, Goldman Sachs",12.47,3.0
+NIT,Chennai,DevOps,7.26,8,152,5,"Jenkins, AWS, Kubernetes, Python",2,5,BankingFinance,"JPMorgan, Goldman Sachs, Deutsche",13.44,GrowingStartups,"Razorpay, Postman, Zomato",21.4,3.6
+Tier3,Delhi NCR,Mobile App Development,6.82,4,113,4,"Swift, Flutter, Kotlin",1,4,ServiceCompanies,"TCS, Cognizant, Wipro",5.93,ServiceCompanies,"Wipro, Accenture, Cognizant",8.5,4.7
+Tier3,Mumbai,DevOps,6.18,4,109,4,"Docker, Jenkins, AWS",2,1,ServiceCompanies,"Infosys, TCS",8.01,ServiceCompanies,"Accenture, TCS, Wipro",11.45,4.8
+Tier3,Other,Full Stack Development,6.0,4,100,4,"Python, JavaScript, SQL",2,2,ServiceCompanies,"TCS, Wipro, Accenture",9.01,ServiceCompanies,"Wipro, Infosys, HCL",12.79,4.8
+IIT,Bangalore,DevOps,8.09,7,167,4,"Linux, Python, Docker",1,4,GrowingStartups,"Freshworks, Postman, Razorpay",18.29,TopProduct,"Atlassian, Salesforce",28.84,4.3
+Tier3,Hyderabad,Web Development,6.0,5,114,4,"React, Node.js, MongoDB",0,2,ServiceCompanies,"Wipro, Infosys",8.77,ServiceCompanies,"Infosys, Wipro",12.84,4.7
+Tier3,Bangalore,Quality Assurance,6.0,4,100,3,"Java, Python, SQL",1,3,ServiceCompanies,"Cognizant, Wipro",8.02,ServiceCompanies,"HCL, Wipro",11.39,5.6
+Tier2,Hyderabad,Web Development,6.0,5,116,4,"MongoDB, JavaScript, HTML/CSS",3,2,ServiceCompanies,"HCL, TCS, Wipro",9.87,ServiceCompanies,"Accenture, Wipro, TCS",14.47,4.7
+Tier3,Bangalore,Web Development,6.52,4,100,6,"HTML/CSS, React, JavaScript, MongoDB",3,1,ServiceCompanies,"Cognizant, Wipro",9.49,ServiceCompanies,"Infosys, Accenture",13.48,3.2
+Tier3,Pune,Cloud Computing,8.43,6,100,5,"GCP, Azure, Kubernetes, Terraform",1,3,ServiceCompanies,"TCS, Accenture",7.32,ServiceCompanies,"Wipro, Infosys",10.83,4.0
+Tier3,Pune,Full Stack Development,6.24,4,100,3,"Node.js, AWS, React",1,2,ServiceCompanies,"TCS, Accenture",9.78,ServiceCompanies,"Wipro, Cognizant, TCS",13.89,5.6
+Tier3,Chennai,AI/ML,8.58,9,157,5,"TensorFlow, ML, Python, SQL",1,6,BankingFinance,"Deutsche, JPMorgan, Goldman Sachs",11.35,GrowingStartups,"Razorpay, Swiggy, Zomato",18.47,3.6
+Tier2,Bangalore,Mobile App Development,7.22,4,100,3,"Swift, React Native, Kotlin",1,2,ServiceCompanies,"Wipro, Cognizant",5.67,ServiceCompanies,"HCL, Wipro, TCS",8.05,5.6
+Tier3,Pune,Data Science,6.0,5,100,6,"Machine Learning, Tableau, R, Statistics",2,2,ServiceCompanies,"TCS, Accenture",6.9,ServiceCompanies,"HCL, Wipro, TCS",10.01,3.2
+Tier2,Delhi NCR,AI/ML,6.09,4,100,4,"TensorFlow, ML, Python",1,2,ServiceCompanies,"Cognizant, TCS, Infosys",5.6,ServiceCompanies,"TCS, Accenture",7.95,4.8
+Tier2,Hyderabad,DevOps,7.34,4,100,4,"Jenkins, Python, AWS",0,1,ServiceCompanies,"Accenture, TCS, Infosys",7.92,ServiceCompanies,"Cognizant, Wipro",11.25,4.8
+Tier1_Private,Bangalore,Quality Assurance,8.0,9,174,9,"Testing, SQL, Selenium, JIRA, Java, Python",5,5,FAANG,"Google, Netflix",25.65,FAANG,"Microsoft, Netflix, Apple",42.17,1.0
+Tier3,Bangalore,Cloud Computing,6.0,2,100,2,"Docker, Azure, GCP",0,2,ServiceCompanies,"HCL, Cognizant, Infosys",6.55,ServiceCompanies,"Infosys, Accenture, Wipro",8.91,6.4
+Tier2,Delhi NCR,Full Stack Development,8.12,7,159,7,"SQL, AWS, React, JavaScript, Node.js",4,3,GrowingStartups,"Swiggy, Zomato, Razorpay",15.53,GrowingStartups,"Zoho, Zomato, Razorpay",24.37,2.0
+Tier3,Pune,Data Science,6.28,7,113,7,"SQL, Statistics, Tableau, R, Python",3,5,ServiceCompanies,"Accenture, Wipro, HCL",8.88,ServiceCompanies,"Infosys, Cognizant, Wipro",13.52,2.3
+Tier3,Hyderabad,Web Development,8.31,6,131,5,"Node.js, HTML/CSS, React, JavaScript",2,4,ServiceCompanies,"Accenture, Infosys, HCL",6.27,BankingFinance,"Goldman Sachs, HSBC, JPMorgan",9.47,3.8
+Tier3,Bangalore,AI/ML,6.0,3,100,2,"Deep Learning, PyTorch, SQL",0,3,ServiceCompanies,"HCL, Infosys, Cognizant",6.19,ServiceCompanies,"Accenture, Wipro",8.6,6.4
+Tier1_Private,Hyderabad,Cloud Computing,9.47,5,100,4,"Terraform, Kubernetes, Docker",1,5,GrowingStartups,"Zoho, Swiggy, Freshworks",11.6,GrowingStartups,"Freshworks, Razorpay, Swiggy",16.82,4.8
+Tier3,Delhi NCR,Cybersecurity,6.0,6,133,6,"Linux, Network Security, Cryptography, Ethical Hacking",5,3,ServiceCompanies,"Cognizant, HCL",7.32,ServiceCompanies,"Wipro, HCL",11.08,3.0
+Tier3,Mumbai,Data Science,6.0,6,106,5,"Tableau, SQL, Machine Learning, R",1,2,ServiceCompanies,"Wipro, Cognizant",8.9,ServiceCompanies,"Wipro, Accenture, Infosys",13.23,4.0
+Tier2,Pune,Web Development,6.0,3,100,4,"React, JavaScript, MongoDB",1,2,ServiceCompanies,"HCL, Infosys, TCS",6.79,ServiceCompanies,"TCS, Wipro",9.44,4.8
+Tier1_Private,Bangalore,DevOps,6.93,6,112,3,"Kubernetes, Jenkins, AWS",2,2,ServiceCompanies,"Infosys, Cognizant, HCL",9.45,ServiceCompanies,"Wipro, Infosys, Accenture",14.1,5.5
+Tier1_Private,Hyderabad,Data Science,7.44,8,158,7,"SQL, R, Statistics, Tableau, Machine Learning",2,3,BankingFinance,"Citibank, Barclays",14.67,BankingFinance,"Deutsche, HSBC, Citibank",23.44,2.0
+Tier2,Hyderabad,Cloud Computing,8.21,6,125,5,"Docker, GCP, Kubernetes, Terraform",3,2,ServiceCompanies,"Accenture, Wipro, TCS",5.41,ServiceCompanies,"TCS, Wipro, Cognizant",8.14,3.8
+Tier3,Bangalore,Cloud Computing,7.41,5,100,4,"Docker, Terraform, Kubernetes",0,6,ServiceCompanies,"Infosys, HCL, Wipro",6.91,ServiceCompanies,"TCS, Cognizant, Accenture",10.02,4.8
+Tier1_Private,Other,Web Development,6.36,3,100,3,"React, Node.js, HTML/CSS",2,3,ServiceCompanies,"HCL, Cognizant",5.51,ServiceCompanies,"HCL, Infosys",7.66,5.6
+Tier2,Chennai,Data Science,7.11,4,100,2,"Tableau, Python, Statistics",0,1,ServiceCompanies,"HCL, Infosys, Accenture",6.11,ServiceCompanies,"Accenture, Wipro",8.68,6.4
+Tier2,Other,AI/ML,8.14,8,173,6,"ML, PyTorch, Deep Learning, TensorFlow",2,6,ServiceCompanies,"Cognizant, TCS, Accenture",9.07,ServiceCompanies,"Infosys, Accenture, Wipro",14.63,2.7
+Tier3,Bangalore,Web Development,7.74,7,153,6,"MongoDB, HTML/CSS, JavaScript, React",3,3,ServiceCompanies,"HCL, Accenture",10.68,BankingFinance,"Deutsche, Goldman Sachs, Citibank",16.69,2.8
+Tier2,Mumbai,Cloud Computing,6.33,4,100,4,"GCP, Azure, Kubernetes",1,3,ServiceCompanies,"Cognizant, Infosys, HCL",9.72,ServiceCompanies,"TCS, HCL",13.8,4.8
+Tier2,Hyderabad,Cloud Computing,6.07,6,123,4,"Kubernetes, AWS, GCP",1,4,ServiceCompanies,"Infosys, Cognizant, TCS",5.9,ServiceCompanies,"HCL, Accenture",8.87,4.7
+Tier3,Other,Web Development,7.39,4,100,3,"Node.js, JavaScript, HTML/CSS",3,0,ServiceCompanies,"HCL, Infosys, Cognizant",5.12,ServiceCompanies,"Accenture, Wipro",7.27,5.6
+Tier3,Mumbai,Mobile App Development,6.0,7,114,6,"Swift, Java, Flutter, React Native",4,6,ServiceCompanies,"Wipro, Accenture, Infosys",5.72,ServiceCompanies,"TCS, Accenture, Cognizant",8.72,3.1
+Tier2,Chennai,Mobile App Development,7.36,7,118,4,"React Native, Flutter, Java",0,4,ServiceCompanies,"Infosys, Accenture",6.5,ServiceCompanies,"Wipro, Accenture",9.93,4.7
+Tier3,Bangalore,AI/ML,6.63,5,100,4,"ML, Python, Deep Learning",3,4,ServiceCompanies,"Cognizant, Accenture",8.32,ServiceCompanies,"HCL, Cognizant, Accenture",12.06,4.8
+Tier2,Mumbai,Cloud Computing,6.81,6,100,5,"Docker, Azure, Kubernetes, Terraform",2,2,ServiceCompanies,"Cognizant, Wipro, Accenture",9.1,ServiceCompanies,"HCL, TCS",13.47,4.0
+IIT,Delhi NCR,Web Development,6.42,6,101,7,"MongoDB, HTML/CSS, React, Node.js, JavaScript",4,5,ServiceCompanies,"Infosys, Accenture, Wipro",11.57,ServiceCompanies,"Cognizant, Wipro",17.14,2.4
+Tier3,Hyderabad,Full Stack Development,6.0,6,131,5,"React, AWS, Node.js, Python",1,5,ServiceCompanies,"Cognizant, Wipro",5.31,ServiceCompanies,"Infosys, Wipro, TCS",8.02,3.8
+Tier1_Private,Delhi NCR,UI/UX Design,9.49,6,114,6,"Sketch, User Research, Prototyping, Adobe XD",3,6,GrowingStartups,"Zoho, Postman, Swiggy",13.89,GrowingStartups,"Zoho, Swiggy",20.75,3.1
+Tier2,Pune,DevOps,8.41,6,121,7,"AWS, Python, Jenkins, Docker, Kubernetes",4,5,ServiceCompanies,"Wipro, Cognizant, HCL",9.15,ServiceCompanies,"HCL, Infosys, TCS",13.73,2.3
+Tier3,Bangalore,Web Development,7.5,8,164,7,"React, Node.js, MongoDB, HTML/CSS, JavaScript",3,4,ServiceCompanies,"Cognizant, Infosys, Wipro",10.09,ServiceCompanies,"Accenture, Wipro, TCS",16.18,1.9
+Tier3,Hyderabad,Quality Assurance,6.15,6,134,6,"Testing, JIRA, Python, SQL",2,0,ServiceCompanies,"TCS, HCL",7.31,ServiceCompanies,"HCL, Cognizant",11.07,3.0
+Tier2,Delhi NCR,Mobile App Development,6.66,6,120,3,"Kotlin, React Native, Java",1,5,ServiceCompanies,"Accenture, Wipro",8.18,ServiceCompanies,"Wipro, HCL",12.27,5.5
+Tier2,Bangalore,AI/ML,6.0,5,100,4,"Deep Learning, ML, Python",1,2,ServiceCompanies,"HCL, Infosys, Wipro",8.65,ServiceCompanies,"Cognizant, TCS, HCL",12.54,4.8
+Tier2,Other,Web Development,7.63,7,156,7,"JavaScript, MongoDB, React, Node.js, HTML/CSS",5,3,BankingFinance,"Barclays, Goldman Sachs, Deutsche",14.36,GrowingStartups,"Razorpay, Zomato, Postman",22.49,2.0
+Tier2,Hyderabad,Quality Assurance,9.33,9,211,8,"SQL, JIRA, Testing, Selenium, Python, Java",5,6,TopProduct,"Adobe, LinkedIn, Atlassian",22.53,TopProduct,"Adobe, Salesforce",37.87,1.0
+Tier3,Hyderabad,Web Development,9.28,9,178,8,"MongoDB, JavaScript, Node.js, HTML/CSS, React",2,2,TopProduct,"Nvidia, Atlassian, Adobe",20.28,TopProduct,"Nvidia, Atlassian, Adobe",33.42,1.0
+Tier3,Delhi NCR,DevOps,7.25,5,102,3,"Linux, AWS, Python",0,2,ServiceCompanies,"Infosys, HCL, TCS",7.1,ServiceCompanies,"Wipro, Accenture, Infosys",10.31,5.6
+Tier3,Bangalore,Cybersecurity,8.24,6,114,3,"Linux, Network Security, Cryptography",0,6,ServiceCompanies,"Accenture, Wipro",7.28,ServiceCompanies,"Infosys, Cognizant, HCL",10.88,5.5
+Tier3,Chennai,AI/ML,6.67,5,107,3,"Deep Learning, ML, SQL",0,4,ServiceCompanies,"TCS, Wipro",9.41,ServiceCompanies,"Wipro, Cognizant",13.71,5.6
+Tier3,Delhi NCR,AI/ML,6.0,5,100,3,"PyTorch, Python, ML",2,4,ServiceCompanies,"Cognizant, TCS",6.74,ServiceCompanies,"Wipro, TCS",9.77,5.6
+IIT,Chennai,Cloud Computing,8.84,7,152,5,"Docker, Kubernetes, Terraform, GCP",4,6,GrowingStartups,"Swiggy, Razorpay",18.97,GrowingStartups,"Freshworks, Postman, Razorpay",29.63,3.6
+Tier3,Pune,Cybersecurity,7.28,6,112,4,"Ethical Hacking, Linux, Network Security",1,5,ServiceCompanies,"Accenture, Infosys",9.32,ServiceCompanies,"HCL, Wipro, Infosys",13.91,4.7
+Tier3,Delhi NCR,Web Development,7.55,8,165,8,"HTML/CSS, MongoDB, JavaScript, React, Node.js",5,3,GrowingStartups,"Zomato, Swiggy, Razorpay",22.28,TopProduct,"Salesforce, Atlassian",35.76,1.1
+Tier3,Other,Data Science,6.38,8,146,7,"SQL, Tableau, Python, Statistics, Machine Learning",1,2,ServiceCompanies,"HCL, TCS",4.31,ServiceCompanies,"TCS, Infosys",6.84,2.1
+Tier2,Chennai,Cybersecurity,6.0,4,104,3,"Cryptography, Linux, Python",1,3,ServiceCompanies,"HCL, TCS",8.28,ServiceCompanies,"Cognizant, Infosys",11.79,5.6
+Tier3,Mumbai,Full Stack Development,6.0,4,102,3,"AWS, Node.js, React",1,3,ServiceCompanies,"Infosys, Wipro, HCL",6.46,ServiceCompanies,"Cognizant, Accenture, Infosys",9.19,5.6
+NIT,Other,DevOps,8.78,4,103,3,"Docker, Linux, Python",1,1,ServiceCompanies,"TCS, Accenture",7.95,ServiceCompanies,"Cognizant, TCS, HCL",11.31,5.6
+Tier3,Mumbai,Web Development,7.33,6,114,2,"React, HTML/CSS, MongoDB",2,4,ServiceCompanies,"Infosys, HCL",5.16,ServiceCompanies,"TCS, Wipro",7.71,6.3
+Tier3,Mumbai,Quality Assurance,6.29,3,100,4,"SQL, Python, JIRA",1,1,ServiceCompanies,"Cognizant, Infosys, Wipro",6.31,ServiceCompanies,"Infosys, TCS",8.77,4.8
+Tier2,Mumbai,Full Stack Development,7.68,6,100,4,"AWS, Node.js, SQL",1,4,ServiceCompanies,"Accenture, Wipro",6.01,ServiceCompanies,"HCL, Accenture, Cognizant",8.89,4.8
+Tier3,Bangalore,Data Science,6.52,6,104,5,"SQL, Statistics, Machine Learning, Tableau",0,4,ServiceCompanies,"TCS, Cognizant, HCL",7.51,ServiceCompanies,"Infosys, Accenture",11.14,4.0
+Tier2,Other,Mobile App Development,6.14,4,100,4,"Flutter, Java, Kotlin",4,0,ServiceCompanies,"TCS, Accenture, Cognizant",8.81,ServiceCompanies,"HCL, TCS, Accenture",12.51,4.8
+Tier2,Chennai,Full Stack Development,10.0,7,122,4,"Python, AWS, Node.js",1,3,ServiceCompanies,"Accenture, Cognizant, TCS",6.02,ServiceCompanies,"Cognizant, HCL",9.22,4.7
+Tier2,Delhi NCR,AI/ML,9.67,9,199,8,"Deep Learning, TensorFlow, Python, ML, PyTorch, SQL",3,6,GrowingStartups,"Zoho, Zomato, Razorpay",20.71,TopProduct,"Uber, Salesforce",34.56,1.0
+Tier1_Private,Bangalore,UI/UX Design,6.0,4,125,3,"Figma, Sketch, Adobe XD",1,0,ServiceCompanies,"Wipro, HCL",7.7,ServiceCompanies,"Infosys, Accenture, TCS",11.13,5.4
+Tier3,Bangalore,Mobile App Development,6.8,7,149,6,"React Native, Flutter, Java, Swift",4,3,ServiceCompanies,"Accenture, HCL, Infosys",7.78,ServiceCompanies,"Wipro, Cognizant",12.13,2.8
+Tier3,Hyderabad,Cybersecurity,7.77,5,101,4,"Cryptography, Linux, Ethical Hacking",4,1,ServiceCompanies,"HCL, Accenture, Wipro",6.55,ServiceCompanies,"Accenture, Cognizant, HCL",9.5,4.8
+Tier3,Bangalore,DevOps,6.03,4,100,2,"AWS, Docker, Python",0,3,ServiceCompanies,"TCS, Cognizant, Accenture",8.92,ServiceCompanies,"Cognizant, Infosys, Wipro",12.67,6.4
+Tier2,Bangalore,Data Science,7.97,7,143,6,"Tableau, Machine Learning, Statistics, Python",4,5,ServiceCompanies,"HCL, Cognizant, Infosys",8.1,BankingFinance,"HSBC, Goldman Sachs, JPMorgan",12.58,2.9
+Tier2,Chennai,Full Stack Development,7.5,7,151,6,"SQL, Node.js, AWS, JavaScript",3,6,GrowingStartups,"Postman, Razorpay, Zomato",20.45,GrowingStartups,"Zomato, Zoho",31.92,2.8
+Tier2,Bangalore,Full Stack Development,6.92,5,100,3,"Node.js, AWS, JavaScript",1,0,ServiceCompanies,"Accenture, Infosys",5.34,ServiceCompanies,"Cognizant, Wipro",7.74,5.6
+Tier2,Chennai,Cybersecurity,7.39,4,100,4,"Python, Cryptography, Network Security",4,1,ServiceCompanies,"Infosys, Wipro, TCS",7.8,ServiceCompanies,"Infosys, Wipro, Cognizant",11.08,4.8
+Tier3,Chennai,Full Stack Development,6.6,8,182,7,"JavaScript, Python, SQL, AWS, Node.js",3,2,ServiceCompanies,"HCL, Infosys",5.91,ServiceCompanies,"Infosys, Wipro, TCS",9.59,1.8
+Tier3,Mumbai,AI/ML,7.38,4,100,4,"PyTorch, ML, Deep Learning",4,2,ServiceCompanies,"Infosys, Cognizant",6.06,ServiceCompanies,"TCS, Wipro",8.61,4.8
+Tier2,Bangalore,AI/ML,7.46,7,169,5,"PyTorch, Python, ML, SQL",2,5,BankingFinance,"JPMorgan, Deutsche, Citibank",16.41,BankingFinance,"Barclays, Goldman Sachs",25.91,3.5
+Tier1_Private,Hyderabad,Web Development,6.54,6,123,4,"MongoDB, React, HTML/CSS",0,4,GrowingStartups,"Zomato, Zoho, Postman",11.57,GrowingStartups,"Postman, Freshworks",17.39,4.7
+Tier1_Private,Bangalore,AI/ML,6.08,7,146,5,"PyTorch, Python, ML, TensorFlow",2,1,ServiceCompanies,"HCL, TCS, Accenture",10.47,ServiceCompanies,"TCS, Accenture",16.29,3.7
+Tier2,Mumbai,Web Development,7.83,8,131,7,"HTML/CSS, React, MongoDB, Node.js, JavaScript",0,2,BankingFinance,"Goldman Sachs, JPMorgan",13.87,BankingFinance,"Deutsche, Citibank",21.79,2.2
+Tier2,Pune,Mobile App Development,10.0,8,182,6,"Swift, React Native, Java, Kotlin",2,6,ServiceCompanies,"TCS, HCL",8.99,BankingFinance,"Barclays, HSBC, Citibank",14.58,2.6
+Tier1_Private,Delhi NCR,UI/UX Design,7.42,7,136,7,"Sketch, Adobe XD, User Research, Figma, Prototyping",2,5,ServiceCompanies,"Infosys, Cognizant, Wipro",12.07,BankingFinance,"Goldman Sachs, Citibank",18.66,2.2
+Tier1_Private,Chennai,Quality Assurance,7.66,4,100,3,"Selenium, SQL, Python",4,1,ServiceCompanies,"HCL, Infosys, Accenture",7.44,ServiceCompanies,"Infosys, Wipro, Accenture",10.56,5.6
+NIT,Bangalore,Full Stack Development,6.88,7,123,5,"Python, React, AWS, Node.js",1,6,ServiceCompanies,"Cognizant, Wipro, TCS",11.74,ServiceCompanies,"Infosys, Wipro, TCS",18.0,3.9
+Tier1_Private,Other,Cybersecurity,6.56,5,123,4,"Network Security, Ethical Hacking, Python",0,1,ServiceCompanies,"TCS, Infosys",5.08,ServiceCompanies,"Cognizant, HCL",7.48,4.7
+Tier3,Chennai,Data Science,8.87,7,133,5,"Machine Learning, R, SQL, Python",5,3,ServiceCompanies,"TCS, Infosys, Wipro",5.01,BankingFinance,"Citibank, JPMorgan",7.73,3.8
+Tier2,Mumbai,Mobile App Development,6.0,8,165,6,"Swift, Flutter, Java, Kotlin",5,5,ServiceCompanies,"Infosys, HCL, Accenture",10.64,ServiceCompanies,"Accenture, TCS, HCL",17.08,2.7
+Tier3,Bangalore,Cloud Computing,6.91,8,145,7,"Azure, Kubernetes, Terraform, Docker, GCP",3,6,ServiceCompanies,"Wipro, TCS",5.94,ServiceCompanies,"Accenture, Cognizant",9.41,2.1
+Tier3,Delhi NCR,AI/ML,6.34,4,100,5,"Python, PyTorch, ML, TensorFlow",1,1,ServiceCompanies,"HCL, Infosys",7.75,ServiceCompanies,"Accenture, Infosys",11.0,4.0
+Tier2,Bangalore,Web Development,6.85,4,100,2,"JavaScript, Node.js, HTML/CSS",1,4,ServiceCompanies,"HCL, TCS, Accenture",8.12,ServiceCompanies,"HCL, Infosys",11.53,6.4
+Tier2,Mumbai,Web Development,6.93,5,100,5,"MongoDB, HTML/CSS, React, JavaScript",3,2,ServiceCompanies,"TCS, Infosys, Accenture",5.04,ServiceCompanies,"Cognizant, Wipro, TCS",7.31,4.0
+NIT,Pune,Cloud Computing,7.82,4,100,3,"Terraform, GCP, Azure",1,0,ServiceCompanies,"Infosys, Wipro",9.71,ServiceCompanies,"HCL, Cognizant",13.79,5.6
+Tier2,Delhi NCR,Cloud Computing,6.28,6,106,5,"Azure, Kubernetes, Docker, GCP",1,5,ServiceCompanies,"Wipro, Cognizant",7.08,ServiceCompanies,"Accenture, Infosys",10.52,4.0
+Tier2,Bangalore,DevOps,6.0,3,100,1,"Jenkins, Docker, Python",1,1,ServiceCompanies,"Cognizant, Accenture, Wipro",9.91,ServiceCompanies,"TCS, Accenture",13.77,7.2
+Tier3,Bangalore,UI/UX Design,6.0,4,100,3,"Adobe XD, Prototyping, Sketch",0,3,ServiceCompanies,"HCL, Cognizant, Wipro",5.19,ServiceCompanies,"TCS, Cognizant",7.37,5.6
+Tier2,Chennai,Cloud Computing,6.27,4,100,4,"GCP, Docker, Azure",3,1,ServiceCompanies,"Cognizant, HCL",5.09,ServiceCompanies,"Accenture, Wipro",7.23,4.8
+Tier3,Hyderabad,Full Stack Development,7.75,7,133,4,"React, JavaScript, AWS",1,3,BankingFinance,"Citibank, JPMorgan",10.01,BankingFinance,"Goldman Sachs, HSBC",15.45,4.6
+Tier1_Private,Hyderabad,Full Stack Development,6.24,4,100,3,"Node.js, React, Python",1,0,ServiceCompanies,"TCS, Infosys, Accenture",9.74,ServiceCompanies,"Infosys, HCL, Accenture",13.83,5.6
+Tier2,Chennai,Cybersecurity,9.15,10,226,9,"Cryptography, Ethical Hacking, Network Security, Python, Linux",5,6,GrowingStartups,"Freshworks, Zomato",21.24,GrowingStartups,"Zoho, Razorpay, Swiggy",36.66,1.0
+Tier3,Bangalore,DevOps,6.0,4,100,2,"Docker, Jenkins, Kubernetes",0,2,ServiceCompanies,"TCS, Infosys, HCL",8.15,ServiceCompanies,"Wipro, Infosys, Accenture",11.57,6.4
+Tier2,Bangalore,Cloud Computing,6.86,5,100,5,"Docker, Terraform, GCP, Kubernetes",1,2,ServiceCompanies,"Wipro, Cognizant, TCS",8.58,ServiceCompanies,"Cognizant, Wipro",12.44,4.0
+Tier2,Mumbai,Quality Assurance,8.66,6,133,5,"Testing, SQL, Python, JIRA",2,0,ServiceCompanies,"Wipro, Accenture",6.33,BankingFinance,"HSBC, Barclays, JPMorgan",9.58,3.8
+Tier2,Other,Web Development,6.26,5,100,4,"HTML/CSS, JavaScript, React",0,1,ServiceCompanies,"TCS, HCL",6.53,ServiceCompanies,"HCL, Infosys, Wipro",9.47,4.8
+Tier3,Bangalore,Full Stack Development,6.93,6,111,6,"JavaScript, AWS, SQL, Node.js",2,3,ServiceCompanies,"Cognizant, Accenture, Infosys",8.6,ServiceCompanies,"HCL, Infosys",12.82,3.2
+Tier1_Private,Hyderabad,Web Development,7.45,6,138,5,"JavaScript, Node.js, React, MongoDB",2,1,ServiceCompanies,"Wipro, HCL, Cognizant",5.72,ServiceCompanies,"Accenture, Cognizant, HCL",8.68,3.7
+Tier2,Hyderabad,Full Stack Development,6.0,5,108,4,"Node.js, React, Python",2,5,ServiceCompanies,"HCL, Infosys",5.69,ServiceCompanies,"Infosys, HCL, Cognizant",8.3,4.8
+Tier2,Chennai,Web Development,7.23,5,100,3,"React, Node.js, HTML/CSS",3,2,ServiceCompanies,"Accenture, Cognizant",9.86,ServiceCompanies,"HCL, Infosys",14.3,5.6
+Tier3,Bangalore,Web Development,7.04,4,100,2,"MongoDB, JavaScript, React",1,0,ServiceCompanies,"TCS, HCL",8.39,ServiceCompanies,"TCS, Cognizant, HCL",11.91,6.4
+Tier2,Chennai,DevOps,8.22,10,187,9,"Python, Linux, Kubernetes, Docker, AWS, Jenkins",4,6,TopProduct,"Uber, LinkedIn",17.31,TopProduct,"Salesforce, LinkedIn",29.2,1.0
+Tier2,Bangalore,Cybersecurity,8.14,8,141,5,"Python, Ethical Hacking, Cryptography, Network Security",2,6,ServiceCompanies,"HCL, Cognizant",8.21,ServiceCompanies,"Accenture, Infosys, Cognizant",12.98,3.7
+IIT,Chennai,Data Science,6.49,3,100,5,"Machine Learning, Python, SQL, Statistics",1,3,ServiceCompanies,"HCL, Infosys, TCS",8.66,ServiceCompanies,"TCS, Accenture",12.04,4.0
+Tier3,Mumbai,Full Stack Development,6.76,7,126,6,"JavaScript, Python, AWS, React",4,1,ServiceCompanies,"TCS, Cognizant",8.82,ServiceCompanies,"Infosys, Wipro, TCS",13.55,3.0
+Tier2,Hyderabad,Mobile App Development,6.43,5,111,4,"Kotlin, Java, Swift",3,0,ServiceCompanies,"HCL, Infosys, Cognizant",7.04,ServiceCompanies,"HCL, TCS, Wipro",10.29,4.8
+Tier2,Mumbai,Data Science,6.0,4,100,3,"SQL, Tableau, Machine Learning",4,2,ServiceCompanies,"TCS, Cognizant",8.47,ServiceCompanies,"Cognizant, Accenture, Infosys",12.03,5.6
+Tier2,Pune,Web Development,6.9,3,100,2,"MongoDB, HTML/CSS, JavaScript",0,1,ServiceCompanies,"Accenture, TCS",7.94,ServiceCompanies,"Cognizant, Infosys",11.04,6.4
+Tier2,Chennai,DevOps,6.0,4,100,3,"Jenkins, Kubernetes, Docker",0,0,ServiceCompanies,"TCS, Wipro",5.93,ServiceCompanies,"HCL, TCS, Infosys",8.42,5.6
+Tier3,Bangalore,DevOps,6.53,8,139,8,"Linux, Docker, Python, Kubernetes, AWS, Jenkins",5,2,ServiceCompanies,"Infosys, Wipro",7.42,ServiceCompanies,"HCL, Wipro, Cognizant",11.72,1.3
+Tier2,Pune,AI/ML,7.7,7,134,5,"TensorFlow, Deep Learning, ML, SQL",1,6,BankingFinance,"Goldman Sachs, JPMorgan",16.0,BankingFinance,"HSBC, JPMorgan, Goldman Sachs",24.7,3.8
+Tier1_Private,Other,Full Stack Development,6.4,4,100,3,"JavaScript, Node.js, React",1,5,GrowingStartups,"Postman, Swiggy, Razorpay",10.8,GrowingStartups,"Freshworks, Swiggy, Zoho",15.34,5.6
+Tier1_Private,Bangalore,Quality Assurance,6.08,3,100,4,"Selenium, SQL, Java",0,1,ServiceCompanies,"HCL, Cognizant, Accenture",8.57,ServiceCompanies,"TCS, HCL, Cognizant",11.91,4.8
+Tier1_Private,Pune,Full Stack Development,7.19,9,175,8,"SQL, AWS, React, Python, Node.js, JavaScript",5,6,FAANG,"Microsoft, Meta, Amazon",25.29,FAANG,"Apple, Meta, Google",41.6,1.0
+Tier3,Other,DevOps,6.76,4,100,3,"AWS, Python, Kubernetes",0,0,ServiceCompanies,"Wipro, Infosys",8.54,ServiceCompanies,"HCL, Wipro",12.13,5.6
+Tier3,Pune,Web Development,6.0,4,100,3,"React, JavaScript, MongoDB",0,2,ServiceCompanies,"Accenture, HCL",5.81,ServiceCompanies,"Wipro, Cognizant, Infosys",8.25,5.6
+Tier3,Bangalore,Cybersecurity,7.14,6,120,7,"Python, Ethical Hacking, Network Security, Linux, Cryptography",4,4,ServiceCompanies,"HCL, Wipro, TCS",6.64,ServiceCompanies,"HCL, Cognizant",9.96,2.3
+Tier3,Bangalore,Mobile App Development,6.95,8,161,7,"Kotlin, Java, Swift, React Native, Flutter",2,1,ServiceCompanies,"HCL, Accenture, Wipro",6.38,ServiceCompanies,"Wipro, Accenture",10.21,2.0
