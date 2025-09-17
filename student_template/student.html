@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Success Predictor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* --- General Setup & Variables --- */
+        :root {
+            --primary-color: #6a11cb;
+            --secondary-color: #2575fc;
+            --text-color: #e0e0e0;
+            --bg-color: #121212;
+            --card-bg: rgba(255, 255, 255, 0.08);
+            --border-color: rgba(255, 255, 255, 0.2);
+            --shadow-color: rgba(31, 38, 135, 0.37);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, var(--bg-color), #1a1a2e);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        /* --- Main Container & Header --- */
+        .container { width: 100%; max-width: 900px; }
+        header { text-align: center; margin-bottom: 2rem; }
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        /* --- Glassmorphism Card Style --- */
+        .predictor-form, .results-section {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+            padding: 2.5rem;
+            box-shadow: 0 8px 32px 0 var(--shadow-color);
+            transition: all 0.3s ease;
+        }
+        /* --- Form Grid & Group Styling --- */
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .form-group { display: flex; flex-direction: column; }
+        .form-group label { font-weight: 600; margin-bottom: 0.75rem; font-size: 0.9rem; }
+        input, select {
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 0.75rem 1rem;
+            color: var(--text-color);
+            font-family: 'Poppins', sans-serif;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+        input:focus, select:focus {
+            outline: none;
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 3px rgba(37, 117, 252, 0.5);
+        }
+        /* --- Advanced Range Slider Styling --- */
+        .slider-group { position: relative; }
+        .slider-value {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: var(--secondary-color);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+        input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 8px; background: rgba(0, 0, 0, 0.5); border-radius: 5px; padding: 0; }
+        input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 20px; height: 20px; background: var(--secondary-color); border-radius: 50%; cursor: pointer; border: 3px solid var(--bg-color); transition: background 0.3s ease; }
+        input[type="range"]::-webkit-slider-thumb:hover { background: var(--primary-color); }
+        /* --- Button Styling --- */
+        button {
+            width: 100%;
+            padding: 1rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+            background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        button:hover { transform: translateY(-3px); box-shadow: 0 10px 20px -10px var(--shadow-color); }
+        button:disabled { background: #555; cursor: not-allowed; }
+        /* --- Results Section Styling --- */
+        .results-section { margin-top: 2rem; opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease, transform 0.5s ease; }
+        .results-section.visible { opacity: 1; transform: translateY(0); }
+        .hidden { display: none; }
+        .results-section h2 { text-align: center; margin-bottom: 2rem; }
+        .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; }
+        .result-card { background: var(--card-bg); border-left: 5px solid var(--secondary-color); padding: 1.5rem; border-radius: 10px; text-align: center; }
+        .result-card h3 { margin-bottom: 0.5rem; font-size: 1rem; color: #aaa; }
+        .result-card p { font-size: 1.5rem; font-weight: 600; }
+        .result-card p span { font-size: 2.2rem; font-weight: 700; color: #fff; }
+
+        /* --- Footer Styling --- */
+    .page-footer {
+        text-align: center;
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid var(--border-color);
+        color: var(--text-color-muted);
+        font-size: 1.1rem;
+    }  
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Placement Success Predictor 🚀</h1>
+            <p>Enter your academic and skill profile to predict your placement outcomes.</p>
+        </header>
+
+        <main>
+            <form id="placementForm" class="predictor-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="gpa">GPA (out of 10)</label>
+                        <input type="number" id="gpa" min="1" max="10" step="0.1" placeholder="e.g., 8.5" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="collegeTier">College Tier</label>
+                        <select id="collegeTier" required>
+                            <option value="IIT">IIT</option>
+                            <option value="NIT">NIT</option>
+                            <option value="Tier1_Private">Tier 1 - Private</option>
+                            <option value="Tier2">Tier 2</option>
+                            <option value="Tier3">Tier 3</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group slider-group">
+                        <label for="problemSolving">Problem Solving (1-10)</label>
+                        <input type="range" id="problemSolving" min="1" max="10" value="5" required>
+                        <span class="slider-value" id="problemSolvingValue">5</span>
+                    </div>
+                    
+                    <div class="form-group slider-group">
+                        <label for="programmingSkill">Programming Skill (1-10)</label>
+                        <input type="range" id="programmingSkill" min="1" max="10" value="5" required>
+                        <span class="slider-value" id="programmingSkillValue">5</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="leetcodeScore">LeetCode Score</label>
+                        <input type="number" id="leetcodeScore" min="0" max="400" placeholder="e.g., 180" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="projectCount">Project Count</label>
+                        <input type="number" id="projectCount" min="0" max="10" placeholder="e.g., 3" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="internshipMonths">Internship (Months)</label>
+                        <input type="number" id="internshipMonths" min="0" max="24" placeholder="e.g., 6" required>
+                    </div>
+                </div>
+                <button type="submit" id="predictBtn">Predict Placement</button>
+            </form>
+
+            <section id="resultsSection" class="results-section hidden">
+                <h2>Prediction Results</h2>
+                <div class="results-grid">
+                    <div class="result-card">
+                        <h3>Current Salary</h3>
+                        <p><span id="currentSalary">--</span> LPA</p>
+                    </div>
+                    <div class="result-card">
+                        <h3>Expected Salary</h3>
+                        <p><span id="expectedSalary">--</span> LPA</p>
+                    </div>
+                    <div class="result-card">
+                        <h3>Potential Companies</h3>
+                        <p id="currentCompanies">--</p>
+                    </div>
+                    <div class="result-card">
+                        <h3>Expected Companies</h3>
+                        <p id="expectedCompanies">--</p>
+                    </div>
+                    <div class="result-card">
+                        <h3>Daily Upskilling</h3>
+                        <p><span id="extraHours">--</span> hours/day</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p class="page-footer">Rahul Cheedella | 2025</p>
+        </footer>
+    </div>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const form = document.getElementById('placementForm');
+        const predictBtn = document.getElementById('predictBtn');
+        const resultsSection = document.getElementById('resultsSection');
+
+        // --- Update slider value displays in real-time ---
+        const sliders = [
+            { input: 'problemSolving', output: 'problemSolvingValue' },
+            { input: 'programmingSkill', output: 'programmingSkillValue' },
+        ];
+
+        sliders.forEach(slider => {
+            const sliderInput = document.getElementById(slider.input);
+            const sliderOutput = document.getElementById(slider.output);
+            sliderInput.addEventListener('input', () => {
+                sliderOutput.textContent = sliderInput.value;
+            });
+        });
+
+        // --- Handle form submission ---
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            // Collect form data
+            const inputFeatures = {
+                gpa: parseFloat(document.getElementById('gpa').value),
+                college_tier: document.getElementById('collegeTier').value,
+                problem_solving_skill: parseInt(document.getElementById('problemSolving').value),
+                programming_skill: parseInt(document.getElementById('programmingSkill').value),
+                leetcode_score: parseInt(document.getElementById('leetcodeScore').value),
+                project_count: parseInt(document.getElementById('projectCount').value),
+                internship_months: parseInt(document.getElementById('internshipMonths').value)
+            };
+            
+            predictBtn.textContent = 'Predicting...';
+            predictBtn.disabled = true;
+
+            // --- Make a REAL API call to the Flask backend ---
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(inputFeatures)
+            })
+            .then(response => response.json())
+            .then(prediction => {
+                if (prediction.error) {
+                    alert('An error occurred: ' + prediction.error);
+                } else {
+                    displayResults(prediction);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to connect to the prediction server. Please ensure the backend is running.');
+            })
+            .finally(() => {
+                // Re-enable the button after the request is complete
+                predictBtn.textContent = 'Predict Placement';
+                predictBtn.disabled = false;
+            });
+        });
+
+        // --- Display the prediction results on the page ---
+        function displayResults(prediction) {
+            document.getElementById('currentSalary').textContent = prediction.current_Salary;
+            document.getElementById('expectedSalary').textContent = prediction.expected_Salary;
+            document.getElementById('currentCompanies').textContent = prediction.current_Companies;
+            document.getElementById('expectedCompanies').textContent = prediction.expected_Companies;
+            document.getElementById('extraHours').textContent = prediction.Extra_Time_Required;
+
+            resultsSection.classList.remove('hidden');
+            resultsSection.classList.add('visible');
+        }
+    });
+</script>
+</body>
+</html>
